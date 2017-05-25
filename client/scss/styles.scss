@@ -17,6 +17,10 @@ $navbar-default-toggle-hover-bg: $brand-primary !default;
 $navbar-default-toggle-icon-bar-bg: white !default;
 $navbar-default-toggle-border-color: $brand-primary !default;
 
+//Panels
+$panel-default-heading-bg: $brand-primary;
+$panel-default-border: $brand-primary;
+
 @import '{reywood:bootstrap3-sass}/bootstrap';
 
 .nav, .pagination, .carousel, .panel-title a {
@@ -25,4 +29,8 @@ $navbar-default-toggle-border-color: $brand-primary !default;
 
 .navbar-brand {
   padding: 0;
+}
+
+.panel-default > .panel-heading {
+  color: white;
 }

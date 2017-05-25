@@ -29,9 +29,19 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/touristic-information',
             templateUrl: 'client/views/pages/touristic-information.html'
         })
+        //public transportation
         .state('public-transportation', {
             url: '/public-transportation',
             templateUrl: 'client/views/pages/publicTransportation/index.html'
+        })
+        //restaurants
+        .state('restaurants', {
+            url: '/restaurants',
+            templateUrl: 'client/views/pages/restaurants/index.html'
+        })
+        .state('high-gastronomy', {
+            url: '/restaurants/high-gastronomy',
+            templateUrl: 'client/views/pages/restaurants/highGastronomy.html'
         });
 
 }
