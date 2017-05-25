@@ -22,3 +22,7 @@ $navbar-default-toggle-border-color: $brand-primary !default;
 .nav, .pagination, .carousel, .panel-title a {
   cursor: pointer;
 }
+
+.navbar-brand {
+  padding: 0;
+}
