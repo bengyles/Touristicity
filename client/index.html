@@ -1,0 +1,12 @@
+<head>
+    <base href="/">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body ng-app="touristicity" ng-strict-di="">
+<ng-include src="'client/partials/template/menu.html'"></ng-include>
+<div class="container" ng-controller="ApplicationCtrl">
+    <div ui-view=""></div>
+</div>
+</body>
