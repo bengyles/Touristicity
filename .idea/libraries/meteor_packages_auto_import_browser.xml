@@ -2,6 +2,7 @@
   <library name="meteor-packages-auto-import-browser" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/angularui_angular-ui-bootstrap/0.13.0/web.browser/packages/angularui_angular-ui-bootstrap.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.1.9/web.browser/multi-file-caching-compiler.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.1.9/web.browser/caching-compiler.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.10/web.browser/tojs.js" />
@@ -136,6 +137,7 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/events.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.10/web.browser/base64.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/preamble.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/fortawesome_fontawesome/4.7.0/web.browser/upstream/css/font-awesome.css" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/domrange.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/min-max-heap.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/max-heap.js" />
@@ -143,6 +145,7 @@
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/angularui_angular-ui-bootstrap/0.13.0/web.browser/packages/angularui_angular-ui-bootstrap.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.1.9/web.browser/multi-file-caching-compiler.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/caching-compiler/1.1.9/web.browser/caching-compiler.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze-tools/1.0.10/web.browser/tojs.js" />
@@ -277,6 +280,7 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/events.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/base64/1.0.10/web.browser/base64.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/preamble.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/fortawesome_fontawesome/4.7.0/web.browser/upstream/css/font-awesome.css" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/blaze/2.3.2/web.browser/domrange.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/min-max-heap.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/binary-heap/1.0.10/web.browser/max-heap.js" />

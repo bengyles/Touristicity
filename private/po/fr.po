@@ -1,17 +1,95 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"X-Generator: Poedit 2.0.1\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language-Team: \n"
 "Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: client/views/pages/touristic-information.html:24
+#: client/views/pages/touristic-information.html:26
+msgid "Curiosities"
+msgstr "Les curiosités"
+
+#: client/views/pages/restaurants/index.html:35
+msgid "Fast food restaurants/ Delivery"
+msgstr "Restauration rapide / livraisons"
+
+#: client/views/pages/touristic-information.html:51
+#: client/views/pages/touristic-information.html:53
+msgid "For the kids"
+msgstr "Pour les Enfants"
+
+#: client/views/pages/touristic-information.html:69
+#: client/views/pages/touristic-information.html:71
+msgid "Golf resort"
+msgstr "Station Golfique"
+
+#: client/views/pages/touristic-information.html:42
+#: client/views/pages/touristic-information.html:44
+msgid "Green tourism"
+msgstr "Le tourisme vert"
+
+#: client/views/pages/restaurants/highGastronomy.html:1
+#: client/views/pages/restaurants/index.html:8
+msgid "High gastronomy"
+msgstr "Haute Gastronomie"
+
+#: client/views/pages/restaurants/index.html:44
+msgid "International cuisine"
+msgstr "Cuisine du Monde"
+
+#: client/views/pages/restaurants/highGastronomy.html:7
+msgid "Modern, creative cuisine"
+msgstr "Cuisine Moderne, Créative"
+
+#: client/views/pages/touristic-information.html:33
+#: client/views/pages/touristic-information.html:35
+msgid "Museums"
+msgstr "Les musées"
+
+#: client/views/pages/touristic-information.html:78
+#: client/views/pages/touristic-information.html:80
+msgid "Other activities"
+msgstr "Autres activités"
+
+#: client/views/pages/touristic-information.html:6
+#: client/views/pages/touristic-information.html:8
+msgid "Public transport"
+msgstr "Transports en commun"
+
+#: client/views/pages/restaurants/index.html:17
+msgid "Sea products"
+msgstr "Produits de la mer"
+
+#: client/views/pages/restaurants/index.html:26
+msgid "Tapas"
+msgstr "Tapas"
+
+#: client/views/pages/touristic-information.html:15
+#: client/views/pages/touristic-information.html:17
+msgid "The restaurants"
+msgstr "Les restaurants"
+
+#: client/views/pages/touristic-information.html:87
+#: client/views/pages/touristic-information.html:89
+msgid "To see – To discover"
+msgstr "A voir – A Dévouvrir"
 
 #: client/views/pages/touristic-information.html:1
-msgid "test"
-msgstr "testue"
+msgid "Touristic information"
+msgstr "Information touristique"
+
+#: client/views/pages/touristic-information.html:60
+#: client/views/pages/touristic-information.html:62
+msgid "Water activities"
+msgstr "Les activités nautiques"
+
+#~ msgid "test"
+#~ msgstr "testue"

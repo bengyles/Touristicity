@@ -1,7 +1,6 @@
 import angular from 'angular';
 import angularMeteor from 'angular-meteor';
 import uiRouter from 'angular-ui-router';
-import {angularGetText} from 'angular-gettext';
 
 angular.module('touristicity', [
     angularMeteor,
@@ -13,6 +12,10 @@ angular.module('touristicity', [
         'ngInject';
         gettextCatalog.setCurrentLanguage('fr');
         gettextCatalog.debug = true;
+
+        $scope.changeLanguage = function (lang) {
+            gettextCatalog.setCurrentLanguage(lang);
+        };
     })
 
     .config(config);

@@ -4,6 +4,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 
+#: client/views/pages/touristic-information.html:24
+#: client/views/pages/touristic-information.html:26
+msgid "Curiosities"
+msgstr ""
+
+#: client/views/pages/restaurants/index.html:35
+msgid "Fast food restaurants/ Delivery"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:51
+#: client/views/pages/touristic-information.html:53
+msgid "For the kids"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:69
+#: client/views/pages/touristic-information.html:71
+msgid "Golf resort"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:42
+#: client/views/pages/touristic-information.html:44
+msgid "Green tourism"
+msgstr ""
+
+#: client/views/pages/restaurants/highGastronomy.html:1
+#: client/views/pages/restaurants/index.html:8
+msgid "High gastronomy"
+msgstr ""
+
+#: client/views/pages/restaurants/index.html:44
+msgid "International cuisine"
+msgstr ""
+
+#: client/views/pages/restaurants/highGastronomy.html:20
+#: client/views/pages/restaurants/highGastronomy.html:7
+msgid "Modern, creative cuisine"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:33
+#: client/views/pages/touristic-information.html:35
+msgid "Museums"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:78
+#: client/views/pages/touristic-information.html:80
+msgid "Other activities"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:6
+#: client/views/pages/touristic-information.html:8
+msgid "Public transport"
+msgstr ""
+
+#: client/views/pages/restaurants/index.html:17
+msgid "Sea products"
+msgstr ""
+
+#: client/views/pages/restaurants/index.html:26
+msgid "Tapas"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:15
+#: client/views/pages/touristic-information.html:17
+msgid "The restaurants"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:87
+#: client/views/pages/touristic-information.html:89
+msgid "To see – To discover"
+msgstr ""
+
 #: client/views/pages/touristic-information.html:1
-msgid "test"
+msgid "Touristic information"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:60
+#: client/views/pages/touristic-information.html:62
+msgid "Water activities"
 msgstr ""
