@@ -12,8 +12,8 @@ msgstr ""
 "X-Generator: Poedit 2.0.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: client/views/pages/touristic-information.html:24
-#: client/views/pages/touristic-information.html:26
+#: client/views/pages/touristic-information.html:33
+#: client/views/pages/touristic-information.html:35
 msgid "Curiosities"
 msgstr "Les curiosités"
 
@@ -21,18 +21,18 @@ msgstr "Les curiosités"
 msgid "Fast food restaurants/ Delivery"
 msgstr "Restauration rapide / livraisons"
 
-#: client/views/pages/touristic-information.html:51
-#: client/views/pages/touristic-information.html:53
+#: client/views/pages/touristic-information.html:60
+#: client/views/pages/touristic-information.html:62
 msgid "For the kids"
 msgstr "Pour les Enfants"
 
-#: client/views/pages/touristic-information.html:69
-#: client/views/pages/touristic-information.html:71
+#: client/views/pages/touristic-information.html:78
+#: client/views/pages/touristic-information.html:80
 msgid "Golf resort"
 msgstr "Station Golfique"
 
-#: client/views/pages/touristic-information.html:42
-#: client/views/pages/touristic-information.html:44
+#: client/views/pages/touristic-information.html:51
+#: client/views/pages/touristic-information.html:53
 msgid "Green tourism"
 msgstr "Le tourisme vert"
 
@@ -45,17 +45,18 @@ msgstr "Haute Gastronomie"
 msgid "International cuisine"
 msgstr "Cuisine du Monde"
 
+#: client/views/pages/restaurants/highGastronomy.html:20
 #: client/views/pages/restaurants/highGastronomy.html:7
 msgid "Modern, creative cuisine"
 msgstr "Cuisine Moderne, Créative"
 
-#: client/views/pages/touristic-information.html:33
-#: client/views/pages/touristic-information.html:35
+#: client/views/pages/touristic-information.html:42
+#: client/views/pages/touristic-information.html:44
 msgid "Museums"
 msgstr "Les musées"
 
-#: client/views/pages/touristic-information.html:78
-#: client/views/pages/touristic-information.html:80
+#: client/views/pages/touristic-information.html:87
+#: client/views/pages/touristic-information.html:89
 msgid "Other activities"
 msgstr "Autres activités"
 
@@ -72,13 +73,13 @@ msgstr "Produits de la mer"
 msgid "Tapas"
 msgstr "Tapas"
 
-#: client/views/pages/touristic-information.html:15
-#: client/views/pages/touristic-information.html:17
+#: client/views/pages/touristic-information.html:24
+#: client/views/pages/touristic-information.html:26
 msgid "The restaurants"
 msgstr "Les restaurants"
 
-#: client/views/pages/touristic-information.html:87
-#: client/views/pages/touristic-information.html:89
+#: client/views/pages/touristic-information.html:96
+#: client/views/pages/touristic-information.html:98
 msgid "To see – To discover"
 msgstr "A voir – A Dévouvrir"
 
@@ -86,8 +87,13 @@ msgstr "A voir – A Dévouvrir"
 msgid "Touristic information"
 msgstr "Information touristique"
 
-#: client/views/pages/touristic-information.html:60
-#: client/views/pages/touristic-information.html:62
+#: client/views/pages/touristic-information.html:15
+#: client/views/pages/touristic-information.html:17
+msgid "Vehicle rental"
+msgstr "Location de véhicules"
+
+#: client/views/pages/touristic-information.html:69
+#: client/views/pages/touristic-information.html:71
 msgid "Water activities"
 msgstr "Les activités nautiques"
 

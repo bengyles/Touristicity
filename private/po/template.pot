@@ -4,8 +4,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 
-#: client/views/pages/touristic-information.html:24
-#: client/views/pages/touristic-information.html:26
+#: client/views/pages/touristic-information.html:33
+#: client/views/pages/touristic-information.html:35
 msgid "Curiosities"
 msgstr ""
 
@@ -13,18 +13,18 @@ msgstr ""
 msgid "Fast food restaurants/ Delivery"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:51
-#: client/views/pages/touristic-information.html:53
+#: client/views/pages/touristic-information.html:60
+#: client/views/pages/touristic-information.html:62
 msgid "For the kids"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:69
-#: client/views/pages/touristic-information.html:71
+#: client/views/pages/touristic-information.html:78
+#: client/views/pages/touristic-information.html:80
 msgid "Golf resort"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:42
-#: client/views/pages/touristic-information.html:44
+#: client/views/pages/touristic-information.html:51
+#: client/views/pages/touristic-information.html:53
 msgid "Green tourism"
 msgstr ""
 
@@ -42,13 +42,13 @@ msgstr ""
 msgid "Modern, creative cuisine"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:33
-#: client/views/pages/touristic-information.html:35
+#: client/views/pages/touristic-information.html:42
+#: client/views/pages/touristic-information.html:44
 msgid "Museums"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:78
-#: client/views/pages/touristic-information.html:80
+#: client/views/pages/touristic-information.html:87
+#: client/views/pages/touristic-information.html:89
 msgid "Other activities"
 msgstr ""
 
@@ -65,13 +65,13 @@ msgstr ""
 msgid "Tapas"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:15
-#: client/views/pages/touristic-information.html:17
+#: client/views/pages/touristic-information.html:24
+#: client/views/pages/touristic-information.html:26
 msgid "The restaurants"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:87
-#: client/views/pages/touristic-information.html:89
+#: client/views/pages/touristic-information.html:96
+#: client/views/pages/touristic-information.html:98
 msgid "To see – To discover"
 msgstr ""
 
@@ -79,7 +79,12 @@ msgstr ""
 msgid "Touristic information"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:60
-#: client/views/pages/touristic-information.html:62
+#: client/views/pages/touristic-information.html:15
+#: client/views/pages/touristic-information.html:17
+msgid "Vehicle rental"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:69
+#: client/views/pages/touristic-information.html:71
 msgid "Water activities"
 msgstr ""
