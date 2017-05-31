@@ -4,37 +4,94 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 
-#: client/views/pages/touristic-information.html:33
-#: client/views/pages/touristic-information.html:35
+#: client/views/pages/publicTransportation/index.html:17
+#: client/views/pages/publicTransportation/index.html:27
+#: client/views/pages/publicTransportation/index.html:37
+#: client/views/pages/publicTransportation/index.html:7
+#: client/views/pages/publicTransportation/index.html:9
+msgid "Airport express"
+msgstr ""
+
+#: client/views/pages/museums/index.html:27
+#: client/views/pages/museums/index.html:29
+msgid "Artisanal visits"
+msgstr ""
+
+#: client/views/pages/rental/index.html:27
+#: client/views/pages/rental/index.html:29
+msgid "Bike"
+msgstr ""
+
+#: client/views/pages/rental/index.html:37
+#: client/views/pages/rental/index.html:39
+msgid "Boat"
+msgstr ""
+
+#: client/views/pages/publicTransportation/index.html:39
+msgid "Bus"
+msgstr ""
+
+#: client/views/pages/rental/index.html:17
+#: client/views/pages/rental/index.html:19
+msgid "Car"
+msgstr ""
+
+#: client/views/pages/curiosities/index.html:1
+#: client/views/pages/touristic-information.html:37
+#: client/views/pages/touristic-information.html:39
 msgid "Curiosities"
 msgstr ""
 
-#: client/views/pages/restaurants/index.html:35
+#: client/views/pages/restaurants/index.html:38
+#: client/views/pages/restaurants/index.html:40
 msgid "Fast food restaurants/ Delivery"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:60
-#: client/views/pages/touristic-information.html:62
+#: client/views/pages/touristic-information.html:67
+#: client/views/pages/touristic-information.html:69
 msgid "For the kids"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:78
-#: client/views/pages/touristic-information.html:80
+#: client/views/pages/greenTourism/index.html:17
+#: client/views/pages/greenTourism/index.html:19
+msgid "Forests"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:87
+#: client/views/pages/touristic-information.html:89
 msgid "Golf resort"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:51
-#: client/views/pages/touristic-information.html:53
+#: client/views/pages/greenTourism/index.html:1
+#: client/views/pages/touristic-information.html:57
+#: client/views/pages/touristic-information.html:59
 msgid "Green tourism"
 msgstr ""
 
 #: client/views/pages/restaurants/highGastronomy.html:1
-#: client/views/pages/restaurants/index.html:8
+#: client/views/pages/restaurants/index.html:7
+#: client/views/pages/restaurants/index.html:9
 msgid "High gastronomy"
 msgstr ""
 
-#: client/views/pages/restaurants/index.html:44
+#: client/views/pages/restaurants/index.html:48
+#: client/views/pages/restaurants/index.html:50
 msgid "International cuisine"
+msgstr ""
+
+#: client/views/pages/greenTourism/index.html:27
+#: client/views/pages/greenTourism/index.html:29
+msgid "Islands"
+msgstr ""
+
+#: client/views/pages/rental/index.html:47
+#: client/views/pages/rental/index.html:49
+msgid "MBT"
+msgstr ""
+
+#: client/views/pages/curiosities/index.html:7
+#: client/views/pages/curiosities/index.html:9
+msgid "Markets"
 msgstr ""
 
 #: client/views/pages/restaurants/highGastronomy.html:20
@@ -42,36 +99,62 @@ msgstr ""
 msgid "Modern, creative cuisine"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:42
-#: client/views/pages/touristic-information.html:44
+#: client/views/pages/greenTourism/index.html:37
+#: client/views/pages/greenTourism/index.html:39
+msgid "Mountains"
+msgstr ""
+
+#: client/views/pages/museums/index.html:1
+#: client/views/pages/museums/index.html:7
+#: client/views/pages/museums/index.html:9
+#: client/views/pages/touristic-information.html:47
+#: client/views/pages/touristic-information.html:49
 msgid "Museums"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:87
-#: client/views/pages/touristic-information.html:89
+#: client/views/pages/touristic-information.html:97
+#: client/views/pages/touristic-information.html:99
 msgid "Other activities"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:6
-#: client/views/pages/touristic-information.html:8
-msgid "Public transport"
+#: client/views/pages/greenTourism/index.html:7
+#: client/views/pages/greenTourism/index.html:9
+msgid "Parks"
+msgstr ""
+
+#: client/views/pages/publicTransportation/index.html:1
+#: client/views/pages/touristic-information.html:7
+#: client/views/pages/touristic-information.html:9
+msgid "Public transportation"
+msgstr ""
+
+#: client/views/pages/rental/index.html:7
+#: client/views/pages/rental/index.html:9
+msgid "Scooter"
 msgstr ""
 
 #: client/views/pages/restaurants/index.html:17
+#: client/views/pages/restaurants/index.html:19
 msgid "Sea products"
 msgstr ""
 
-#: client/views/pages/restaurants/index.html:26
+#: client/views/pages/restaurants/index.html:28
+#: client/views/pages/restaurants/index.html:30
 msgid "Tapas"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:24
-#: client/views/pages/touristic-information.html:26
+#: client/views/pages/publicTransportation/index.html:19
+msgid "Taxi"
+msgstr ""
+
+#: client/views/pages/restaurants/index.html:1
+#: client/views/pages/touristic-information.html:27
+#: client/views/pages/touristic-information.html:29
 msgid "The restaurants"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:96
-#: client/views/pages/touristic-information.html:98
+#: client/views/pages/touristic-information.html:107
+#: client/views/pages/touristic-information.html:109
 msgid "To see – To discover"
 msgstr ""
 
@@ -79,12 +162,22 @@ msgstr ""
 msgid "Touristic information"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:15
+#: client/views/pages/publicTransportation/index.html:29
+msgid "Train"
+msgstr ""
+
+#: client/views/pages/rental/index.html:1
 #: client/views/pages/touristic-information.html:17
+#: client/views/pages/touristic-information.html:19
 msgid "Vehicle rental"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:69
-#: client/views/pages/touristic-information.html:71
+#: client/views/pages/museums/index.html:17
+#: client/views/pages/museums/index.html:19
+msgid "Villas and castles"
+msgstr ""
+
+#: client/views/pages/touristic-information.html:77
+#: client/views/pages/touristic-information.html:79
 msgid "Water activities"
 msgstr ""

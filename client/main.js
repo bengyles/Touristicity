@@ -37,6 +37,11 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/public-transportation',
             templateUrl: 'client/views/pages/publicTransportation/index.html'
         })
+        //rental
+        .state('rental', {
+            url: '/rental',
+            templateUrl: 'client/views/pages/rental/index.html'
+        })
         //restaurants
         .state('restaurants', {
             url: '/restaurants',
@@ -45,6 +50,21 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
         .state('high-gastronomy', {
             url: '/restaurants/high-gastronomy',
             templateUrl: 'client/views/pages/restaurants/highGastronomy.html'
+        })
+        //curiosities
+        .state('curiosities', {
+            url: '/curiosities',
+            templateUrl: 'client/views/pages/curiosities/index.html'
+        })
+        //museums
+        .state('museums', {
+            url: '/museums',
+            templateUrl: 'client/views/pages/museums/index.html'
+        })
+        //green tourism
+        .state('green-tourism', {
+            url: '/green-tourism',
+            templateUrl: 'client/views/pages/greenTourism/index.html'
         });
 
 }

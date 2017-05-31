@@ -12,74 +12,157 @@ msgstr ""
 "X-Generator: Poedit 2.0.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: client/views/pages/touristic-information.html:33
-#: client/views/pages/touristic-information.html:35
+#: client/views/pages/publicTransportation/index.html:17
+#: client/views/pages/publicTransportation/index.html:27
+#: client/views/pages/publicTransportation/index.html:37
+#: client/views/pages/publicTransportation/index.html:7
+#: client/views/pages/publicTransportation/index.html:9
+msgid "Airport express"
+msgstr "Aeroport Express"
+
+#: client/views/pages/museums/index.html:27
+#: client/views/pages/museums/index.html:29
+msgid "Artisanal visits"
+msgstr "Le visite artisanal"
+
+#: client/views/pages/rental/index.html:27
+#: client/views/pages/rental/index.html:29
+msgid "Bike"
+msgstr "Vélo"
+
+#: client/views/pages/rental/index.html:37
+#: client/views/pages/rental/index.html:39
+msgid "Boat"
+msgstr "Bateau"
+
+#: client/views/pages/publicTransportation/index.html:39
+msgid "Bus"
+msgstr "Bus"
+
+#: client/views/pages/rental/index.html:17
+#: client/views/pages/rental/index.html:19
+msgid "Car"
+msgstr "Voiture"
+
+#: client/views/pages/curiosities/index.html:1
+#: client/views/pages/touristic-information.html:37
+#: client/views/pages/touristic-information.html:39
 msgid "Curiosities"
 msgstr "Les curiosités"
 
-#: client/views/pages/restaurants/index.html:35
+#: client/views/pages/restaurants/index.html:38
+#: client/views/pages/restaurants/index.html:40
 msgid "Fast food restaurants/ Delivery"
 msgstr "Restauration rapide / livraisons"
 
-#: client/views/pages/touristic-information.html:60
-#: client/views/pages/touristic-information.html:62
+#: client/views/pages/touristic-information.html:67
+#: client/views/pages/touristic-information.html:69
 msgid "For the kids"
 msgstr "Pour les Enfants"
 
-#: client/views/pages/touristic-information.html:78
-#: client/views/pages/touristic-information.html:80
+#: client/views/pages/greenTourism/index.html:17
+#: client/views/pages/greenTourism/index.html:19
+msgid "Forests"
+msgstr "Les forêts"
+
+#: client/views/pages/touristic-information.html:87
+#: client/views/pages/touristic-information.html:89
 msgid "Golf resort"
 msgstr "Station Golfique"
 
-#: client/views/pages/touristic-information.html:51
-#: client/views/pages/touristic-information.html:53
+#: client/views/pages/greenTourism/index.html:1
+#: client/views/pages/touristic-information.html:57
+#: client/views/pages/touristic-information.html:59
 msgid "Green tourism"
 msgstr "Le tourisme vert"
 
 #: client/views/pages/restaurants/highGastronomy.html:1
-#: client/views/pages/restaurants/index.html:8
+#: client/views/pages/restaurants/index.html:7
+#: client/views/pages/restaurants/index.html:9
 msgid "High gastronomy"
 msgstr "Haute Gastronomie"
 
-#: client/views/pages/restaurants/index.html:44
+#: client/views/pages/restaurants/index.html:48
+#: client/views/pages/restaurants/index.html:50
 msgid "International cuisine"
 msgstr "Cuisine du Monde"
+
+#: client/views/pages/greenTourism/index.html:27
+#: client/views/pages/greenTourism/index.html:29
+msgid "Islands"
+msgstr "Les îles"
+
+#: client/views/pages/rental/index.html:47
+#: client/views/pages/rental/index.html:49
+msgid "MBT"
+msgstr "VTT"
+
+#: client/views/pages/curiosities/index.html:7
+#: client/views/pages/curiosities/index.html:9
+msgid "Markets"
+msgstr "Les marchés"
 
 #: client/views/pages/restaurants/highGastronomy.html:20
 #: client/views/pages/restaurants/highGastronomy.html:7
 msgid "Modern, creative cuisine"
 msgstr "Cuisine Moderne, Créative"
 
-#: client/views/pages/touristic-information.html:42
-#: client/views/pages/touristic-information.html:44
+#: client/views/pages/greenTourism/index.html:37
+#: client/views/pages/greenTourism/index.html:39
+msgid "Mountains"
+msgstr "Les Montagnes"
+
+#: client/views/pages/museums/index.html:1
+#: client/views/pages/museums/index.html:7
+#: client/views/pages/museums/index.html:9
+#: client/views/pages/touristic-information.html:47
+#: client/views/pages/touristic-information.html:49
 msgid "Museums"
 msgstr "Les musées"
 
-#: client/views/pages/touristic-information.html:87
-#: client/views/pages/touristic-information.html:89
+#: client/views/pages/touristic-information.html:97
+#: client/views/pages/touristic-information.html:99
 msgid "Other activities"
 msgstr "Autres activités"
 
-#: client/views/pages/touristic-information.html:6
-#: client/views/pages/touristic-information.html:8
-msgid "Public transport"
+#: client/views/pages/greenTourism/index.html:7
+#: client/views/pages/greenTourism/index.html:9
+msgid "Parks"
+msgstr "Les parcs"
+
+#: client/views/pages/publicTransportation/index.html:1
+#: client/views/pages/touristic-information.html:7
+#: client/views/pages/touristic-information.html:9
+msgid "Public transportation"
 msgstr "Transports en commun"
 
+#: client/views/pages/rental/index.html:7
+#: client/views/pages/rental/index.html:9
+msgid "Scooter"
+msgstr "Scooter"
+
 #: client/views/pages/restaurants/index.html:17
+#: client/views/pages/restaurants/index.html:19
 msgid "Sea products"
 msgstr "Produits de la mer"
 
-#: client/views/pages/restaurants/index.html:26
+#: client/views/pages/restaurants/index.html:28
+#: client/views/pages/restaurants/index.html:30
 msgid "Tapas"
 msgstr "Tapas"
 
-#: client/views/pages/touristic-information.html:24
-#: client/views/pages/touristic-information.html:26
+#: client/views/pages/publicTransportation/index.html:19
+msgid "Taxi"
+msgstr "Taxi"
+
+#: client/views/pages/restaurants/index.html:1
+#: client/views/pages/touristic-information.html:27
+#: client/views/pages/touristic-information.html:29
 msgid "The restaurants"
 msgstr "Les restaurants"
 
-#: client/views/pages/touristic-information.html:96
-#: client/views/pages/touristic-information.html:98
+#: client/views/pages/touristic-information.html:107
+#: client/views/pages/touristic-information.html:109
 msgid "To see – To discover"
 msgstr "A voir – A Dévouvrir"
 
@@ -87,13 +170,23 @@ msgstr "A voir – A Dévouvrir"
 msgid "Touristic information"
 msgstr "Information touristique"
 
-#: client/views/pages/touristic-information.html:15
+#: client/views/pages/publicTransportation/index.html:29
+msgid "Train"
+msgstr "Train"
+
+#: client/views/pages/rental/index.html:1
 #: client/views/pages/touristic-information.html:17
+#: client/views/pages/touristic-information.html:19
 msgid "Vehicle rental"
 msgstr "Location de véhicules"
 
-#: client/views/pages/touristic-information.html:69
-#: client/views/pages/touristic-information.html:71
+#: client/views/pages/museums/index.html:17
+#: client/views/pages/museums/index.html:19
+msgid "Villas and castles"
+msgstr "Les villas et châteaux"
+
+#: client/views/pages/touristic-information.html:77
+#: client/views/pages/touristic-information.html:79
 msgid "Water activities"
 msgstr "Les activités nautiques"
 
