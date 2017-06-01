@@ -1,8 +1,11 @@
 import angular from 'angular';
+import {Meteor} from 'meteor/meteor';
 import angularMeteor from 'angular-meteor';
 import uiRouter from 'angular-ui-router';
 
-angular.module('touristicity', [
+const App = "touristicity";
+
+angular.module(App, [
     angularMeteor,
     uiRouter,
     'gettext',
@@ -67,4 +70,16 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             templateUrl: 'client/views/pages/greenTourism/index.html'
         });
 
+}
+
+// Startup
+if (Meteor.isCordova) {
+    angular.element(document).on('deviceready', onReady);
+}
+else {
+    angular.element(document).ready(onReady);
+}
+
+function onReady() {
+    angular.bootstrap(document, [App]);
 }
