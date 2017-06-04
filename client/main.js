@@ -75,7 +75,7 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
         })
         .state('ATV', {
             url: '/ATV',
-            templateUrl: 'client/views/pages/rental/ATV.html'
+            templateUrl: 'client/views/pages/rental/MBT.html'
         })
         .state('boat', {
             url: '/boat',
@@ -89,6 +89,18 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
         .state('high-gastronomy', {
             url: '/restaurants/high-gastronomy',
             templateUrl: 'client/views/pages/restaurants/highGastronomy.html'
+        })
+        .state('sea-products', {
+            url: '/restaurants/sea-products',
+            templateUrl: 'client/views/pages/restaurants/seaProducts.html'
+        })
+        .state('lounge', {
+            url: '/restaurants/lounge',
+            templateUrl: 'client/views/pages/restaurants/loungeBar.html'
+        })
+        .state('international-cuisine', {
+            url: '/restaurants/international-cuisine',
+            templateUrl: 'client/views/pages/restaurants/internationalCuisine.html'
         })
         //curiosities
         .state('curiosities', {

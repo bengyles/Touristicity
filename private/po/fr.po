@@ -16,11 +16,6 @@ msgstr ""
 msgid "6 trips card"
 msgstr "Carte 6 voyages"
 
-#: client/views/pages/rental/ATV.html:1 client/views/pages/rental/index.html:37
-#: client/views/pages/rental/index.html:39
-msgid "ATV"
-msgstr "VTT"
-
 #: client/views/pages/publicTransportation/helicopter.html:11
 msgid "Address"
 msgstr "Adresse"
@@ -92,6 +87,11 @@ msgstr "Voiture"
 msgid "Child rate &lt; 12 years"
 msgstr "Tarif enfant &lt; 12 ans"
 
+#: client/views/pages/restaurants/internationalCuisine.html:85
+#: client/views/pages/restaurants/internationalCuisine.html:98
+msgid "Chinese restaurant"
+msgstr "Restaurant Chinois"
+
 #: client/views/pages/curiosities/index.html:1
 #: client/views/pages/touristic-information.html:37
 #: client/views/pages/touristic-information.html:39
@@ -111,11 +111,6 @@ msgstr "Destinations"
 #: client/views/pages/other/index.html:7 client/views/pages/other/index.html:9
 msgid "Escape games"
 msgstr "Escape games"
-
-#: client/views/pages/restaurants/index.html:38
-#: client/views/pages/restaurants/index.html:40
-msgid "Fast food restaurants/ Delivery"
-msgstr "Restauration rapide / livraisons"
 
 #: client/views/pages/kids/index.html:1
 #: client/views/pages/touristic-information.html:67
@@ -155,8 +150,14 @@ msgstr "Hélicoptère"
 msgid "High gastronomy"
 msgstr "Haute Gastronomie"
 
-#: client/views/pages/restaurants/index.html:48
-#: client/views/pages/restaurants/index.html:50
+#: client/views/pages/restaurants/internationalCuisine.html:150
+#: client/views/pages/restaurants/internationalCuisine.html:163
+msgid "Indian restaurant"
+msgstr "Restaurant Indien"
+
+#: client/views/pages/restaurants/index.html:38
+#: client/views/pages/restaurants/index.html:40
+#: client/views/pages/restaurants/internationalCuisine.html:1
 msgid "International cuisine"
 msgstr "Cuisine du Monde"
 
@@ -164,6 +165,32 @@ msgstr "Cuisine du Monde"
 #: client/views/pages/greenTourism/index.html:29
 msgid "Islands"
 msgstr "Les îles"
+
+#: client/views/pages/restaurants/internationalCuisine.html:20
+#: client/views/pages/restaurants/internationalCuisine.html:7
+msgid "Italian restaurant"
+msgstr "Restaurant Italienne"
+
+#: client/views/pages/restaurants/internationalCuisine.html:59
+#: client/views/pages/restaurants/internationalCuisine.html:72
+msgid "Japanese restaurant"
+msgstr "Restaurant Japonais"
+
+#: client/views/pages/restaurants/internationalCuisine.html:33
+#: client/views/pages/restaurants/internationalCuisine.html:46
+msgid "Lebanese restaurant"
+msgstr "Restaurant Libanais"
+
+#: client/views/pages/restaurants/index.html:28
+#: client/views/pages/restaurants/index.html:30
+#: client/views/pages/restaurants/loungeBar.html:1
+msgid "Lounge bar"
+msgstr "Bar ambiance"
+
+#: client/views/pages/rental/MBT.html:1 client/views/pages/rental/index.html:37
+#: client/views/pages/rental/index.html:39
+msgid "MBT"
+msgstr "VTT"
 
 #: client/views/pages/curiosities/index.html:7
 #: client/views/pages/curiosities/index.html:9
@@ -174,6 +201,11 @@ msgstr "Les marchés"
 #: client/views/pages/restaurants/highGastronomy.html:7
 msgid "Modern, creative cuisine"
 msgstr "Cuisine Moderne, Créative"
+
+#: client/views/pages/restaurants/internationalCuisine.html:111
+#: client/views/pages/restaurants/internationalCuisine.html:124
+msgid "Moroccan restaurant"
+msgstr "Restaurant Marocain"
 
 #: client/views/pages/greenTourism/index.html:37
 #: client/views/pages/greenTourism/index.html:39
@@ -235,6 +267,7 @@ msgstr "Scooter"
 
 #: client/views/pages/restaurants/index.html:17
 #: client/views/pages/restaurants/index.html:19
+#: client/views/pages/restaurants/seaProducts.html:1
 msgid "Sea products"
 msgstr "Produits de la mer"
 
@@ -253,10 +286,9 @@ msgstr "Tarification spéciale"
 msgid "Starting at"
 msgstr "A partir de"
 
-#: client/views/pages/restaurants/index.html:28
-#: client/views/pages/restaurants/index.html:30
-msgid "Tapas"
-msgstr "Tapas"
+#: client/views/pages/restaurants/internationalCuisine.html:137
+msgid "Sushi"
+msgstr "Sushi"
 
 #: client/views/pages/publicTransportation/index.html:17
 #: client/views/pages/publicTransportation/index.html:19
@@ -315,7 +347,7 @@ msgstr "Les activités nautiques"
 msgid "Website"
 msgstr "Site"
 
-#: client/views/pages/rental/ATV.html:23 client/views/pages/rental/ATV.html:8
+#: client/views/pages/rental/MBT.html:23 client/views/pages/rental/MBT.html:8
 #: client/views/pages/rental/bike.html:20
 #: client/views/pages/rental/bike.html:33
 #: client/views/pages/rental/bike.html:46 client/views/pages/rental/bike.html:7
@@ -338,7 +370,13 @@ msgstr "du"
 msgid "until"
 msgstr "au"
 
-#~ msgid "MBT"
+#~ msgid "Tapas"
+#~ msgstr "Tapas"
+
+#~ msgid "Fast food restaurants/ Delivery"
+#~ msgstr "Restauration rapide / livraisons"
+
+#~ msgid "ATV"
 #~ msgstr "VTT"
 
 #~ msgid "Nice Airport &equals;&gt; Cannes"

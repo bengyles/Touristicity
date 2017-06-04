@@ -8,12 +8,6 @@ msgstr ""
 msgid "6 trips card"
 msgstr ""
 
-#: client/views/pages/rental/ATV.html:1
-#: client/views/pages/rental/index.html:37
-#: client/views/pages/rental/index.html:39
-msgid "ATV"
-msgstr ""
-
 #: client/views/pages/publicTransportation/helicopter.html:11
 msgid "Address"
 msgstr ""
@@ -88,6 +82,11 @@ msgstr ""
 msgid "Child rate &lt; 12 years"
 msgstr ""
 
+#: client/views/pages/restaurants/internationalCuisine.html:85
+#: client/views/pages/restaurants/internationalCuisine.html:98
+msgid "Chinese restaurant"
+msgstr ""
+
 #: client/views/pages/curiosities/index.html:1
 #: client/views/pages/touristic-information.html:37
 #: client/views/pages/touristic-information.html:39
@@ -107,11 +106,6 @@ msgstr ""
 #: client/views/pages/other/index.html:7
 #: client/views/pages/other/index.html:9
 msgid "Escape games"
-msgstr ""
-
-#: client/views/pages/restaurants/index.html:38
-#: client/views/pages/restaurants/index.html:40
-msgid "Fast food restaurants/ Delivery"
 msgstr ""
 
 #: client/views/pages/kids/index.html:1
@@ -152,14 +146,47 @@ msgstr ""
 msgid "High gastronomy"
 msgstr ""
 
-#: client/views/pages/restaurants/index.html:48
-#: client/views/pages/restaurants/index.html:50
+#: client/views/pages/restaurants/internationalCuisine.html:150
+#: client/views/pages/restaurants/internationalCuisine.html:163
+msgid "Indian restaurant"
+msgstr ""
+
+#: client/views/pages/restaurants/index.html:38
+#: client/views/pages/restaurants/index.html:40
+#: client/views/pages/restaurants/internationalCuisine.html:1
 msgid "International cuisine"
 msgstr ""
 
 #: client/views/pages/greenTourism/index.html:27
 #: client/views/pages/greenTourism/index.html:29
 msgid "Islands"
+msgstr ""
+
+#: client/views/pages/restaurants/internationalCuisine.html:20
+#: client/views/pages/restaurants/internationalCuisine.html:7
+msgid "Italian restaurant"
+msgstr ""
+
+#: client/views/pages/restaurants/internationalCuisine.html:59
+#: client/views/pages/restaurants/internationalCuisine.html:72
+msgid "Japanese restaurant"
+msgstr ""
+
+#: client/views/pages/restaurants/internationalCuisine.html:33
+#: client/views/pages/restaurants/internationalCuisine.html:46
+msgid "Lebanese restaurant"
+msgstr ""
+
+#: client/views/pages/restaurants/index.html:28
+#: client/views/pages/restaurants/index.html:30
+#: client/views/pages/restaurants/loungeBar.html:1
+msgid "Lounge bar"
+msgstr ""
+
+#: client/views/pages/rental/MBT.html:1
+#: client/views/pages/rental/index.html:37
+#: client/views/pages/rental/index.html:39
+msgid "MBT"
 msgstr ""
 
 #: client/views/pages/curiosities/index.html:7
@@ -170,6 +197,11 @@ msgstr ""
 #: client/views/pages/restaurants/highGastronomy.html:20
 #: client/views/pages/restaurants/highGastronomy.html:7
 msgid "Modern, creative cuisine"
+msgstr ""
+
+#: client/views/pages/restaurants/internationalCuisine.html:111
+#: client/views/pages/restaurants/internationalCuisine.html:124
+msgid "Moroccan restaurant"
 msgstr ""
 
 #: client/views/pages/greenTourism/index.html:37
@@ -232,6 +264,7 @@ msgstr ""
 
 #: client/views/pages/restaurants/index.html:17
 #: client/views/pages/restaurants/index.html:19
+#: client/views/pages/restaurants/seaProducts.html:1
 msgid "Sea products"
 msgstr ""
 
@@ -252,9 +285,8 @@ msgstr ""
 msgid "Starting at"
 msgstr ""
 
-#: client/views/pages/restaurants/index.html:28
-#: client/views/pages/restaurants/index.html:30
-msgid "Tapas"
+#: client/views/pages/restaurants/internationalCuisine.html:137
+msgid "Sushi"
 msgstr ""
 
 #: client/views/pages/publicTransportation/index.html:17
@@ -316,8 +348,8 @@ msgstr ""
 msgid "Website"
 msgstr ""
 
-#: client/views/pages/rental/ATV.html:23
-#: client/views/pages/rental/ATV.html:8
+#: client/views/pages/rental/MBT.html:23
+#: client/views/pages/rental/MBT.html:8
 #: client/views/pages/rental/bike.html:20
 #: client/views/pages/rental/bike.html:33
 #: client/views/pages/rental/bike.html:46
