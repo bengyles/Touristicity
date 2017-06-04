@@ -16,6 +16,10 @@ msgstr ""
 msgid "6 trips card"
 msgstr "Carte 6 voyages"
 
+#: client/views/pages/curiosities/markets.html:18
+#: client/views/pages/curiosities/markets.html:22
+#: client/views/pages/curiosities/markets.html:26
+#: client/views/pages/curiosities/markets.html:31
 #: client/views/pages/publicTransportation/helicopter.html:11
 msgid "Address"
 msgstr "Adresse"
@@ -38,6 +42,10 @@ msgstr "Animaux / nature"
 #: client/views/pages/kids/index.html:7 client/views/pages/kids/index.html:9
 msgid "Animation parks"
 msgstr "Les parcs d'attractions"
+
+#: client/views/pages/curiosities/markets.html:21
+msgid "Artisanal market"
+msgstr "Marché des artisans"
 
 #: client/views/pages/museums/index.html:27
 #: client/views/pages/museums/index.html:29
@@ -111,6 +119,26 @@ msgstr "Destinations"
 #: client/views/pages/other/index.html:7 client/views/pages/other/index.html:9
 msgid "Escape games"
 msgstr "Escape games"
+
+#: client/views/pages/curiosities/markets.html:23
+msgid "Every Friday, Saturday and Sunday from 15h"
+msgstr "Tous les vendredis, samedis et dimanches à partir de 15h"
+
+#: client/views/pages/curiosities/markets.html:27
+msgid "Every morning from 6h until 13h"
+msgstr "Tous les matins, de 6h à 13h"
+
+#: client/views/pages/curiosities/markets.html:17
+msgid "Flower kiosk"
+msgstr "Kiosques à fleurs des Allées"
+
+#: client/views/pages/curiosities/markets.html:14
+msgid "Flower kiosks – from Tuesday until Sunday from 7h à 13h30 am"
+msgstr "Kiosques à fleurs des Allées du mardi au dimanche de 7h à 13h30"
+
+#: client/views/pages/curiosities/markets.html:30
+msgid "Flower market"
+msgstr "Marché au fleur"
 
 #: client/views/pages/kids/index.html:1
 #: client/views/pages/touristic-information.html:67
@@ -194,6 +222,7 @@ msgstr "VTT"
 
 #: client/views/pages/curiosities/index.html:7
 #: client/views/pages/curiosities/index.html:9
+#: client/views/pages/curiosities/markets.html:1
 msgid "Markets"
 msgstr "Les marchés"
 
@@ -244,6 +273,19 @@ msgstr "Autres"
 #: client/views/pages/greenTourism/index.html:9
 msgid "Parks"
 msgstr "Les parcs"
+
+#: client/views/pages/curiosities/markets.html:13
+msgid "Provencal Market Gambetta – from Tuesday until Sunday from 7h à 13h am"
+msgstr "Marché Provençal Gambetta – du mardi au dimanche de 7h à 13h"
+
+#: client/views/pages/curiosities/markets.html:25
+msgid "Provencal market"
+msgstr "Marché Provençal"
+
+#: client/views/pages/curiosities/markets.html:12
+msgid ""
+"Provencal market of Forville – from Tuesday until Sunday from 7h à 13h30 am"
+msgstr "Marché Provençal Forville – du mardi au dimanche de 7h à 13h30"
 
 #: client/views/pages/publicTransportation/index.html:1
 #: client/views/pages/touristic-information.html:7
@@ -296,6 +338,22 @@ msgstr "Sushi"
 msgid "Taxi"
 msgstr "Taxi"
 
+#: client/views/pages/curiosities/markets.html:11
+msgid ""
+"The Nocturnes of Quai Saint Pierre – every Friday from  19h pm until "
+"midnight during the summer – Port de Cannes"
+msgstr ""
+"Les Nocturnes du Quai Saint Pierre – tous les vendredis de 19h à minuit "
+"pendant  l’été – Port de Cannes"
+
+#: client/views/pages/curiosities/markets.html:7
+msgid ""
+"The Provencal market of Cannes La Bocca – From Tuesday until Sunday from 7h "
+"à 13h am – 7 Rue du Docteur Baloux"
+msgstr ""
+"Marché Provençal de Cannes La Bocca – Du mardi au dimanche de 7h à 13h – 7 "
+"Rue du Docteur Baloux"
+
 #: client/views/pages/water/index.html:7 client/views/pages/water/index.html:9
 msgid "The nautical center"
 msgstr "Le centre nautique"
@@ -320,6 +378,10 @@ msgstr "Information touristique"
 #: client/views/pages/publicTransportation/index.html:29
 msgid "Train"
 msgstr "Train"
+
+#: client/views/pages/curiosities/markets.html:32
+msgid "Tuesday until Sunday from : 06h00 – 17h30 (Sunday : 6h30-13h30)"
+msgstr "Mardi-Dimanche : 06h00 – 17h30 (dimanche : 6h30-13h30)"
 
 #: client/views/pages/publicTransportation/airportExpress.html:140
 msgid "Under 26 years"
@@ -346,6 +408,16 @@ msgstr "Les activités nautiques"
 #: client/views/pages/publicTransportation/helicopter.html:19
 msgid "Website"
 msgstr "Site"
+
+#: client/views/pages/curiosities/markets.html:4
+msgid ""
+"Wednesday morning : Quartier des Termes <br>Place des Combattants "
+"d’Indochine and d’Afrique du Nord <br>City center (in front of Esterel "
+"Gallery) and at the parking Casinca (in front of Escota)"
+msgstr ""
+"Mercredi matin : Quartier des Termes <br>Place des Combattants d’Indochine "
+"et d’Afrique du Nord <br>Centre-ville (devant Esterel Gallery) et sur le "
+"parking Casinca (devant Escota)"
 
 #: client/views/pages/rental/MBT.html:23 client/views/pages/rental/MBT.html:8
 #: client/views/pages/rental/bike.html:20

@@ -107,6 +107,10 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/curiosities',
             templateUrl: 'client/views/pages/curiosities/index.html'
         })
+        .state('markets', {
+            url: '/markets',
+            templateUrl: 'client/views/pages/curiosities/markets.html'
+        })
         //museums
         .state('museums', {
             url: '/museums',
