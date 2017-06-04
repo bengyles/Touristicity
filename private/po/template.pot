@@ -4,12 +4,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 
-#: client/views/pages/publicTransportation/index.html:17
-#: client/views/pages/publicTransportation/index.html:27
-#: client/views/pages/publicTransportation/index.html:37
+#: client/views/pages/publicTransportation/airportExpress.html:144
+msgid "6 trips card"
+msgstr ""
+
+#: client/views/pages/rental/ATV.html:1
+#: client/views/pages/rental/index.html:37
+#: client/views/pages/rental/index.html:39
+msgid "ATV"
+msgstr ""
+
+#: client/views/pages/publicTransportation/helicopter.html:11
+msgid "Address"
+msgstr ""
+
+#: client/views/pages/publicTransportation/airportExpress.html:1
 #: client/views/pages/publicTransportation/index.html:7
 #: client/views/pages/publicTransportation/index.html:9
 msgid "Airport express"
+msgstr ""
+
+#: client/views/pages/publicTransportation/airportExpress.html:159
+#: client/views/pages/publicTransportation/airportExpress.html:3
+msgid "All days"
+msgstr ""
+
+#: client/views/pages/kids/index.html:17
+#: client/views/pages/kids/index.html:19
+msgid "Animals / nature"
+msgstr ""
+
+#: client/views/pages/kids/index.html:7
+#: client/views/pages/kids/index.html:9
+msgid "Animation parks"
 msgstr ""
 
 #: client/views/pages/museums/index.html:27
@@ -17,23 +44,48 @@ msgstr ""
 msgid "Artisanal visits"
 msgstr ""
 
+#: client/views/pages/publicTransportation/helicopter.html:2
+msgid "Azur Helicopter (rent + transport)"
+msgstr ""
+
+#: client/views/pages/rental/bike.html:1
 #: client/views/pages/rental/index.html:27
 #: client/views/pages/rental/index.html:29
 msgid "Bike"
 msgstr ""
 
-#: client/views/pages/rental/index.html:37
-#: client/views/pages/rental/index.html:39
+#: client/views/pages/publicTransportation/boat.html:1
+#: client/views/pages/publicTransportation/index.html:47
+#: client/views/pages/publicTransportation/index.html:49
+#: client/views/pages/rental/boat.html:1
+#: client/views/pages/rental/index.html:47
+#: client/views/pages/rental/index.html:49
 msgid "Boat"
 msgstr ""
 
+#: client/views/pages/water/index.html:27
+#: client/views/pages/water/index.html:29
+msgid "Boats"
+msgstr ""
+
+#: client/views/pages/publicTransportation/index.html:37
 #: client/views/pages/publicTransportation/index.html:39
 msgid "Bus"
 msgstr ""
 
+#: client/views/pages/publicTransportation/airportExpress.html:159
+#: client/views/pages/publicTransportation/airportExpress.html:3
+msgid "Cannes"
+msgstr ""
+
+#: client/views/pages/rental/car.html:1
 #: client/views/pages/rental/index.html:17
 #: client/views/pages/rental/index.html:19
 msgid "Car"
+msgstr ""
+
+#: client/views/pages/publicTransportation/airportExpress.html:148
+msgid "Child rate &lt; 12 years"
 msgstr ""
 
 #: client/views/pages/curiosities/index.html:1
@@ -42,11 +94,27 @@ msgstr ""
 msgid "Curiosities"
 msgstr ""
 
+#: client/views/pages/publicTransportation/helicopter.html:3
+msgid "Destinations"
+msgstr ""
+
+#: client/views/pages/discover/index.html:17
+#: client/views/pages/discover/index.html:19
+#: client/views/pages/discover/index.html:27
+#: client/views/pages/discover/index.html:29
+#: client/views/pages/discover/index.html:7
+#: client/views/pages/discover/index.html:9
+#: client/views/pages/other/index.html:7
+#: client/views/pages/other/index.html:9
+msgid "Escape games"
+msgstr ""
+
 #: client/views/pages/restaurants/index.html:38
 #: client/views/pages/restaurants/index.html:40
 msgid "Fast food restaurants/ Delivery"
 msgstr ""
 
+#: client/views/pages/kids/index.html:1
 #: client/views/pages/touristic-information.html:67
 #: client/views/pages/touristic-information.html:69
 msgid "For the kids"
@@ -68,6 +136,16 @@ msgstr ""
 msgid "Green tourism"
 msgstr ""
 
+#: client/views/pages/publicTransportation/airportExpress.html:152
+msgid "Group of 4 people"
+msgstr ""
+
+#: client/views/pages/publicTransportation/helicopter.html:1
+#: client/views/pages/publicTransportation/index.html:57
+#: client/views/pages/publicTransportation/index.html:59
+msgid "Helicopter"
+msgstr ""
+
 #: client/views/pages/restaurants/highGastronomy.html:1
 #: client/views/pages/restaurants/index.html:7
 #: client/views/pages/restaurants/index.html:9
@@ -82,11 +160,6 @@ msgstr ""
 #: client/views/pages/greenTourism/index.html:27
 #: client/views/pages/greenTourism/index.html:29
 msgid "Islands"
-msgstr ""
-
-#: client/views/pages/rental/index.html:47
-#: client/views/pages/rental/index.html:49
-msgid "MBT"
 msgstr ""
 
 #: client/views/pages/curiosities/index.html:7
@@ -112,9 +185,24 @@ msgstr ""
 msgid "Museums"
 msgstr ""
 
+#: client/views/pages/publicTransportation/airportExpress.html:159
+#: client/views/pages/publicTransportation/airportExpress.html:3
+msgid "Nice Airport"
+msgstr ""
+
+#: client/views/pages/publicTransportation/airportExpress.html:132
+msgid "One way trip"
+msgstr ""
+
+#: client/views/pages/other/index.html:1
 #: client/views/pages/touristic-information.html:97
 #: client/views/pages/touristic-information.html:99
 msgid "Other activities"
+msgstr ""
+
+#: client/views/pages/other/index.html:27
+#: client/views/pages/other/index.html:29
+msgid "Others"
 msgstr ""
 
 #: client/views/pages/greenTourism/index.html:7
@@ -128,8 +216,17 @@ msgstr ""
 msgid "Public transportation"
 msgstr ""
 
+#: client/views/pages/publicTransportation/helicopter.html:5
+msgid "Rate"
+msgstr ""
+
+#: client/views/pages/publicTransportation/airportExpress.html:136
+msgid "Return ticket"
+msgstr ""
+
 #: client/views/pages/rental/index.html:7
 #: client/views/pages/rental/index.html:9
+#: client/views/pages/rental/scooter.html:1
 msgid "Scooter"
 msgstr ""
 
@@ -138,13 +235,37 @@ msgstr ""
 msgid "Sea products"
 msgstr ""
 
+#: client/views/pages/other/index.html:17
+#: client/views/pages/other/index.html:19
+msgid "Spa"
+msgstr ""
+
+#: client/views/pages/publicTransportation/airportExpress.html:128
+msgid "Special Pricing"
+msgstr ""
+
+#: client/views/pages/publicTransportation/helicopter.html:7
+#: client/views/pages/rental/car.html:20
+#: client/views/pages/rental/car.html:33
+#: client/views/pages/rental/car.html:46
+#: client/views/pages/rental/car.html:7
+msgid "Starting at"
+msgstr ""
+
 #: client/views/pages/restaurants/index.html:28
 #: client/views/pages/restaurants/index.html:30
 msgid "Tapas"
 msgstr ""
 
+#: client/views/pages/publicTransportation/index.html:17
 #: client/views/pages/publicTransportation/index.html:19
+#: client/views/pages/publicTransportation/taxi.html:1
 msgid "Taxi"
+msgstr ""
+
+#: client/views/pages/water/index.html:7
+#: client/views/pages/water/index.html:9
+msgid "The nautical center"
 msgstr ""
 
 #: client/views/pages/restaurants/index.html:1
@@ -153,6 +274,7 @@ msgstr ""
 msgid "The restaurants"
 msgstr ""
 
+#: client/views/pages/discover/index.html:1
 #: client/views/pages/touristic-information.html:107
 #: client/views/pages/touristic-information.html:109
 msgid "To see – To discover"
@@ -162,8 +284,13 @@ msgstr ""
 msgid "Touristic information"
 msgstr ""
 
+#: client/views/pages/publicTransportation/index.html:27
 #: client/views/pages/publicTransportation/index.html:29
 msgid "Train"
+msgstr ""
+
+#: client/views/pages/publicTransportation/airportExpress.html:140
+msgid "Under 26 years"
 msgstr ""
 
 #: client/views/pages/rental/index.html:1
@@ -179,5 +306,38 @@ msgstr ""
 
 #: client/views/pages/touristic-information.html:77
 #: client/views/pages/touristic-information.html:79
+#: client/views/pages/water/index.html:1
+#: client/views/pages/water/index.html:17
+#: client/views/pages/water/index.html:19
 msgid "Water activities"
+msgstr ""
+
+#: client/views/pages/publicTransportation/helicopter.html:19
+msgid "Website"
+msgstr ""
+
+#: client/views/pages/rental/ATV.html:23
+#: client/views/pages/rental/ATV.html:8
+#: client/views/pages/rental/bike.html:20
+#: client/views/pages/rental/bike.html:33
+#: client/views/pages/rental/bike.html:46
+#: client/views/pages/rental/bike.html:7
+#: client/views/pages/rental/car.html:33
+#: client/views/pages/rental/car.html:7
+#: client/views/pages/rental/scooter.html:20
+#: client/views/pages/rental/scooter.html:33
+#: client/views/pages/rental/scooter.html:7
+msgid "day"
+msgstr ""
+
+#: client/views/pages/rental/car.html:20
+msgid "days"
+msgstr ""
+
+#: client/views/pages/rental/boat.html:65
+msgid "from"
+msgstr ""
+
+#: client/views/pages/rental/boat.html:65
+msgid "until"
 msgstr ""

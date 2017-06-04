@@ -40,10 +40,46 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/public-transportation',
             templateUrl: 'client/views/pages/publicTransportation/index.html'
         })
+        .state('airport-express', {
+            url: '/airport-express',
+            templateUrl: 'client/views/pages/publicTransportation/airportExpress.html'
+        })
+        .state('taxi', {
+            url: '/taxi',
+            templateUrl: 'client/views/pages/publicTransportation/taxi.html'
+        })
+        .state('transport-boat', {
+            url: '/transport-boat',
+            templateUrl: 'client/views/pages/publicTransportation/boat.html'
+        })
+        .state('helicopter', {
+            url: '/helicopter',
+            templateUrl: 'client/views/pages/publicTransportation/helicopter.html'
+        })
         //rental
         .state('rental', {
             url: '/rental',
             templateUrl: 'client/views/pages/rental/index.html'
+        })
+        .state('scooter', {
+            url: '/scooter',
+            templateUrl: 'client/views/pages/rental/scooter.html'
+        })
+        .state('car', {
+            url: '/car',
+            templateUrl: 'client/views/pages/rental/car.html'
+        })
+        .state('bike', {
+            url: '/bike',
+            templateUrl: 'client/views/pages/rental/bike.html'
+        })
+        .state('ATV', {
+            url: '/ATV',
+            templateUrl: 'client/views/pages/rental/ATV.html'
+        })
+        .state('boat', {
+            url: '/boat',
+            templateUrl: 'client/views/pages/rental/boat.html'
         })
         //restaurants
         .state('restaurants', {
@@ -68,6 +104,31 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
         .state('green-tourism', {
             url: '/green-tourism',
             templateUrl: 'client/views/pages/greenTourism/index.html'
+        })
+        //for the kids
+        .state('kids', {
+            url: '/kids',
+            templateUrl: 'client/views/pages/kids/index.html'
+        })
+        //water activities
+        .state('water-activities', {
+            url: '/water-activities',
+            templateUrl: 'client/views/pages/water/index.html'
+        })
+        //golf
+        .state('golf', {
+            url: '/golf',
+            templateUrl: 'client/views/pages/golf/index.html'
+        })
+        //other
+        .state('other', {
+            url: '/other',
+            templateUrl: 'client/views/pages/other/index.html'
+        })
+        //other
+        .state('discover', {
+            url: '/discover',
+            templateUrl: 'client/views/pages/discover/index.html'
         });
 
 }
