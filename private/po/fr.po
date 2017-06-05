@@ -56,10 +56,16 @@ msgstr "Carte 6 voyages"
 msgid "ATTENTION : Last visit, 1 hour before closing time"
 msgstr "ATTENTION : dernière visite, 1 heure avant fermeture"
 
+#: client/views/pages/greenTourism/mountains.html:26
+#: client/views/pages/greenTourism/mountains.html:44
+msgid "Access"
+msgstr "Accès"
+
 #: client/views/pages/curiosities/markets.html:18
 #: client/views/pages/curiosities/markets.html:22
 #: client/views/pages/curiosities/markets.html:26
 #: client/views/pages/curiosities/markets.html:31
+#: client/views/pages/greenTourism/mountains.html:6
 #: client/views/pages/museums/artisanal.html:12
 #: client/views/pages/museums/artisanal.html:40
 #: client/views/pages/museums/artisanal.html:53
@@ -159,6 +165,13 @@ msgstr "Ateliers"
 msgid "Azur Helicopter (rent + transport)"
 msgstr "Azur Helicopter (location + transport)"
 
+#: client/views/pages/greenTourism/mountains.html:28
+msgid ""
+"Between Théoule/mer and St Raphael, at 17km from the city center of Cannes"
+msgstr ""
+"Entre Théoule/mer et St Raphael, à 17km du centre-ville de Cannes, se garer "
+"au parking supérieur du col de l’Esquillon"
+
 #: client/views/pages/rental/bike.html:1
 #: client/views/pages/rental/index.html:27
 #: client/views/pages/rental/index.html:29
@@ -179,6 +192,8 @@ msgstr "Bateau"
 msgid "Boats"
 msgstr "Bateaux"
 
+#: client/views/pages/greenTourism/mountains.html:29
+#: client/views/pages/greenTourism/mountains.html:47
 #: client/views/pages/publicTransportation/index.html:37
 #: client/views/pages/publicTransportation/index.html:39
 msgid "Bus"
@@ -189,6 +204,8 @@ msgstr "Bus"
 msgid "Cannes"
 msgstr "Cannes"
 
+#: client/views/pages/greenTourism/mountains.html:28
+#: client/views/pages/greenTourism/mountains.html:46
 #: client/views/pages/rental/car.html:1 client/views/pages/rental/index.html:17
 #: client/views/pages/rental/index.html:19
 msgid "Car"
@@ -197,6 +214,11 @@ msgstr "Voiture"
 #: client/views/pages/museums/castles.html:42
 msgid "Castle, guided visit"
 msgstr "Visite guidée du château"
+
+#: client/views/pages/greenTourism/mountains.html:19
+#: client/views/pages/greenTourism/mountains.html:37
+msgid "Characteristics"
+msgstr "Caractéristique de l’itinéraire"
 
 #: client/views/pages/publicTransportation/airportExpress.html:148
 msgid "Child rate &lt; 12 years"
@@ -280,9 +302,22 @@ msgstr "Les curiosités"
 msgid "Departure"
 msgstr "Départs"
 
+#: client/views/pages/greenTourism/mountains.html:29
+msgid ""
+"Departure from SNCF de Mandelieu, take bus n°620 (Ligne d’Azur) stop « "
+"L’Esquillon »"
+msgstr ""
+"au départ de la gare SNCF de Mandelieu, prendre le bus n°620 (Ligne d’Azur) "
+"arrêt « L’Esquillon »"
+
 #: client/views/pages/publicTransportation/helicopter.html:3
 msgid "Destinations"
 msgstr "Destinations"
+
+#: client/views/pages/greenTourism/mountains.html:21
+#: client/views/pages/greenTourism/mountains.html:39
+msgid "Distance"
+msgstr "Distance"
 
 #: client/views/pages/museums/museums.html:334
 msgid "Double ticket(for the Renoir museum and the Castle-Museum Grimaldi )"
@@ -626,6 +661,17 @@ msgstr "Juin à Septembre : lundi-dimanche : 10h-17h45"
 msgid "Lebanese restaurant"
 msgstr "Restaurant Libanais"
 
+#: client/views/pages/greenTourism/mountains.html:23
+#: client/views/pages/greenTourism/mountains.html:41
+msgid "Level"
+msgstr "Niveau"
+
+#: client/views/pages/greenTourism/mountains.html:46
+msgid "Located at Théoule/mer, at 9km from the city center of Cannes"
+msgstr ""
+"Situé à Théoule/mer, à 9km du centre-ville de Cannes, rejoindre la gare SNCF "
+"et se garer sur le parking à proximité de la gare"
+
 #: client/views/pages/restaurants/index.html:28
 #: client/views/pages/restaurants/index.html:30
 #: client/views/pages/restaurants/loungeBar.html:1
@@ -666,6 +712,7 @@ msgstr "Restaurant Marocain"
 
 #: client/views/pages/greenTourism/index.html:37
 #: client/views/pages/greenTourism/index.html:39
+#: client/views/pages/greenTourism/mountains.html:1
 msgid "Mountains"
 msgstr "Les Montagnes"
 
@@ -929,6 +976,14 @@ msgstr "Hiver : 10h – 17h30 (Octobre à Avril)"
 msgid "Starting at"
 msgstr "A partir de"
 
+#: client/views/pages/greenTourism/mountains.html:30
+msgid "Stop « Gare de Mandelieu » and take bus 620 (Ligne d’Azur)"
+msgstr "Arrêt « Gare de Mandelieu » puis prendre le bus 620 (Ligne d’Azur)"
+
+#: client/views/pages/greenTourism/mountains.html:48
+msgid "Stop « Gare de Théoule/mer »"
+msgstr "Arrêt « Gare de Théoule/mer », le départ d’effectue devant la gare"
+
 #: client/views/pages/museums/museums.html:114
 #: client/views/pages/museums/museums.html:595
 msgid "Students"
@@ -952,6 +1007,14 @@ msgstr ""
 msgid "Sushi"
 msgstr "Sushi"
 
+#: client/views/pages/greenTourism/mountains.html:47
+msgid ""
+"Take bus n°20 (Palm Bus) stop « Balcon d’Azur », and take bus n°22 (Palm "
+"Bus) or bus n°620 (Ligne d’Azur) stop « Théoule Gare »"
+msgstr ""
+"Prendre le bus n°20 (Palm Bus) arrêt « Balcon d’Azur », puis le bus n°22 "
+"(Palm Bus) ou le bus n°620 (Ligne d’Azur) arrêt « Théoule Gare »"
+
 #: client/views/pages/publicTransportation/index.html:17
 #: client/views/pages/publicTransportation/index.html:19
 #: client/views/pages/publicTransportation/taxi.html:1
@@ -966,6 +1029,7 @@ msgstr "Taï Chi chuan et Qi gong"
 msgid "Tea ceremony"
 msgstr "Cérémonie du thé"
 
+#: client/views/pages/greenTourism/mountains.html:8
 #: client/views/pages/museums/artisanal.html:14
 #: client/views/pages/museums/artisanal.html:42
 #: client/views/pages/museums/artisanal.html:55
@@ -1060,6 +1124,11 @@ msgstr "Groupe 10+ personnes"
 msgid "Ticket group 24h"
 msgstr "Ticket groupe 24h"
 
+#: client/views/pages/greenTourism/mountains.html:22
+#: client/views/pages/greenTourism/mountains.html:40
+msgid "Time"
+msgstr "Durée"
+
 #: client/views/pages/discover/index.html:1
 #: client/views/pages/touristic-information.html:107
 #: client/views/pages/touristic-information.html:109
@@ -1070,6 +1139,8 @@ msgstr "A voir – A Découvrir"
 msgid "Touristic information"
 msgstr "Information touristique"
 
+#: client/views/pages/greenTourism/mountains.html:30
+#: client/views/pages/greenTourism/mountains.html:48
 #: client/views/pages/publicTransportation/index.html:27
 #: client/views/pages/publicTransportation/index.html:29
 msgid "Train"
@@ -1136,6 +1207,7 @@ msgstr "Les activités nautiques"
 
 #: client/views/pages/greenTourism/islands.html:117
 #: client/views/pages/greenTourism/islands.html:55
+#: client/views/pages/greenTourism/mountains.html:10
 #: client/views/pages/museums/artisanal.html:100
 #: client/views/pages/museums/artisanal.html:16
 #: client/views/pages/museums/artisanal.html:44
@@ -1181,6 +1253,10 @@ msgstr "Week-end et vacances scolaires:"
 msgid "Younger than 26 years"
 msgstr "Moins de 26 ans et Cagnois"
 
+#: client/views/pages/greenTourism/mountains.html:41
+msgid "athletic"
+msgstr "sportive"
+
 #: client/views/pages/museums/castles.html:136
 msgid "children between 7-17 years and students"
 msgstr "Enfants de 7-17 ans, étudiants"
@@ -1210,6 +1286,10 @@ msgstr "Gratuité"
 #: client/views/pages/rental/boat.html:65
 msgid "from"
 msgstr "du"
+
+#: client/views/pages/greenTourism/mountains.html:23
+msgid "medium"
+msgstr "moyen"
 
 #: client/views/pages/greenTourism/islands.html:112
 #: client/views/pages/greenTourism/islands.html:50
