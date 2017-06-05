@@ -120,6 +120,10 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/all-museums',
             templateUrl: 'client/views/pages/museums/museums.html'
         })
+        .state('castles', {
+            url: '/castles',
+            templateUrl: 'client/views/pages/museums/castles.html'
+        })
         //green tourism
         .state('green-tourism', {
             url: '/green-tourism',

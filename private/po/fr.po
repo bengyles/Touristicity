@@ -52,6 +52,11 @@ msgstr "ATTENTION : dernière visite, 1 heure avant fermeture"
 #: client/views/pages/curiosities/markets.html:22
 #: client/views/pages/curiosities/markets.html:26
 #: client/views/pages/curiosities/markets.html:31
+#: client/views/pages/museums/castles.html:109
+#: client/views/pages/museums/castles.html:163
+#: client/views/pages/museums/castles.html:177
+#: client/views/pages/museums/castles.html:64
+#: client/views/pages/museums/castles.html:72
 #: client/views/pages/museums/museums.html:120
 #: client/views/pages/museums/museums.html:142
 #: client/views/pages/museums/museums.html:179
@@ -165,6 +170,10 @@ msgstr "Cannes"
 msgid "Car"
 msgstr "Voiture"
 
+#: client/views/pages/museums/castles.html:42
+msgid "Castle, guided visit"
+msgstr "Visite guidée du château"
+
 #: client/views/pages/publicTransportation/airportExpress.html:148
 msgid "Child rate &lt; 12 years"
 msgstr "Tarif enfant &lt; 12 ans"
@@ -180,6 +189,10 @@ msgstr "Enfant (de 10 à 17 ans)"
 #: client/views/pages/museums/museums.html:599
 msgid "Children -4 year"
 msgstr "Enfants de moins de 4 ans"
+
+#: client/views/pages/museums/castles.html:144
+msgid "Children under the age of 7"
+msgstr "Pour les enfants moins de 7 ans"
 
 #: client/views/pages/museums/museums.html:98
 msgid "Children younger than 10 year"
@@ -238,6 +251,10 @@ msgstr ""
 "Billet double (applicable aux personnes souhaitant visiter le Musée Renoir "
 "et le Château-Musée Grimaldi dans la même journée)"
 
+#: client/views/pages/museums/castles.html:22
+msgid "During the week (not during school vacations):"
+msgstr "En semaine hors vacances scolaires:"
+
 #: client/views/pages/discover/index.html:17
 #: client/views/pages/discover/index.html:19
 #: client/views/pages/discover/index.html:27
@@ -255,6 +272,10 @@ msgstr "Tous les vendredis, samedis et dimanches à partir de 15h"
 #: client/views/pages/museums/museums.html:268
 msgid "Every day except Monday"
 msgstr "Ouvert tous les jours sauf les lundis"
+
+#: client/views/pages/museums/castles.html:171
+msgid "Every day except Tuesday from 10h - 18h"
+msgstr "Ouvert tous les jour sauf le mardi de 10h à 18h"
 
 #: client/views/pages/museums/museums.html:354
 msgid ""
@@ -298,6 +319,10 @@ msgstr "Automne (septembre – novembre) : 10h00 – 17h30"
 msgid "Family"
 msgstr "Famille"
 
+#: client/views/pages/museums/castles.html:103
+msgid "Family offer"
+msgstr "Offre famille"
+
 #: client/views/pages/curiosities/markets.html:17
 msgid "Flower kiosk"
 msgstr "Kiosques à fleurs des Allées"
@@ -321,6 +346,9 @@ msgstr "Pour les Enfants"
 msgid "Forests"
 msgstr "Les forêts"
 
+#: client/views/pages/museums/castles.html:141
+#: client/views/pages/museums/castles.html:145
+#: client/views/pages/museums/castles.html:59
 #: client/views/pages/museums/museums.html:376
 #: client/views/pages/museums/museums.html:483
 #: client/views/pages/museums/museums.html:499
@@ -330,6 +358,7 @@ msgstr "Les forêts"
 msgid "Free"
 msgstr "Gratuit"
 
+#: client/views/pages/museums/castles.html:174
 #: client/views/pages/museums/museums.html:331
 msgid "Free entrance"
 msgstr "Gratuit"
@@ -338,6 +367,12 @@ msgstr "Gratuit"
 msgid "Free entrance for students and under the age of 18"
 msgstr ""
 "Ticket gratuit pour enfants de moins de 18 ans, étudiants, journalistes"
+
+#: client/views/pages/museums/castles.html:104
+msgid "Free entrance for the 2nd child (between 7 and 17 year)"
+msgstr ""
+"Entrée gratuite pour le 2e enfant âgé de 7 à 17 ans (avec 2 adultes et 1 "
+"enfant payant)"
 
 #: client/views/pages/museums/museums.html:318
 msgid "From April until May : 10h - 12h and 14h - 18h"
@@ -352,6 +387,14 @@ msgstr "De juin à septembre : de 10h à 13h et de 14h à 18h"
 msgid "From May until October: from  10h - 18h"
 msgstr "De 10h à 18h de mai à octobre"
 
+#: client/views/pages/museums/castles.html:125
+msgid ""
+"From November until January: From Monday until Friday from 14h-18h / the "
+"weekends, from 10h-18h"
+msgstr ""
+"De novembre à janvier : du lundi au vendredi de 14h-18h / les week-ends, "
+"jours fériés et vacances scolaires de 10h-18h"
+
 #: client/views/pages/museums/museums.html:317
 msgid "From October until March: 10h-12h and 14h - 17h"
 msgstr "D’octobre à mars : de 10h à 12h et de 14h à 17h"
@@ -364,6 +407,26 @@ msgstr "Du 1er juillet au 31 août : de 10h à 18h"
 msgid "From the 1st of September until the 30th of June 1er : 10h - 17h"
 msgstr "Du 1er septembre au 30 juin : de 10h à 17h"
 
+#: client/views/pages/museums/castles.html:88
+msgid ""
+"From the 1st of September until the 31st of December: Open every day from "
+"10h00-17h00"
+msgstr "Du 1er septembre au 31 décembre : Ouvert tous les jours de 10h00-17h00"
+
+#: client/views/pages/museums/castles.html:86
+msgid ""
+"From the 2nd of January until the 30th of April: Open every day from "
+"10h00-17h00"
+msgstr "Du 2 janvier au 30 avril : Ouvert tous les jours de 10h00-17h00"
+
+#: client/views/pages/museums/castles.html:87
+msgid ""
+"From the 2nd of May until the 31st of August: Open every day from 10h00-19h00"
+msgstr "Du 2 mai au 31 août : Ouvert tous les jours de 10h00-19h00"
+
+#: client/views/pages/museums/castles.html:132
+#: client/views/pages/museums/castles.html:153
+#: client/views/pages/museums/castles.html:95
 #: client/views/pages/museums/museums.html:165
 #: client/views/pages/museums/museums.html:17
 #: client/views/pages/museums/museums.html:207
@@ -374,6 +437,15 @@ msgstr "Du 1er septembre au 30 juin : de 10h à 17h"
 #: client/views/pages/museums/museums.html:53
 msgid "Full price"
 msgstr "Plein tarif"
+
+#: client/views/pages/museums/castles.html:46
+msgid "Full rate(adults)"
+msgstr "Plein tarif (adultes)"
+
+#: client/views/pages/museums/castles.html:33
+#: client/views/pages/museums/castles.html:37
+msgid "Gardens"
+msgstr "Des jardins"
 
 #: client/views/pages/touristic-information.html:87
 #: client/views/pages/touristic-information.html:89
@@ -394,6 +466,10 @@ msgstr "Groupe 4 personnes"
 msgid "Group rate  (10 people)"
 msgstr "Tarif group (10 personnes)"
 
+#: client/views/pages/museums/castles.html:54
+msgid "Groups"
+msgstr "Groupes et conventions"
+
 #: client/views/pages/museums/museums.html:533
 msgid "Groups (10 persons), Students"
 msgstr "Groupes (10 personnes), étudiants"
@@ -405,6 +481,18 @@ msgstr "Groupe 10+ personnes"
 #: client/views/pages/museums/museums.html:110
 msgid "Groups 10+ People"
 msgstr "Groupe 10+ personnes"
+
+#: client/views/pages/museums/castles.html:10
+msgid "Guided visit : 11h30, 14h30, 15h30 and 16h30"
+msgstr "Visites guidées à : 11h30, 14h30, 15h30 et 16h30"
+
+#: client/views/pages/museums/castles.html:19
+msgid "Guided visits: 11h30, 14h30, 15h30"
+msgstr "Visites guidées à : 11h30, 14h30, 15h30"
+
+#: client/views/pages/museums/castles.html:25
+msgid "Guided visits: 14h30, 15h30"
+msgstr "Visites guidées à : 14h30, 15h30"
 
 #: client/views/pages/publicTransportation/helicopter.html:1
 #: client/views/pages/publicTransportation/index.html:57
@@ -455,6 +543,10 @@ msgstr "Juillet, août"
 #: client/views/pages/museums/museums.html:135
 msgid "July and August : 9h30 - 21h00 (7/7)"
 msgstr "Juillet et Août : de 9h30 à 9h00 (7 sur 7)"
+
+#: client/views/pages/museums/castles.html:124
+msgid "July and August from 10h-19h"
+msgstr "En juillet et août de 10h-19h"
 
 #: client/views/pages/museums/museums.html:9
 msgid "July and August: Monday-Sunday : 10h-19h"
@@ -555,6 +647,26 @@ msgstr "Ouvert tous les jours"
 msgid "Open every day, except Tuesdays"
 msgstr "Ouvert tous les jours sauf les lundis"
 
+#: client/views/pages/museums/castles.html:122
+msgid "Open every day, the whole year from10h -18h except:"
+msgstr "Ouvert tous les jours de toute l’année de 10h à 18h sauf:"
+
+#: client/views/pages/museums/castles.html:18
+msgid "Open from 10h until 17h"
+msgstr "Ouverture de 10h à 17h"
+
+#: client/views/pages/museums/castles.html:9
+msgid "Open from 10h-18h"
+msgstr "Ouverture de 10h à 18h"
+
+#: client/views/pages/museums/castles.html:24
+msgid "Open from 14h -17h"
+msgstr "Ouverture de 14h à 17h"
+
+#: client/views/pages/museums/castles.html:121
+#: client/views/pages/museums/castles.html:170
+#: client/views/pages/museums/castles.html:4
+#: client/views/pages/museums/castles.html:84
 #: client/views/pages/museums/museums.html:132
 #: client/views/pages/museums/museums.html:154
 #: client/views/pages/museums/museums.html:191
@@ -590,6 +702,10 @@ msgstr "Autres"
 msgid "Parks"
 msgstr "Les parcs"
 
+#: client/views/pages/museums/castles.html:149
+msgid "Pass 2 villas : Rothschild + Kérylos"
+msgstr "Pass 2 villas : Rothschild + Kérylos"
+
 #: client/views/pages/curiosities/markets.html:13
 msgid "Provencal Market Gambetta – from Tuesday until Sunday from 7h à 13h am"
 msgstr "Marché Provençal Gambetta – du mardi au dimanche de 7h à 13h"
@@ -613,6 +729,10 @@ msgstr "Transports en commun"
 msgid "Rate"
 msgstr "Tarifs"
 
+#: client/views/pages/museums/castles.html:128
+#: client/views/pages/museums/castles.html:173
+#: client/views/pages/museums/castles.html:32
+#: client/views/pages/museums/castles.html:91
 #: client/views/pages/museums/museums.html:13
 #: client/views/pages/museums/museums.html:139
 #: client/views/pages/museums/museums.html:161
@@ -631,10 +751,15 @@ msgstr "Tarifs"
 msgid "Rates"
 msgstr "Tarifs"
 
+#: client/views/pages/museums/castles.html:136
+#: client/views/pages/museums/castles.html:140
+#: client/views/pages/museums/castles.html:157
+#: client/views/pages/museums/castles.html:99
 #: client/views/pages/museums/museums.html:367
 msgid "Reduced price"
 msgstr "Tarif réduit"
 
+#: client/views/pages/museums/castles.html:50
 #: client/views/pages/museums/museums.html:244
 msgid "Reduced rate"
 msgstr "Tarif réduit"
@@ -738,6 +863,11 @@ msgstr "Taï Chi chuan et Qi gong"
 msgid "Tea ceremony"
 msgstr "Cérémonie du thé"
 
+#: client/views/pages/museums/castles.html:111
+#: client/views/pages/museums/castles.html:165
+#: client/views/pages/museums/castles.html:179
+#: client/views/pages/museums/castles.html:66
+#: client/views/pages/museums/castles.html:74
 #: client/views/pages/museums/museums.html:122
 #: client/views/pages/museums/museums.html:144
 #: client/views/pages/museums/museums.html:181
@@ -765,6 +895,14 @@ msgid ""
 "The 23th of June until the 15th of October : every day from 10 until 18, "
 "except Mondays"
 msgstr "23 juin – 15 octobre : tous les jours de 10h à 18h sauf le lundi"
+
+#: client/views/pages/museums/castles.html:140
+msgid "The 2nd child (between 7 and 17 year)"
+msgstr "Le 2eme enfant âgé de 7-17 ans"
+
+#: client/views/pages/museums/castles.html:14
+msgid "The 8th of  November until the 10th of February:"
+msgstr "8 novembre au 10 février:"
 
 #: client/views/pages/curiosities/markets.html:11
 msgid ""
@@ -844,12 +982,17 @@ msgstr ""
 "Le 1er dimanche de chaque moins de novembre à mars inclus, moins de 18 ans, "
 "étudiants jusqu’à 26 ans"
 
+#: client/views/pages/museums/castles.html:58
+msgid "Under the age of 7"
+msgstr "Enfants de moins de 7 ans"
+
 #: client/views/pages/rental/index.html:1
 #: client/views/pages/touristic-information.html:17
 #: client/views/pages/touristic-information.html:19
 msgid "Vehicle rental"
 msgstr "Location de véhicules"
 
+#: client/views/pages/museums/castles.html:1
 #: client/views/pages/museums/index.html:17
 #: client/views/pages/museums/index.html:19
 msgid "Villas and castles"
@@ -870,6 +1013,8 @@ msgstr "Vistite libre"
 msgid "Water activities"
 msgstr "Les activités nautiques"
 
+#: client/views/pages/museums/castles.html:113
+#: client/views/pages/museums/castles.html:76
 #: client/views/pages/museums/museums.html:124
 #: client/views/pages/museums/museums.html:146
 #: client/views/pages/museums/museums.html:183
@@ -899,9 +1044,17 @@ msgstr ""
 "et d’Afrique du Nord <br>Centre-ville (devant Esterel Gallery) et sur le "
 "parking Casinca (devant Escota)"
 
+#: client/views/pages/museums/castles.html:16
+msgid "Weekend and school vacations:"
+msgstr "Week-end et vacances scolaires:"
+
 #: client/views/pages/museums/museums.html:330
 msgid "Younger than 26 years"
 msgstr "Moins de 26 ans et Cagnois"
+
+#: client/views/pages/museums/castles.html:136
+msgid "children between 7-17 years and students"
+msgstr "Enfants de 7-17 ans, étudiants"
 
 #: client/views/pages/rental/MBT.html:23 client/views/pages/rental/MBT.html:8
 #: client/views/pages/rental/bike.html:20
@@ -941,6 +1094,10 @@ msgstr ""
 "2 janvier-22juin et 16 octobre-31 décembre : tous les jours de 11h à 18h "
 "sauf le lundi"
 
+#: client/views/pages/museums/castles.html:7
+msgid "the 7th of February until the 7th of November:"
+msgstr "7 février au 7 novembre:"
+
 #: client/views/pages/rental/boat.html:65
 msgid "until"
 msgstr "au"
@@ -949,8 +1106,9 @@ msgstr "au"
 msgid "€ 10,00/person, € 5,00/child"
 msgstr "€ 10,00/personne, € 5,00/enfant"
 
-#~ msgid "Full rate"
-#~ msgstr "Plein tarif"
+#: client/views/pages/museums/castles.html:38
+msgid "€ 3.50/person (Free entrance under the age of 7)"
+msgstr "€ 3.50/pers (gratuité enfants de moins de 7 ans)"
 
 #~ msgid "Tapas"
 #~ msgstr "Tapas"
