@@ -12,17 +12,75 @@ msgstr ""
 "X-Generator: Poedit 2.0.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+#: client/views/pages/museums/museums.html:287
+msgid "+ 15 people"
+msgstr "+ 15 personnes"
+
+#: client/views/pages/museums/museums.html:538
+msgid "-18"
+msgstr "-18"
+
+#: client/views/pages/museums/museums.html:134
+msgid "09h30 -18h30 (Closed between 13h and 14h )"
+msgstr ""
+"09h30 à 18h30 (fermée entre 13 et 14H ainsi que les dimanches d’octobre à "
+"mars inclus, sauf vacances scolaires)"
+
+#: client/views/pages/museums/museums.html:269
+msgid "16th of September – 14th of June : 10h – 13h / 14h – 18h"
+msgstr "16 septembre – 14 juin : 10h – 13h / 14h – 18h"
+
+#: client/views/pages/museums/museums.html:81
+msgid "1st of October until the 20th of June: 10h – 18h"
+msgstr "1 octobre – 20 juin : 10h – 18h"
+
+#: client/views/pages/museums/museums.html:395
+msgid ""
+"2nd of Januar until the 22nd of June and the 16th of October until the 31 of "
+"December: 11h – 18h"
+msgstr "2 janvier au 22 juin et du 16 octobre au 31 décembre : 11h – 18h"
+
 #: client/views/pages/publicTransportation/airportExpress.html:144
 msgid "6 trips card"
 msgstr "Carte 6 voyages"
+
+#: client/views/pages/museums/museums.html:136
+msgid "ATTENTION : Last visit, 1 hour before closing time"
+msgstr "ATTENTION : dernière visite, 1 heure avant fermeture"
 
 #: client/views/pages/curiosities/markets.html:18
 #: client/views/pages/curiosities/markets.html:22
 #: client/views/pages/curiosities/markets.html:26
 #: client/views/pages/curiosities/markets.html:31
+#: client/views/pages/museums/museums.html:120
+#: client/views/pages/museums/museums.html:142
+#: client/views/pages/museums/museums.html:179
+#: client/views/pages/museums/museums.html:217
+#: client/views/pages/museums/museums.html:254
+#: client/views/pages/museums/museums.html:292
+#: client/views/pages/museums/museums.html:307
+#: client/views/pages/museums/museums.html:31
+#: client/views/pages/museums/museums.html:340
+#: client/views/pages/museums/museums.html:381
+#: client/views/pages/museums/museums.html:417
+#: client/views/pages/museums/museums.html:459
+#: client/views/pages/museums/museums.html:504
+#: client/views/pages/museums/museums.html:545
+#: client/views/pages/museums/museums.html:605
+#: client/views/pages/museums/museums.html:67
 #: client/views/pages/publicTransportation/helicopter.html:11
 msgid "Address"
 msgstr "Adresse"
+
+#: client/views/pages/museums/museums.html:326
+#: client/views/pages/museums/museums.html:587
+#: client/views/pages/museums/museums.html:90
+msgid "Adults"
+msgstr "Adulte"
+
+#: client/views/pages/museums/museums.html:173
+msgid "Age -18"
+msgstr "moins de 18h, chômeurs et handicapés"
 
 #: client/views/pages/publicTransportation/airportExpress.html:1
 #: client/views/pages/publicTransportation/index.html:7
@@ -43,6 +101,18 @@ msgstr "Animaux / nature"
 msgid "Animation parks"
 msgstr "Les parcs d'attractions"
 
+#: client/views/pages/museums/museums.html:8
+msgid "April until June : Tuesday-Sunday : 10h-13h and 14h-18h"
+msgstr "Avril à Juin : mardi-dimanche : 10h-13h et 14h-18h"
+
+#: client/views/pages/museums/museums.html:45
+msgid "April until May : Tuesday-Sunday : 10h30-13h15 and 14h15-17h45"
+msgstr "Avril à Mai : mardi-dimanche : 10h30-13h15 et 14h15-17h45"
+
+#: client/views/pages/museums/museums.html:565
+msgid "April, May and June"
+msgstr "Avril, mai, juin"
+
 #: client/views/pages/curiosities/markets.html:21
 msgid "Artisanal market"
 msgstr "Marché des artisans"
@@ -51,6 +121,10 @@ msgstr "Marché des artisans"
 #: client/views/pages/museums/index.html:29
 msgid "Artisanal visits"
 msgstr "Le visite artisanal"
+
+#: client/views/pages/museums/museums.html:490
+msgid "Ateliers"
+msgstr "Ateliers"
 
 #: client/views/pages/publicTransportation/helicopter.html:2
 msgid "Azur Helicopter (rent + transport)"
@@ -95,10 +169,58 @@ msgstr "Voiture"
 msgid "Child rate &lt; 12 years"
 msgstr "Tarif enfant &lt; 12 ans"
 
+#: client/views/pages/museums/museums.html:591
+msgid "Children  (4-12 year)"
+msgstr "Enfants (4-12 ans)"
+
+#: client/views/pages/museums/museums.html:94
+msgid "Children (10 -17 year)"
+msgstr "Enfant (de 10 à 17 ans)"
+
+#: client/views/pages/museums/museums.html:599
+msgid "Children -4 year"
+msgstr "Enfants de moins de 4 ans"
+
+#: client/views/pages/museums/museums.html:98
+msgid "Children younger than 10 year"
+msgstr "Enfant moins de 10 ans"
+
 #: client/views/pages/restaurants/internationalCuisine.html:85
 #: client/views/pages/restaurants/internationalCuisine.html:98
 msgid "Chinese restaurant"
 msgstr "Restaurant Chinois"
+
+#: client/views/pages/museums/museums.html:83
+msgid "Closed : the 25th of December"
+msgstr "Fermeture : 25 décembre"
+
+#: client/views/pages/museums/museums.html:319
+msgid "Closed every Tuesday and 25/12, 01/01 et 01/05"
+msgstr "Fermé le mardi et les 25/12, 01/01 et 01/05"
+
+#: client/views/pages/museums/museums.html:434
+msgid "Closed the 1st of January, the 1st of May and the 25nd of December"
+msgstr ""
+"Le musée est fermé le 1er janvier, le dimanche de Pâques, le 1er mai, et le "
+"25 décembre"
+
+#: client/views/pages/museums/museums.html:271
+msgid ""
+"Closed the 1st of January, the 1st of May, the 1st of November and the 25th "
+"of December"
+msgstr "Fermé le 1er janvier, le 1er mai, le 1er novembre et le 25 décembre"
+
+#: client/views/pages/museums/museums.html:196
+msgid "Closed: 1st of May, the  1st of December until the 31st of March"
+msgstr "Fermetures annuelles : 1er mai, du 1er décembre au 31 mars"
+
+#: client/views/pages/museums/museums.html:158
+msgid "Closed: 1st of May, the 25th of December, 1st of January"
+msgstr "Fermetures annuelles : 1er mai, 25 décembre, 1er janvier"
+
+#: client/views/pages/museums/museums.html:286
+msgid "Condition for a group"
+msgstr "Condition Groupes"
 
 #: client/views/pages/curiosities/index.html:1
 #: client/views/pages/touristic-information.html:37
@@ -109,6 +231,12 @@ msgstr "Les curiosités"
 #: client/views/pages/publicTransportation/helicopter.html:3
 msgid "Destinations"
 msgstr "Destinations"
+
+#: client/views/pages/museums/museums.html:334
+msgid "Double ticket(for the Renoir museum and the Castle-Museum Grimaldi )"
+msgstr ""
+"Billet double (applicable aux personnes souhaitant visiter le Musée Renoir "
+"et le Château-Musée Grimaldi dans la même journée)"
 
 #: client/views/pages/discover/index.html:17
 #: client/views/pages/discover/index.html:19
@@ -124,9 +252,51 @@ msgstr "Escape games"
 msgid "Every Friday, Saturday and Sunday from 15h"
 msgstr "Tous les vendredis, samedis et dimanches à partir de 15h"
 
+#: client/views/pages/museums/museums.html:268
+msgid "Every day except Monday"
+msgstr "Ouvert tous les jours sauf les lundis"
+
+#: client/views/pages/museums/museums.html:354
+msgid ""
+"Every day except Tuesdays, the 1st of Januar, the 1st of May and the 25th of "
+"December"
+msgstr ""
+"Ouvert tous les jours sauf le mardi, les 1er janvier, 1er mai, 25 décembre"
+
+#: client/views/pages/museums/museums.html:231
+msgid ""
+"Every day, except Tuesday, the 1st of January, the 1st of May and the 25th "
+"of December"
+msgstr ""
+"Ouvert tous les jours sauf le mardi, les 1er janvier, 1er mai, 25 décembre"
+
+#: client/views/pages/museums/museums.html:517
+msgid ""
+"Every day, the whole year : from May until September : 10h – 18h and from "
+"October until April : 11h-17h"
+msgstr ""
+"ouvert toute l’année : De mai à septembre de 10h à 18h. D’octobre à avril de "
+"11h à 17h. Fermeture hebdomadaire le lundi."
+
 #: client/views/pages/curiosities/markets.html:27
 msgid "Every morning from 6h until 13h"
 msgstr "Tous les matins, de 6h à 13h"
+
+#: client/views/pages/museums/museums.html:524
+msgid "Exposition permanent + temporary"
+msgstr "Exposition permanente + tempraire"
+
+#: client/views/pages/museums/museums.html:523
+msgid "Exposition permanent or temporary"
+msgstr "Exposition permanente ou temporaire"
+
+#: client/views/pages/museums/museums.html:195
+msgid "Fall (September – November) : 10h00 – 17h30"
+msgstr "Automne (septembre – novembre) : 10h00 – 17h30"
+
+#: client/views/pages/museums/museums.html:102
+msgid "Family"
+msgstr "Famille"
 
 #: client/views/pages/curiosities/markets.html:17
 msgid "Flower kiosk"
@@ -151,6 +321,60 @@ msgstr "Pour les Enfants"
 msgid "Forests"
 msgstr "Les forêts"
 
+#: client/views/pages/museums/museums.html:376
+#: client/views/pages/museums/museums.html:483
+#: client/views/pages/museums/museums.html:499
+#: client/views/pages/museums/museums.html:539
+#: client/views/pages/museums/museums.html:540
+#: client/views/pages/museums/museums.html:600
+msgid "Free"
+msgstr "Gratuit"
+
+#: client/views/pages/museums/museums.html:331
+msgid "Free entrance"
+msgstr "Gratuit"
+
+#: client/views/pages/museums/museums.html:453
+msgid "Free entrance for students and under the age of 18"
+msgstr ""
+"Ticket gratuit pour enfants de moins de 18 ans, étudiants, journalistes"
+
+#: client/views/pages/museums/museums.html:318
+msgid "From April until May : 10h - 12h and 14h - 18h"
+msgstr "D’ avril à mai : de 10h à 12h et de 14h à 18h"
+
+#: client/views/pages/museums/museums.html:316
+msgid "From June until September: 10h-13h and 14h - 18h"
+msgstr "De juin à septembre : de 10h à 13h et de 14h à 18h"
+
+#: client/views/pages/museums/museums.html:233
+#: client/views/pages/museums/museums.html:270
+msgid "From May until October: from  10h - 18h"
+msgstr "De 10h à 18h de mai à octobre"
+
+#: client/views/pages/museums/museums.html:317
+msgid "From October until March: 10h-12h and 14h - 17h"
+msgstr "D’octobre à mars : de 10h à 12h et de 14h à 17h"
+
+#: client/views/pages/museums/museums.html:475
+msgid "From the 1st of July until the 31st of August:  10h - 18h"
+msgstr "Du 1er juillet au 31 août : de 10h à 18h"
+
+#: client/views/pages/museums/museums.html:474
+msgid "From the 1st of September until the 30th of June 1er : 10h - 17h"
+msgstr "Du 1er septembre au 30 juin : de 10h à 17h"
+
+#: client/views/pages/museums/museums.html:165
+#: client/views/pages/museums/museums.html:17
+#: client/views/pages/museums/museums.html:207
+#: client/views/pages/museums/museums.html:240
+#: client/views/pages/museums/museums.html:278
+#: client/views/pages/museums/museums.html:363
+#: client/views/pages/museums/museums.html:528
+#: client/views/pages/museums/museums.html:53
+msgid "Full price"
+msgstr "Plein tarif"
+
 #: client/views/pages/touristic-information.html:87
 #: client/views/pages/touristic-information.html:89
 msgid "Golf resort"
@@ -165,6 +389,22 @@ msgstr "Le tourisme vert"
 #: client/views/pages/publicTransportation/airportExpress.html:152
 msgid "Group of 4 people"
 msgstr "Groupe 4 personnes"
+
+#: client/views/pages/museums/museums.html:248
+msgid "Group rate  (10 people)"
+msgstr "Tarif group (10 personnes)"
+
+#: client/views/pages/museums/museums.html:533
+msgid "Groups (10 persons), Students"
+msgstr "Groupes (10 personnes), étudiants"
+
+#: client/views/pages/museums/museums.html:371
+msgid "Groups (Minimum 10 people)"
+msgstr "Groupe 10+ personnes"
+
+#: client/views/pages/museums/museums.html:110
+msgid "Groups 10+ People"
+msgstr "Groupe 10+ personnes"
 
 #: client/views/pages/publicTransportation/helicopter.html:1
 #: client/views/pages/publicTransportation/index.html:57
@@ -199,10 +439,30 @@ msgstr "Les îles"
 msgid "Italian restaurant"
 msgstr "Restaurant Italienne"
 
+#: client/views/pages/museums/museums.html:561
+msgid "January, February and March"
+msgstr "Janvier, février, mars"
+
 #: client/views/pages/restaurants/internationalCuisine.html:59
 #: client/views/pages/restaurants/internationalCuisine.html:72
 msgid "Japanese restaurant"
 msgstr "Restaurant Japonais"
+
+#: client/views/pages/museums/museums.html:569
+msgid "July and August"
+msgstr "Juillet, août"
+
+#: client/views/pages/museums/museums.html:135
+msgid "July and August : 9h30 - 21h00 (7/7)"
+msgstr "Juillet et Août : de 9h30 à 9h00 (7 sur 7)"
+
+#: client/views/pages/museums/museums.html:9
+msgid "July and August: Monday-Sunday : 10h-19h"
+msgstr "Juillet à Août : lundi-dimanche : 10h-19h"
+
+#: client/views/pages/museums/museums.html:46
+msgid "June until September: Monday-Sunday : 10h-17h45"
+msgstr "Juin à Septembre : lundi-dimanche : 10h-17h45"
 
 #: client/views/pages/restaurants/internationalCuisine.html:33
 #: client/views/pages/restaurants/internationalCuisine.html:46
@@ -226,6 +486,10 @@ msgstr "VTT"
 msgid "Markets"
 msgstr "Les marchés"
 
+#: client/views/pages/museums/museums.html:356
+msgid "May until October: 10h - 18h"
+msgstr "De 10h à 18h de mai à octobre"
+
 #: client/views/pages/restaurants/highGastronomy.html:20
 #: client/views/pages/restaurants/highGastronomy.html:7
 msgid "Modern, creative cuisine"
@@ -241,9 +505,14 @@ msgstr "Restaurant Marocain"
 msgid "Mountains"
 msgstr "Les Montagnes"
 
+#: client/views/pages/museums/museums.html:203
+msgid "Museum and gardens"
+msgstr "Entrée musée + jardins"
+
 #: client/views/pages/museums/index.html:1
 #: client/views/pages/museums/index.html:7
 #: client/views/pages/museums/index.html:9
+#: client/views/pages/museums/museums.html:1
 #: client/views/pages/touristic-information.html:47
 #: client/views/pages/touristic-information.html:49
 msgid "Museums"
@@ -254,9 +523,56 @@ msgstr "Les musées"
 msgid "Nice Airport"
 msgstr "Nice Aéroport"
 
+#: client/views/pages/museums/museums.html:232
+msgid "November until April : from 10h - 17h"
+msgstr "De 10h à 17h de novembre à avril"
+
+#: client/views/pages/museums/museums.html:355
+msgid "November until April: 10h - 17h"
+msgstr "De 10h à 17h de novembre à avril"
+
+#: client/views/pages/museums/museums.html:44
+msgid "October until March : Tuesday-Sunday : 10h30-13h15 and 14h15-16h45"
+msgstr "Octobre à Mars : mardi-dimanche : 10h30-13h15 et 14h15-16h45"
+
+#: client/views/pages/museums/museums.html:7
+msgid "October until March: Tuesday-Sunday : 10h-13h and 14h-17h"
+msgstr "Octobre à Mars : mardi-dimanche : 10h-13h et 14h-17h"
+
+#: client/views/pages/museums/museums.html:577
+msgid "October, November, December"
+msgstr "Octobre, novembre, décembre"
+
 #: client/views/pages/publicTransportation/airportExpress.html:132
 msgid "One way trip"
 msgstr "Trajet simple"
+
+#: client/views/pages/museums/museums.html:305
+msgid "Open every day"
+msgstr "Ouvert tous les jours"
+
+#: client/views/pages/museums/museums.html:473
+msgid "Open every day, except Tuesdays"
+msgstr "Ouvert tous les jours sauf les lundis"
+
+#: client/views/pages/museums/museums.html:132
+#: client/views/pages/museums/museums.html:154
+#: client/views/pages/museums/museums.html:191
+#: client/views/pages/museums/museums.html:229
+#: client/views/pages/museums/museums.html:266
+#: client/views/pages/museums/museums.html:304
+#: client/views/pages/museums/museums.html:314
+#: client/views/pages/museums/museums.html:352
+#: client/views/pages/museums/museums.html:393
+#: client/views/pages/museums/museums.html:42
+#: client/views/pages/museums/museums.html:430
+#: client/views/pages/museums/museums.html:471
+#: client/views/pages/museums/museums.html:5
+#: client/views/pages/museums/museums.html:516
+#: client/views/pages/museums/museums.html:557
+#: client/views/pages/museums/museums.html:79
+msgid "Opening hours"
+msgstr "Horaires"
 
 #: client/views/pages/other/index.html:1
 #: client/views/pages/touristic-information.html:97
@@ -297,6 +613,49 @@ msgstr "Transports en commun"
 msgid "Rate"
 msgstr "Tarifs"
 
+#: client/views/pages/museums/museums.html:13
+#: client/views/pages/museums/museums.html:139
+#: client/views/pages/museums/museums.html:161
+#: client/views/pages/museums/museums.html:199
+#: client/views/pages/museums/museums.html:236
+#: client/views/pages/museums/museums.html:274
+#: client/views/pages/museums/museums.html:322
+#: client/views/pages/museums/museums.html:359
+#: client/views/pages/museums/museums.html:399
+#: client/views/pages/museums/museums.html:437
+#: client/views/pages/museums/museums.html:478
+#: client/views/pages/museums/museums.html:49
+#: client/views/pages/museums/museums.html:519
+#: client/views/pages/museums/museums.html:583
+#: client/views/pages/museums/museums.html:86
+msgid "Rates"
+msgstr "Tarifs"
+
+#: client/views/pages/museums/museums.html:367
+msgid "Reduced price"
+msgstr "Tarif réduit"
+
+#: client/views/pages/museums/museums.html:244
+msgid "Reduced rate"
+msgstr "Tarif réduit"
+
+#: client/views/pages/museums/museums.html:21
+#: client/views/pages/museums/museums.html:57
+msgid "Reduced rate (18-25 year, group min. 10 adults)"
+msgstr "Tarif réduit (18 à 25 ans, groupe à partir de 10 adultes)"
+
+#: client/views/pages/museums/museums.html:282
+msgid "Reduced rate (Students, age +65, big families)"
+msgstr "Demi-tarif (étudients, ans +65, familles nombreuses)"
+
+#: client/views/pages/museums/museums.html:211
+msgid "Reduced rate: students and groups (minimum 10 people)"
+msgstr "Demi-tarif : étudiants et groupes (min. 10 personnes)"
+
+#: client/views/pages/museums/museums.html:169
+msgid "Reduced rate: students and groups(min. 10 People)"
+msgstr "Demi-tarif : étudiants et groupes (min. 10 personnes)"
+
 #: client/views/pages/publicTransportation/airportExpress.html:136
 msgid "Return ticket"
 msgstr "Titre aller Retour"
@@ -313,6 +672,18 @@ msgstr "Scooter"
 msgid "Sea products"
 msgstr "Produits de la mer"
 
+#: client/views/pages/museums/museums.html:106
+msgid "Seniors 60+"
+msgstr "Senior 60+"
+
+#: client/views/pages/museums/museums.html:573
+msgid "September"
+msgstr "Septembre"
+
+#: client/views/pages/museums/museums.html:10
+msgid "September : Tuesday-Sunday : 10h-13h and 14h-18h"
+msgstr "Septembre : mardi-dimanche : 10h-13h et 14h-18h"
+
 #: client/views/pages/other/index.html:17
 #: client/views/pages/other/index.html:19
 msgid "Spa"
@@ -322,11 +693,32 @@ msgstr "Spa"
 msgid "Special Pricing"
 msgstr "Tarification spéciale"
 
+#: client/views/pages/museums/museums.html:193
+msgid "Spring (April) : 10h00 – 17h30"
+msgstr "Printemps (avril) : 10h00 – 17h30"
+
+#: client/views/pages/museums/museums.html:157
+msgid "Spring : 10h – 17h30 (October until April)"
+msgstr "Hiver : 10h – 17h30 (Octobre à Avril)"
+
 #: client/views/pages/publicTransportation/helicopter.html:7
 #: client/views/pages/rental/car.html:20 client/views/pages/rental/car.html:33
 #: client/views/pages/rental/car.html:46 client/views/pages/rental/car.html:7
 msgid "Starting at"
 msgstr "A partir de"
+
+#: client/views/pages/museums/museums.html:114
+#: client/views/pages/museums/museums.html:595
+msgid "Students"
+msgstr "Etudiants"
+
+#: client/views/pages/museums/museums.html:194
+msgid "Summer (May – August) : 10h00 – 19h00"
+msgstr "Eté (mai – août) : 10h00 – 19h00"
+
+#: client/views/pages/museums/museums.html:156
+msgid "Summer : 10h-19h (May until September)"
+msgstr "Eté : 10h-19h (Mai à Septembre)"
 
 #: client/views/pages/restaurants/internationalCuisine.html:137
 msgid "Sushi"
@@ -337,6 +729,42 @@ msgstr "Sushi"
 #: client/views/pages/publicTransportation/taxi.html:1
 msgid "Taxi"
 msgstr "Taxi"
+
+#: client/views/pages/museums/museums.html:498
+msgid "Taï Chi chuan and Qi gong"
+msgstr "Taï Chi chuan et Qi gong"
+
+#: client/views/pages/museums/museums.html:494
+msgid "Tea ceremony"
+msgstr "Cérémonie du thé"
+
+#: client/views/pages/museums/museums.html:122
+#: client/views/pages/museums/museums.html:144
+#: client/views/pages/museums/museums.html:181
+#: client/views/pages/museums/museums.html:219
+#: client/views/pages/museums/museums.html:256
+#: client/views/pages/museums/museums.html:294
+#: client/views/pages/museums/museums.html:309
+#: client/views/pages/museums/museums.html:342
+#: client/views/pages/museums/museums.html:383
+#: client/views/pages/museums/museums.html:419
+#: client/views/pages/museums/museums.html:461
+#: client/views/pages/museums/museums.html:506
+#: client/views/pages/museums/museums.html:547
+#: client/views/pages/museums/museums.html:607
+#: client/views/pages/museums/museums.html:69
+msgid "Tel."
+msgstr "Tel."
+
+#: client/views/pages/museums/museums.html:82
+msgid "The 21st of June– the 30th of September: 10h-18h"
+msgstr "21 juin – 30 septembre : 10h-18h"
+
+#: client/views/pages/museums/museums.html:433
+msgid ""
+"The 23th of June until the 15th of October : every day from 10 until 18, "
+"except Mondays"
+msgstr "23 juin – 15 octobre : tous les jours de 10h à 18h sauf le lundi"
 
 #: client/views/pages/curiosities/markets.html:11
 msgid ""
@@ -364,6 +792,24 @@ msgstr "Le centre nautique"
 msgid "The restaurants"
 msgstr "Les restaurants"
 
+#: client/views/pages/museums/museums.html:403
+#: client/views/pages/museums/museums.html:441
+msgid "Ticket 24h individual"
+msgstr "Ticket 24h individuel"
+
+#: client/views/pages/museums/museums.html:407
+#: client/views/pages/museums/museums.html:445
+msgid "Ticket 7 days individual"
+msgstr "Ticket 7 jours individuel"
+
+#: client/views/pages/museums/museums.html:411
+msgid "Ticket group (minimum 10 people)"
+msgstr "Groupe 10+ personnes"
+
+#: client/views/pages/museums/museums.html:449
+msgid "Ticket group 24h"
+msgstr "Ticket groupe 24h"
+
 #: client/views/pages/discover/index.html:1
 #: client/views/pages/touristic-information.html:107
 #: client/views/pages/touristic-information.html:109
@@ -383,9 +829,20 @@ msgstr "Train"
 msgid "Tuesday until Sunday from : 06h00 – 17h30 (Sunday : 6h30-13h30)"
 msgstr "Mardi-Dimanche : 06h00 – 17h30 (dimanche : 6h30-13h30)"
 
+#: client/views/pages/museums/museums.html:375
+msgid "Under 26 year"
+msgstr "Moins de 26 ans"
+
 #: client/views/pages/publicTransportation/airportExpress.html:140
 msgid "Under 26 years"
 msgstr "Moins de 26 ans"
+
+#: client/views/pages/museums/museums.html:25
+#: client/views/pages/museums/museums.html:61
+msgid "Under the age of 18 and students"
+msgstr ""
+"Le 1er dimanche de chaque moins de novembre à mars inclus, moins de 18 ans, "
+"étudiants jusqu’à 26 ans"
 
 #: client/views/pages/rental/index.html:1
 #: client/views/pages/touristic-information.html:17
@@ -398,6 +855,14 @@ msgstr "Location de véhicules"
 msgid "Villas and castles"
 msgstr "Les villas et châteaux"
 
+#: client/views/pages/museums/museums.html:486
+msgid "Visit with guide"
+msgstr "Visite guidée"
+
+#: client/views/pages/museums/museums.html:482
+msgid "Visit without guide"
+msgstr "Vistite libre"
+
 #: client/views/pages/touristic-information.html:77
 #: client/views/pages/touristic-information.html:79
 #: client/views/pages/water/index.html:1 client/views/pages/water/index.html:17
@@ -405,6 +870,21 @@ msgstr "Les villas et châteaux"
 msgid "Water activities"
 msgstr "Les activités nautiques"
 
+#: client/views/pages/museums/museums.html:124
+#: client/views/pages/museums/museums.html:146
+#: client/views/pages/museums/museums.html:183
+#: client/views/pages/museums/museums.html:221
+#: client/views/pages/museums/museums.html:258
+#: client/views/pages/museums/museums.html:296
+#: client/views/pages/museums/museums.html:34
+#: client/views/pages/museums/museums.html:344
+#: client/views/pages/museums/museums.html:385
+#: client/views/pages/museums/museums.html:421
+#: client/views/pages/museums/museums.html:463
+#: client/views/pages/museums/museums.html:508
+#: client/views/pages/museums/museums.html:549
+#: client/views/pages/museums/museums.html:609
+#: client/views/pages/museums/museums.html:71
 #: client/views/pages/publicTransportation/helicopter.html:19
 msgid "Website"
 msgstr "Site"
@@ -418,6 +898,10 @@ msgstr ""
 "Mercredi matin : Quartier des Termes <br>Place des Combattants d’Indochine "
 "et d’Afrique du Nord <br>Centre-ville (devant Esterel Gallery) et sur le "
 "parking Casinca (devant Escota)"
+
+#: client/views/pages/museums/museums.html:330
+msgid "Younger than 26 years"
+msgstr "Moins de 26 ans et Cagnois"
 
 #: client/views/pages/rental/MBT.html:23 client/views/pages/rental/MBT.html:8
 #: client/views/pages/rental/bike.html:20
@@ -434,13 +918,39 @@ msgstr "jour"
 msgid "days"
 msgstr "jours"
 
+#: client/views/pages/museums/museums.html:174
+#: client/views/pages/museums/museums.html:26
+#: client/views/pages/museums/museums.html:62
+#: client/views/pages/museums/museums.html:99
+msgid "free"
+msgstr "Gratuité"
+
 #: client/views/pages/rental/boat.html:65
 msgid "from"
 msgstr "du"
 
+#: client/views/pages/museums/museums.html:396
+msgid "the 23th of June untul the 15th of October: 10h – 18h"
+msgstr "23 juin au 15 octobre : 10h – 18h"
+
+#: client/views/pages/museums/museums.html:432
+msgid ""
+"the 2nd of January until the 22nd of June and the 16th of October until the "
+"31st of December: every day from 11 until 18, except Mondays"
+msgstr ""
+"2 janvier-22juin et 16 octobre-31 décembre : tous les jours de 11h à 18h "
+"sauf le lundi"
+
 #: client/views/pages/rental/boat.html:65
 msgid "until"
 msgstr "au"
+
+#: client/views/pages/museums/museums.html:495
+msgid "€ 10,00/person, € 5,00/child"
+msgstr "€ 10,00/personne, € 5,00/enfant"
+
+#~ msgid "Full rate"
+#~ msgstr "Plein tarif"
 
 #~ msgid "Tapas"
 #~ msgstr "Tapas"
