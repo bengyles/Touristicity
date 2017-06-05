@@ -66,6 +66,8 @@ msgstr "Accès"
 #: client/views/pages/curiosities/markets.html:26
 #: client/views/pages/curiosities/markets.html:31
 #: client/views/pages/greenTourism/mountains.html:6
+#: client/views/pages/greenTourism/rivers.html:20
+#: client/views/pages/greenTourism/rivers.html:9
 #: client/views/pages/museums/artisanal.html:12
 #: client/views/pages/museums/artisanal.html:40
 #: client/views/pages/museums/artisanal.html:53
@@ -146,6 +148,11 @@ msgstr "Avril à Mai : mardi-dimanche : 10h30-13h15 et 14h15-17h45"
 #: client/views/pages/museums/museums.html:565
 msgid "April, May and June"
 msgstr "Avril, mai, juin"
+
+#: client/views/pages/greenTourism/rivers.html:16
+#: client/views/pages/greenTourism/rivers.html:5
+msgid "Area"
+msgstr "Surface"
 
 #: client/views/pages/curiosities/markets.html:21
 msgid "Artisanal market"
@@ -655,6 +662,12 @@ msgstr "Juillet à Août : lundi-dimanche : 10h-19h"
 #: client/views/pages/museums/museums.html:46
 msgid "June until September: Monday-Sunday : 10h-17h45"
 msgstr "Juin à Septembre : lundi-dimanche : 10h-17h45"
+
+#: client/views/pages/greenTourism/index.html:47
+#: client/views/pages/greenTourism/index.html:49
+#: client/views/pages/greenTourism/rivers.html:1
+msgid "Lake and rivers"
+msgstr "Lac et rivières"
 
 #: client/views/pages/restaurants/internationalCuisine.html:33
 #: client/views/pages/restaurants/internationalCuisine.html:46
