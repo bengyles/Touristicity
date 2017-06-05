@@ -133,6 +133,10 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/green-tourism',
             templateUrl: 'client/views/pages/greenTourism/index.html'
         })
+        .state('islands', {
+            url: '/islands',
+            templateUrl: 'client/views/pages/greenTourism/islands.html'
+        })
         //for the kids
         .state('kids', {
             url: '/kids',
