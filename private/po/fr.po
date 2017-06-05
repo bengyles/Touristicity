@@ -20,6 +20,13 @@ msgstr "+ 15 personnes"
 msgid "-18"
 msgstr "-18"
 
+#: client/views/pages/museums/artisanal.html:6
+msgid "09h30 - 18h30, July and August: From 9h30 - 9h00 (7 /7)"
+msgstr ""
+"09h30 à 18h30 (fermée entre 13 et 14H ainsi que les dimanches d’octobre à "
+"mars inclus, sauf vacances scolaires), Juillet et Août : de 9h30 à 9h00 (7 "
+"sur 7)"
+
 #: client/views/pages/museums/museums.html:134
 msgid "09h30 -18h30 (Closed between 13h and 14h )"
 msgstr ""
@@ -44,6 +51,7 @@ msgstr "2 janvier au 22 juin et du 16 octobre au 31 décembre : 11h – 18h"
 msgid "6 trips card"
 msgstr "Carte 6 voyages"
 
+#: client/views/pages/museums/artisanal.html:7
 #: client/views/pages/museums/museums.html:136
 msgid "ATTENTION : Last visit, 1 hour before closing time"
 msgstr "ATTENTION : dernière visite, 1 heure avant fermeture"
@@ -52,9 +60,15 @@ msgstr "ATTENTION : dernière visite, 1 heure avant fermeture"
 #: client/views/pages/curiosities/markets.html:22
 #: client/views/pages/curiosities/markets.html:26
 #: client/views/pages/curiosities/markets.html:31
+#: client/views/pages/museums/artisanal.html:12
+#: client/views/pages/museums/artisanal.html:40
+#: client/views/pages/museums/artisanal.html:53
+#: client/views/pages/museums/artisanal.html:71
+#: client/views/pages/museums/artisanal.html:83
+#: client/views/pages/museums/artisanal.html:96
 #: client/views/pages/museums/castles.html:109
 #: client/views/pages/museums/castles.html:163
-#: client/views/pages/museums/castles.html:177
+#: client/views/pages/museums/castles.html:176
 #: client/views/pages/museums/castles.html:64
 #: client/views/pages/museums/castles.html:72
 #: client/views/pages/museums/museums.html:120
@@ -122,6 +136,7 @@ msgstr "Avril, mai, juin"
 msgid "Artisanal market"
 msgstr "Marché des artisans"
 
+#: client/views/pages/museums/artisanal.html:1
 #: client/views/pages/museums/index.html:27
 #: client/views/pages/museums/index.html:29
 msgid "Artisanal visits"
@@ -315,6 +330,11 @@ msgstr "Exposition permanente ou temporaire"
 msgid "Fall (September – November) : 10h00 – 17h30"
 msgstr "Automne (septembre – novembre) : 10h00 – 17h30"
 
+#: client/views/pages/museums/artisanal.html:68
+msgid "Fall : Every day from 9h30-18h (Sundays de 10h30-13h30 and 14h30-18h)"
+msgstr ""
+"Hiver : Tous les jours de 9h30-18h (dimanche de 10h30-13h30 et 14h30-18h)"
+
 #: client/views/pages/museums/museums.html:102
 msgid "Family"
 msgstr "Famille"
@@ -358,6 +378,8 @@ msgstr "Les forêts"
 msgid "Free"
 msgstr "Gratuit"
 
+#: client/views/pages/museums/artisanal.html:10
+#: client/views/pages/museums/artisanal.html:38
 #: client/views/pages/museums/castles.html:174
 #: client/views/pages/museums/museums.html:331
 msgid "Free entrance"
@@ -527,6 +549,10 @@ msgstr "Les îles"
 msgid "Italian restaurant"
 msgstr "Restaurant Italienne"
 
+#: client/views/pages/museums/artisanal.html:32
+msgid "January : 9h-12h and 14h-18h"
+msgstr "En janvier : 9h-12h et 14h-18h"
+
 #: client/views/pages/museums/museums.html:561
 msgid "January, February and March"
 msgstr "Janvier, février, mars"
@@ -547,6 +573,10 @@ msgstr "Juillet et Août : de 9h30 à 9h00 (7 sur 7)"
 #: client/views/pages/museums/castles.html:124
 msgid "July and August from 10h-19h"
 msgstr "En juillet et août de 10h-19h"
+
+#: client/views/pages/museums/artisanal.html:33
+msgid "July and August: 9h-19h"
+msgstr "En juillet-août : 9h-19h"
 
 #: client/views/pages/museums/museums.html:9
 msgid "July and August: Monday-Sunday : 10h-19h"
@@ -663,6 +693,13 @@ msgstr "Ouverture de 10h à 18h"
 msgid "Open from 14h -17h"
 msgstr "Ouverture de 14h à 17h"
 
+#: client/views/pages/museums/artisanal.html:26
+msgid "Open from Monday until Friday  : 9h00 -12h00 and 14h00 – 18h00"
+msgstr "Ouvert du lundi au vendredi : 9h00 -12h00 et 14h00 – 18h00"
+
+#: client/views/pages/museums/artisanal.html:24
+#: client/views/pages/museums/artisanal.html:5
+#: client/views/pages/museums/artisanal.html:65
 #: client/views/pages/museums/castles.html:121
 #: client/views/pages/museums/castles.html:170
 #: client/views/pages/museums/castles.html:4
@@ -685,6 +722,14 @@ msgstr "Ouverture de 14h à 17h"
 #: client/views/pages/museums/museums.html:79
 msgid "Opening hours"
 msgstr "Horaires"
+
+#: client/views/pages/museums/artisanal.html:30
+msgid "Opening hours shop"
+msgstr "Horaires boutique"
+
+#: client/views/pages/museums/artisanal.html:27
+msgid "Opening hours summer: 9h00 – 18h30"
+msgstr "Horaires d’été : 9h00 – 18h30"
 
 #: client/views/pages/other/index.html:1
 #: client/views/pages/touristic-information.html:97
@@ -729,6 +774,8 @@ msgstr "Transports en commun"
 msgid "Rate"
 msgstr "Tarifs"
 
+#: client/views/pages/museums/artisanal.html:37
+#: client/views/pages/museums/artisanal.html:9
 #: client/views/pages/museums/castles.html:128
 #: client/views/pages/museums/castles.html:173
 #: client/views/pages/museums/castles.html:32
@@ -845,6 +892,12 @@ msgstr "Eté (mai – août) : 10h00 – 19h00"
 msgid "Summer : 10h-19h (May until September)"
 msgstr "Eté : 10h-19h (Mai à Septembre)"
 
+#: client/views/pages/museums/artisanal.html:67
+msgid ""
+"Summer : Every day from 9h30-20h (Sundays from 10h30-13h30 and 14h30-19h30)"
+msgstr ""
+"Eté : Tous les jours de 9h30-20h (dimanche de 10h30-13h30 et 14h30-19h30)"
+
 #: client/views/pages/restaurants/internationalCuisine.html:137
 msgid "Sushi"
 msgstr "Sushi"
@@ -863,9 +916,14 @@ msgstr "Taï Chi chuan et Qi gong"
 msgid "Tea ceremony"
 msgstr "Cérémonie du thé"
 
+#: client/views/pages/museums/artisanal.html:14
+#: client/views/pages/museums/artisanal.html:42
+#: client/views/pages/museums/artisanal.html:55
+#: client/views/pages/museums/artisanal.html:85
+#: client/views/pages/museums/artisanal.html:98
 #: client/views/pages/museums/castles.html:111
 #: client/views/pages/museums/castles.html:165
-#: client/views/pages/museums/castles.html:179
+#: client/views/pages/museums/castles.html:178
 #: client/views/pages/museums/castles.html:66
 #: client/views/pages/museums/castles.html:74
 #: client/views/pages/museums/museums.html:122
@@ -923,6 +981,10 @@ msgstr ""
 #: client/views/pages/water/index.html:7 client/views/pages/water/index.html:9
 msgid "The nautical center"
 msgstr "Le centre nautique"
+
+#: client/views/pages/museums/artisanal.html:34
+msgid "The rest of the year : 9h-18h30"
+msgstr "Tout le reste de l’année : 9h-18h30"
 
 #: client/views/pages/restaurants/index.html:1
 #: client/views/pages/touristic-information.html:27
@@ -998,6 +1060,15 @@ msgstr "Location de véhicules"
 msgid "Villas and castles"
 msgstr "Les villas et châteaux"
 
+#: client/views/pages/museums/artisanal.html:94
+msgid "Vineyard in Provence: guided tour of the cellar + wine tasting"
+msgstr ""
+"Vignoble en Provence : visite commentée de la cave et dégustation de vin"
+
+#: client/views/pages/museums/artisanal.html:81
+msgid "Visit the Oil mill"
+msgstr "Visite du moulin a huile"
+
 #: client/views/pages/museums/museums.html:486
 msgid "Visit with guide"
 msgstr "Visite guidée"
@@ -1013,6 +1084,12 @@ msgstr "Vistite libre"
 msgid "Water activities"
 msgstr "Les activités nautiques"
 
+#: client/views/pages/museums/artisanal.html:100
+#: client/views/pages/museums/artisanal.html:16
+#: client/views/pages/museums/artisanal.html:44
+#: client/views/pages/museums/artisanal.html:57
+#: client/views/pages/museums/artisanal.html:74
+#: client/views/pages/museums/artisanal.html:87
 #: client/views/pages/museums/castles.html:113
 #: client/views/pages/museums/castles.html:76
 #: client/views/pages/museums/museums.html:124
