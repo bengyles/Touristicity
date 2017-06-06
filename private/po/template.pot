@@ -312,10 +312,6 @@ msgstr ""
 msgid "Child rate &lt; 12 years"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:591
-msgid "Children  (4-12 year)"
-msgstr ""
-
 #: client/views/pages/greenTourism/islands.html:107
 #: client/views/pages/greenTourism/islands.html:45
 msgid "Children (-5 year)"
@@ -327,6 +323,10 @@ msgstr ""
 
 #: client/views/pages/kids/animationparks.html:121
 msgid "Children (3-4 year)"
+msgstr ""
+
+#: client/views/pages/museums/museums.html:591
+msgid "Children (4-12 year)"
 msgstr ""
 
 #: client/views/pages/greenTourism/islands.html:103
@@ -385,7 +385,7 @@ msgid "Closed the 1st of January, the 1st of May, the 1st of November and the 25
 msgstr ""
 
 #: client/views/pages/museums/museums.html:196
-msgid "Closed: 1st of May, the  1st of December until the 31st of March"
+msgid "Closed: 1st of May, the 1st of December until the 31st of March"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:158
@@ -572,7 +572,7 @@ msgstr ""
 
 #: client/views/pages/museums/museums.html:233
 #: client/views/pages/museums/museums.html:270
-msgid "From May until October: from  10h - 18h"
+msgid "From May until October: from 10h - 18h"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:125
@@ -592,7 +592,7 @@ msgid "From the 16th of June until the 1st of July and from the 27th of August u
 msgstr ""
 
 #: client/views/pages/museums/museums.html:475
-msgid "From the 1st of July until the 31st of August:  10h - 18h"
+msgid "From the 1st of July until the 31st of August: 10h - 18h"
 msgstr ""
 
 #: client/views/pages/kids/animationparks.html:201
@@ -666,7 +666,7 @@ msgid "Group of 4 people"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:248
-msgid "Group rate  (10 people)"
+msgid "Group rate (10 people)"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:54
@@ -812,19 +812,19 @@ msgid "Located at Théoule/mer, at 9km from the city center of Cannes"
 msgstr ""
 
 #: client/views/pages/greenTourism/parks.html:58
-msgid "Located between  Antibes and Juan-les-Pins, 13km from the city center of Cannes"
+msgid "Located between Antibes and Juan-les-Pins, 13km from the city center of Cannes"
 msgstr ""
 
 #: client/views/pages/greenTourism/parks.html:94
 msgid "Located between Antibes and Villeneuve-Loubet at 16 km from the city center of Cannes"
 msgstr ""
 
-#: client/views/pages/greenTourism/parks.html:15
-msgid "Located in  Cannet at 4km from the city center, take avenue Ziem and park at one of the parking lots"
-msgstr ""
-
 #: client/views/pages/greenTourism/parks.html:40
 msgid "Located in Cannes, 1km from the city center and take avenue Jean de Noailles"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:15
+msgid "Located in Cannet at 4km from the city center, take avenue Ziem and park at one of the parking lots"
 msgstr ""
 
 #: client/views/pages/greenTourism/parks.html:22
@@ -971,7 +971,7 @@ msgid "Open from 14h -17h"
 msgstr ""
 
 #: client/views/pages/museums/artisanal.html:26
-msgid "Open from Monday until Friday  : 9h00 -12h00 and 14h00 – 18h00"
+msgid "Open from Monday until Friday : 9h00 -12h00 and 14h00 – 18h00"
 msgstr ""
 
 #: client/views/pages/greenTourism/sports.html:78
@@ -1361,11 +1361,11 @@ msgid "The 2nd child (between 7 and 17 year)"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:14
-msgid "The 8th of  November until the 10th of February:"
+msgid "The 8th of November until the 10th of February:"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:11
-msgid "The Nocturnes of Quai Saint Pierre – every Friday from  19h pm until midnight during the summer – Port de Cannes"
+msgid "The Nocturnes of Quai Saint Pierre – every Friday from 19h pm until midnight during the summer – Port de Cannes"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:7

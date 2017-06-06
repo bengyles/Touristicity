@@ -339,10 +339,6 @@ msgstr "Caractéristique de l’itinéraire"
 msgid "Child rate &lt; 12 years"
 msgstr "Tarif enfant &lt; 12 ans"
 
-#: client/views/pages/museums/museums.html:591
-msgid "Children  (4-12 year)"
-msgstr "Enfants (4-12 ans)"
-
 #: client/views/pages/greenTourism/islands.html:107
 #: client/views/pages/greenTourism/islands.html:45
 msgid "Children (-5 year)"
@@ -355,6 +351,10 @@ msgstr "Enfant (de 10 à 17 ans)"
 #: client/views/pages/kids/animationparks.html:121
 msgid "Children (3-4 year)"
 msgstr "Enfants (3 à 4 ans)"
+
+#: client/views/pages/museums/museums.html:591
+msgid "Children (4-12 year)"
+msgstr "Enfants (4-12 ans)"
 
 #: client/views/pages/greenTourism/islands.html:103
 #: client/views/pages/greenTourism/islands.html:41
@@ -416,7 +416,7 @@ msgid ""
 msgstr "Fermé le 1er janvier, le 1er mai, le 1er novembre et le 25 décembre"
 
 #: client/views/pages/museums/museums.html:196
-msgid "Closed: 1st of May, the  1st of December until the 31st of March"
+msgid "Closed: 1st of May, the 1st of December until the 31st of March"
 msgstr "Fermetures annuelles : 1er mai, du 1er décembre au 31 mars"
 
 #: client/views/pages/museums/museums.html:158
@@ -622,7 +622,7 @@ msgstr "De juin à septembre : de 10h à 13h et de 14h à 18h"
 
 #: client/views/pages/museums/museums.html:233
 #: client/views/pages/museums/museums.html:270
-msgid "From May until October: from  10h - 18h"
+msgid "From May until October: from 10h - 18h"
 msgstr "De 10h à 18h de mai à octobre"
 
 #: client/views/pages/museums/castles.html:125
@@ -652,7 +652,7 @@ msgid ""
 msgstr "Du 16 juin au 1er juillet et du 27 août au 5 septembre : 10h à 18h00"
 
 #: client/views/pages/museums/museums.html:475
-msgid "From the 1st of July until the 31st of August:  10h - 18h"
+msgid "From the 1st of July until the 31st of August: 10h - 18h"
 msgstr "Du 1er juillet au 31 août : de 10h à 18h"
 
 #: client/views/pages/kids/animationparks.html:201
@@ -732,7 +732,7 @@ msgid "Group of 4 people"
 msgstr "Groupe 4 personnes"
 
 #: client/views/pages/museums/museums.html:248
-msgid "Group rate  (10 people)"
+msgid "Group rate (10 people)"
 msgstr "Tarif group (10 personnes)"
 
 #: client/views/pages/museums/castles.html:54
@@ -888,7 +888,7 @@ msgstr ""
 
 #: client/views/pages/greenTourism/parks.html:58
 msgid ""
-"Located between  Antibes and Juan-les-Pins, 13km from the city center of "
+"Located between Antibes and Juan-les-Pins, 13km from the city center of "
 "Cannes"
 msgstr ""
 "Situé entre Antibes et Juan-les-Pins, à 13km du centre-ville de Cannes, se "
@@ -902,20 +902,20 @@ msgstr ""
 "Situé entre Antibes et Villeneuve-Loubet à 16 km du centre-ville de Cannes, "
 "se garer au parking des Groules"
 
-#: client/views/pages/greenTourism/parks.html:15
-msgid ""
-"Located in  Cannet at 4km from the city center, take avenue Ziem and park at "
-"one of the parking lots"
-msgstr ""
-"Situé au Cannet à 4km du centre-ville de Cannes, prendre l’avenue Ziem puis "
-"se garer au ron-point/parking du Pezou"
-
 #: client/views/pages/greenTourism/parks.html:40
 msgid ""
 "Located in Cannes, 1km from the city center and take avenue Jean de Noailles"
 msgstr ""
 "Situé à Cannes à 1km du centre-ville, prendre l’avenue Jean de Noailles, "
 "puis se garer sur l’un des parkings"
+
+#: client/views/pages/greenTourism/parks.html:15
+msgid ""
+"Located in Cannet at 4km from the city center, take avenue Ziem and park at "
+"one of the parking lots"
+msgstr ""
+"Situé au Cannet à 4km du centre-ville de Cannes, prendre l’avenue Ziem puis "
+"se garer au ron-point/parking du Pezou"
 
 #: client/views/pages/greenTourism/parks.html:22
 msgid "Located in Mougins, 7km from the city center of Cannes"
@@ -1071,7 +1071,7 @@ msgid "Open from 14h -17h"
 msgstr "Ouverture de 14h à 17h"
 
 #: client/views/pages/museums/artisanal.html:26
-msgid "Open from Monday until Friday  : 9h00 -12h00 and 14h00 – 18h00"
+msgid "Open from Monday until Friday : 9h00 -12h00 and 14h00 – 18h00"
 msgstr "Ouvert du lundi au vendredi : 9h00 -12h00 et 14h00 – 18h00"
 
 #: client/views/pages/greenTourism/sports.html:78
@@ -1494,13 +1494,13 @@ msgid "The 2nd child (between 7 and 17 year)"
 msgstr "Le 2eme enfant âgé de 7-17 ans"
 
 #: client/views/pages/museums/castles.html:14
-msgid "The 8th of  November until the 10th of February:"
+msgid "The 8th of November until the 10th of February:"
 msgstr "8 novembre au 10 février:"
 
 #: client/views/pages/curiosities/markets.html:11
 msgid ""
-"The Nocturnes of Quai Saint Pierre – every Friday from  19h pm until "
-"midnight during the summer – Port de Cannes"
+"The Nocturnes of Quai Saint Pierre – every Friday from 19h pm until midnight "
+"during the summer – Port de Cannes"
 msgstr ""
 "Les Nocturnes du Quai Saint Pierre – tous les vendredis de 19h à minuit "
 "pendant  l’été – Port de Cannes"
