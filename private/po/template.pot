@@ -4,6 +4,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 
+#: client/views/pages/greenTourism/sports.html:5
+msgid "(Nearby Nice and Gorges du Verdon)<br> Located at the bridge on the Riolan located at the exit of the canyoning"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:287
 msgid "+ 15 people"
 msgstr ""
@@ -66,6 +70,7 @@ msgstr ""
 #: client/views/pages/greenTourism/mountains.html:6
 #: client/views/pages/greenTourism/rivers.html:20
 #: client/views/pages/greenTourism/rivers.html:9
+#: client/views/pages/greenTourism/sports.html:84
 #: client/views/pages/museums/artisanal.html:12
 #: client/views/pages/museums/artisanal.html:40
 #: client/views/pages/museums/artisanal.html:53
@@ -125,6 +130,10 @@ msgstr ""
 #: client/views/pages/publicTransportation/airportExpress.html:159
 #: client/views/pages/publicTransportation/airportExpress.html:3
 msgid "All days"
+msgstr ""
+
+#: client/views/pages/greenTourism/sports.html:81
+msgid "And Wednesday, Saturday and Sunday, not during school vacancies: 13h-18h"
 msgstr ""
 
 #: client/views/pages/kids/index.html:17
@@ -213,6 +222,10 @@ msgstr ""
 #: client/views/pages/publicTransportation/airportExpress.html:159
 #: client/views/pages/publicTransportation/airportExpress.html:3
 msgid "Cannes"
+msgstr ""
+
+#: client/views/pages/greenTourism/sports.html:2
+msgid "Canoeing"
 msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:28
@@ -798,6 +811,10 @@ msgstr ""
 msgid "Open every day"
 msgstr ""
 
+#: client/views/pages/greenTourism/sports.html:80
+msgid "Open every day in school vacancies from the 8th of April: 13h – 18h"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:473
 msgid "Open every day, except Tuesdays"
 msgstr ""
@@ -822,6 +839,7 @@ msgstr ""
 msgid "Open from Monday until Friday  : 9h00 -12h00 and 14h00 – 18h00"
 msgstr ""
 
+#: client/views/pages/greenTourism/sports.html:78
 #: client/views/pages/museums/artisanal.html:24
 #: client/views/pages/museums/artisanal.html:5
 #: client/views/pages/museums/artisanal.html:65
@@ -893,6 +911,10 @@ msgstr ""
 #: client/views/pages/touristic-information.html:7
 #: client/views/pages/touristic-information.html:9
 msgid "Public transportation"
+msgstr ""
+
+#: client/views/pages/greenTourism/sports.html:32
+msgid "Rafting"
 msgstr ""
 
 #: client/views/pages/publicTransportation/helicopter.html:5
@@ -979,6 +1001,12 @@ msgstr ""
 
 #: client/views/pages/museums/museums.html:106
 msgid "Seniors 60+"
+msgstr ""
+
+#: client/views/pages/greenTourism/index.html:47
+#: client/views/pages/greenTourism/index.html:49
+#: client/views/pages/greenTourism/sports.html:1
+msgid "Sensational sports"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:573
@@ -1118,6 +1146,12 @@ msgid "Tea ceremony"
 msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:8
+#: client/views/pages/greenTourism/sports.html:22
+#: client/views/pages/greenTourism/sports.html:37
+#: client/views/pages/greenTourism/sports.html:51
+#: client/views/pages/greenTourism/sports.html:65
+#: client/views/pages/greenTourism/sports.html:8
+#: client/views/pages/greenTourism/sports.html:86
 #: client/views/pages/museums/artisanal.html:14
 #: client/views/pages/museums/artisanal.html:42
 #: client/views/pages/museums/artisanal.html:55
@@ -1238,6 +1272,10 @@ msgstr ""
 msgid "Train"
 msgstr ""
 
+#: client/views/pages/greenTourism/sports.html:75
+msgid "Tree climbing"
+msgstr ""
+
 #: client/views/pages/curiosities/markets.html:32
 msgid "Tuesday until Sunday from : 06h00 – 17h30 (Sunday : 6h30-13h30)"
 msgstr ""
@@ -1298,6 +1336,13 @@ msgstr ""
 #: client/views/pages/greenTourism/islands.html:117
 #: client/views/pages/greenTourism/islands.html:55
 #: client/views/pages/greenTourism/mountains.html:10
+#: client/views/pages/greenTourism/sports.html:12
+#: client/views/pages/greenTourism/sports.html:26
+#: client/views/pages/greenTourism/sports.html:41
+#: client/views/pages/greenTourism/sports.html:55
+#: client/views/pages/greenTourism/sports.html:69
+#: client/views/pages/greenTourism/sports.html:88
+#: client/views/pages/greenTourism/sports.html:97
 #: client/views/pages/museums/artisanal.html:100
 #: client/views/pages/museums/artisanal.html:16
 #: client/views/pages/museums/artisanal.html:44

@@ -149,6 +149,10 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/rivers',
             templateUrl: 'client/views/pages/greenTourism/rivers.html'
         })
+        .state('sports', {
+            url: '/sports',
+            templateUrl: 'client/views/pages/greenTourism/sports.html'
+        })
         //for the kids
         .state('kids', {
             url: '/kids',
