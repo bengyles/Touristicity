@@ -43,7 +43,20 @@ msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:26
 #: client/views/pages/greenTourism/mountains.html:44
+#: client/views/pages/greenTourism/parks.html:120
+#: client/views/pages/greenTourism/parks.html:38
+#: client/views/pages/greenTourism/parks.html:56
+#: client/views/pages/greenTourism/parks.html:74
+#: client/views/pages/greenTourism/parks.html:92
 msgid "Access"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:20
+msgid "Access for Mougins"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:13
+msgid "Access for le Cannet"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:18
@@ -185,6 +198,13 @@ msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:29
 #: client/views/pages/greenTourism/mountains.html:47
+#: client/views/pages/greenTourism/parks.html:123
+#: client/views/pages/greenTourism/parks.html:16
+#: client/views/pages/greenTourism/parks.html:23
+#: client/views/pages/greenTourism/parks.html:41
+#: client/views/pages/greenTourism/parks.html:59
+#: client/views/pages/greenTourism/parks.html:77
+#: client/views/pages/greenTourism/parks.html:95
 #: client/views/pages/publicTransportation/index.html:37
 #: client/views/pages/publicTransportation/index.html:39
 msgid "Bus"
@@ -197,6 +217,13 @@ msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:28
 #: client/views/pages/greenTourism/mountains.html:46
+#: client/views/pages/greenTourism/parks.html:122
+#: client/views/pages/greenTourism/parks.html:15
+#: client/views/pages/greenTourism/parks.html:22
+#: client/views/pages/greenTourism/parks.html:40
+#: client/views/pages/greenTourism/parks.html:58
+#: client/views/pages/greenTourism/parks.html:76
+#: client/views/pages/greenTourism/parks.html:94
 #: client/views/pages/rental/car.html:1
 #: client/views/pages/rental/index.html:17
 #: client/views/pages/rental/index.html:19
@@ -209,6 +236,13 @@ msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:19
 #: client/views/pages/greenTourism/mountains.html:37
+#: client/views/pages/greenTourism/parks.html:103
+#: client/views/pages/greenTourism/parks.html:113
+#: client/views/pages/greenTourism/parks.html:31
+#: client/views/pages/greenTourism/parks.html:49
+#: client/views/pages/greenTourism/parks.html:6
+#: client/views/pages/greenTourism/parks.html:67
+#: client/views/pages/greenTourism/parks.html:85
 msgid "Characteristics"
 msgstr ""
 
@@ -300,6 +334,13 @@ msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:21
 #: client/views/pages/greenTourism/mountains.html:39
+#: client/views/pages/greenTourism/parks.html:105
+#: client/views/pages/greenTourism/parks.html:115
+#: client/views/pages/greenTourism/parks.html:33
+#: client/views/pages/greenTourism/parks.html:51
+#: client/views/pages/greenTourism/parks.html:69
+#: client/views/pages/greenTourism/parks.html:8
+#: client/views/pages/greenTourism/parks.html:87
 msgid "Distance"
 msgstr ""
 
@@ -390,11 +431,6 @@ msgstr ""
 #: client/views/pages/touristic-information.html:67
 #: client/views/pages/touristic-information.html:69
 msgid "For the kids"
-msgstr ""
-
-#: client/views/pages/greenTourism/index.html:17
-#: client/views/pages/greenTourism/index.html:19
-msgid "Forests"
 msgstr ""
 
 #: client/views/pages/greenTourism/islands.html:108
@@ -568,8 +604,8 @@ msgstr ""
 msgid "International cuisine"
 msgstr ""
 
-#: client/views/pages/greenTourism/index.html:27
-#: client/views/pages/greenTourism/index.html:29
+#: client/views/pages/greenTourism/index.html:17
+#: client/views/pages/greenTourism/index.html:19
 #: client/views/pages/greenTourism/islands.html:1
 msgid "Islands"
 msgstr ""
@@ -616,8 +652,8 @@ msgstr ""
 msgid "June until September: Monday-Sunday : 10h-17h45"
 msgstr ""
 
-#: client/views/pages/greenTourism/index.html:47
-#: client/views/pages/greenTourism/index.html:49
+#: client/views/pages/greenTourism/index.html:37
+#: client/views/pages/greenTourism/index.html:39
 #: client/views/pages/greenTourism/rivers.html:1
 msgid "Lake and rivers"
 msgstr ""
@@ -629,11 +665,46 @@ msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:23
 #: client/views/pages/greenTourism/mountains.html:41
+#: client/views/pages/greenTourism/parks.html:10
+#: client/views/pages/greenTourism/parks.html:106
+#: client/views/pages/greenTourism/parks.html:117
+#: client/views/pages/greenTourism/parks.html:35
+#: client/views/pages/greenTourism/parks.html:53
+#: client/views/pages/greenTourism/parks.html:71
+#: client/views/pages/greenTourism/parks.html:89
 msgid "Level"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:122
+msgid "Located at Mandelieu at 8km from the city center of Cannes, stop at the Castle de La Napoule"
 msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:46
 msgid "Located at Théoule/mer, at 9km from the city center of Cannes"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:58
+msgid "Located between  Antibes and Juan-les-Pins, 13km from the city center of Cannes"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:94
+msgid "Located between Antibes and Villeneuve-Loubet at 16 km from the city center of Cannes"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:15
+msgid "Located in  Cannet at 4km from the city center, take avenue Ziem and park at one of the parking lots"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:40
+msgid "Located in Cannes, 1km from the city center and take avenue Jean de Noailles"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:22
+msgid "Located in Mougins, 7km from the city center of Cannes"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:76
+msgid "Located in Mougins, 8km from the city center of Cannes"
 msgstr ""
 
 #: client/views/pages/restaurants/index.html:28
@@ -675,8 +746,8 @@ msgstr ""
 msgid "Moroccan restaurant"
 msgstr ""
 
-#: client/views/pages/greenTourism/index.html:37
-#: client/views/pages/greenTourism/index.html:39
+#: client/views/pages/greenTourism/index.html:27
+#: client/views/pages/greenTourism/index.html:29
 #: client/views/pages/greenTourism/mountains.html:1
 msgid "Mountains"
 msgstr ""
@@ -798,7 +869,8 @@ msgstr ""
 
 #: client/views/pages/greenTourism/index.html:7
 #: client/views/pages/greenTourism/index.html:9
-msgid "Parks"
+#: client/views/pages/greenTourism/parks.html:1
+msgid "Parks and forests"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:149
@@ -942,12 +1014,40 @@ msgstr ""
 msgid "Starting at"
 msgstr ""
 
+#: client/views/pages/greenTourism/parks.html:96
+msgid "Stop « Gare de Biot » and walk 10 minutes"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:24
+msgid "Stop « Gare de Cannes » , and take bus n°630 (Ligne d’Azur)"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:78
+msgid "Stop « Gare de Cannes » and take bus n°630 (Ligne d’Azur) , take bus n°27 (Bus Azur)"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:17
+msgid "Stop « Gare de Cannes », bus n°1 (Palm Bus) and walk 25 minutes, take la rue St Sauveur and take the stairs St Antoine"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:42
+msgid "Stop « Gare de Cannes », bus n°7A at l’hôtel de ville, and walk 5min."
+msgstr ""
+
 #: client/views/pages/greenTourism/mountains.html:30
 msgid "Stop « Gare de Mandelieu » and take bus 620 (Ligne d’Azur)"
 msgstr ""
 
+#: client/views/pages/greenTourism/parks.html:124
+msgid "Stop « Gare de Mandelieu-La Napoule »"
+msgstr ""
+
 #: client/views/pages/greenTourism/mountains.html:48
 msgid "Stop « Gare de Théoule/mer »"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:60
+msgid "Stop « Gare d’Antibes », and take bus n°2 (Envibus) and walk 5 minutes"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:114
@@ -971,8 +1071,36 @@ msgstr ""
 msgid "Sushi"
 msgstr ""
 
+#: client/views/pages/greenTourism/parks.html:16
+msgid "Take bus n°1 (Palm Bus), stop « Bonnard » and walk 25 minutes, take la rue St Sauveur and the stairs St Antoine (240 stairs)"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:59
+msgid "Take bus n°2 (Envibus) stop « Eden Roc » and walk 5 minutes"
+msgstr ""
+
 #: client/views/pages/greenTourism/mountains.html:47
 msgid "Take bus n°20 (Palm Bus) stop « Balcon d’Azur », and take bus n°22 (Palm Bus) or bus n°620 (Ligne d’Azur) stop « Théoule Gare »"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:123
+msgid "Take bus n°20 (Palm Bus), stop « Balcon d’Azur » and walk 5 minutes"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:95
+msgid "Take bus n°200 (Ligne d’Azur), stop « Parc Vaugrenier »"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:23
+msgid "Take bus n°630 ( Lignes d’Azur), stop « Qui vend bon »"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:77
+msgid "Take bus n°630 (Ligne d’Azur), stop « La crémaillère », and take bus n°27 (bus Azur), stop « Jean Dehon »"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:41
+msgid "Take bus n°7A (Palm Bus), stop « Beauregard » and walk 5 minutes or take bus n°7 (Palm Bus), stop « Font de Veyre » and walk 10 minutes"
 msgstr ""
 
 #: client/views/pages/publicTransportation/index.html:17
@@ -1077,6 +1205,12 @@ msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:22
 #: client/views/pages/greenTourism/mountains.html:40
+#: client/views/pages/greenTourism/parks.html:116
+#: client/views/pages/greenTourism/parks.html:34
+#: client/views/pages/greenTourism/parks.html:52
+#: client/views/pages/greenTourism/parks.html:70
+#: client/views/pages/greenTourism/parks.html:88
+#: client/views/pages/greenTourism/parks.html:9
 msgid "Time"
 msgstr ""
 
@@ -1092,6 +1226,13 @@ msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:30
 #: client/views/pages/greenTourism/mountains.html:48
+#: client/views/pages/greenTourism/parks.html:124
+#: client/views/pages/greenTourism/parks.html:17
+#: client/views/pages/greenTourism/parks.html:24
+#: client/views/pages/greenTourism/parks.html:42
+#: client/views/pages/greenTourism/parks.html:60
+#: client/views/pages/greenTourism/parks.html:78
+#: client/views/pages/greenTourism/parks.html:96
 #: client/views/pages/publicTransportation/index.html:27
 #: client/views/pages/publicTransportation/index.html:29
 msgid "Train"
@@ -1220,6 +1361,16 @@ msgstr ""
 
 #: client/views/pages/rental/car.html:20
 msgid "days"
+msgstr ""
+
+#: client/views/pages/greenTourism/parks.html:10
+#: client/views/pages/greenTourism/parks.html:106
+#: client/views/pages/greenTourism/parks.html:117
+#: client/views/pages/greenTourism/parks.html:35
+#: client/views/pages/greenTourism/parks.html:53
+#: client/views/pages/greenTourism/parks.html:71
+#: client/views/pages/greenTourism/parks.html:89
+msgid "easy"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:174
