@@ -24,8 +24,16 @@ msgstr ""
 msgid "09h30 -18h30 (Closed between 13h and 14h )"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:53
+msgid "11th of February – 6th of April: 10h - 18h"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:269
 msgid "16th of September – 14th of June : 10h – 13h / 14h – 18h"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:55
+msgid "1st of July – 2th of September: 10h – 23h"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:81
@@ -38,6 +46,10 @@ msgstr ""
 
 #: client/views/pages/publicTransportation/airportExpress.html:144
 msgid "6 trips card"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:54
+msgid "7th of April – 29th of June : 10h - 19h"
 msgstr ""
 
 #: client/views/pages/museums/artisanal.html:7
@@ -71,6 +83,15 @@ msgstr ""
 #: client/views/pages/greenTourism/rivers.html:20
 #: client/views/pages/greenTourism/rivers.html:9
 #: client/views/pages/greenTourism/sports.html:84
+#: client/views/pages/kids/animationparks.html:139
+#: client/views/pages/kids/animationparks.html:160
+#: client/views/pages/kids/animationparks.html:186
+#: client/views/pages/kids/animationparks.html:208
+#: client/views/pages/kids/animationparks.html:226
+#: client/views/pages/kids/animationparks.html:26
+#: client/views/pages/kids/animationparks.html:40
+#: client/views/pages/kids/animationparks.html:76
+#: client/views/pages/kids/animationparks.html:98
 #: client/views/pages/museums/artisanal.html:12
 #: client/views/pages/museums/artisanal.html:40
 #: client/views/pages/museums/artisanal.html:53
@@ -102,8 +123,15 @@ msgstr ""
 msgid "Address"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:71
+msgid "Adult: from € 25,90<br>Child: from € 19,90"
+msgstr ""
+
 #: client/views/pages/greenTourism/islands.html:37
 #: client/views/pages/greenTourism/islands.html:95
+#: client/views/pages/kids/animationparks.html:129
+#: client/views/pages/kids/animationparks.html:20
+#: client/views/pages/kids/animationparks.html:62
 #: client/views/pages/museums/museums.html:326
 #: client/views/pages/museums/museums.html:587
 #: client/views/pages/museums/museums.html:90
@@ -141,6 +169,7 @@ msgstr ""
 msgid "Animals / nature"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:1
 #: client/views/pages/kids/index.html:7
 #: client/views/pages/kids/index.html:9
 msgid "Animation parks"
@@ -154,8 +183,20 @@ msgstr ""
 msgid "April until May : Tuesday-Sunday : 10h30-13h15 and 14h15-17h45"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:89
+msgid "April until mid-June: every weekend and every holiday: 14h - 19h"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:565
 msgid "April, May and June"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:153
+msgid "April, May and September: Weekends, holidays and school vacancies: 13h - 19h"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:219
+msgid "April: from 16h"
 msgstr ""
 
 #: client/views/pages/greenTourism/rivers.html:16
@@ -179,6 +220,14 @@ msgstr ""
 
 #: client/views/pages/publicTransportation/helicopter.html:2
 msgid "Azur Helicopter (rent + transport)"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:180
+msgid "Between 2 and 4 years / +64 years"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:176
+msgid "Between 5 and 64 years"
 msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:28
@@ -276,13 +325,30 @@ msgstr ""
 msgid "Children (10 -17 year)"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:121
+msgid "Children (3-4 year)"
+msgstr ""
+
 #: client/views/pages/greenTourism/islands.html:103
 #: client/views/pages/greenTourism/islands.html:41
 msgid "Children (5-10 year)"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:125
+msgid "Children (between 5 and 10 year)"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:599
 msgid "Children -4 year"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:16
+#: client/views/pages/kids/animationparks.html:66
+msgid "Children aged 3 - 12 years"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:12
+msgid "Children aged younger than 3 years"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:144
@@ -304,6 +370,10 @@ msgstr ""
 
 #: client/views/pages/museums/museums.html:319
 msgid "Closed every Tuesday and 25/12, 01/01 et 01/05"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:202
+msgid "Closed on Tuesdays, except during school vacancies"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:434
@@ -448,6 +518,7 @@ msgstr ""
 
 #: client/views/pages/greenTourism/islands.html:108
 #: client/views/pages/greenTourism/islands.html:46
+#: client/views/pages/kids/animationparks.html:21
 #: client/views/pages/museums/castles.html:141
 #: client/views/pages/museums/castles.html:145
 #: client/views/pages/museums/castles.html:59
@@ -467,12 +538,28 @@ msgstr ""
 msgid "Free entrance"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:96
+msgid "Free entrance (prices of rides: from 1.50 €)"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:224
+msgid "Free entrance (prices of rides: from € 0,77)"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:206
+msgid "Free entrance (prices of rides: from € 1,50)"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:453
 msgid "Free entrance for students and under the age of 18"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:104
 msgid "Free entrance for the 2nd child (between 7 and 17 year)"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:158
+msgid "Free entrance, Attractions from € 1 for children and € 2 for adults"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:318
@@ -496,8 +583,20 @@ msgstr ""
 msgid "From October until March: 10h-12h and 14h - 17h"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:90
+msgid "From the 11th of June until the 1st of July: Every day from 20h30 - 1h. Saturdays from 16h-1h. Sundays from 15h - 1h"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:113
+msgid "From the 16th of June until the 1st of July and from the 27th of August until the 5th of September: 10h-18h00"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:475
 msgid "From the 1st of July until the 31st of August:  10h - 18h"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:201
+msgid "From the 1st of July until the 31st of August: 10h00-12h00 and 16h00 – 00h00"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:474
@@ -510,6 +609,10 @@ msgstr ""
 
 #: client/views/pages/museums/castles.html:86
 msgid "From the 2nd of January until the 30th of April: Open every day from 10h00-17h00"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:114
+msgid "From the 2nd of July until the 26th of August: 10h00 - 19h00"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:87
@@ -661,8 +764,20 @@ msgstr ""
 msgid "July and August: Monday-Sunday : 10h-19h"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:91
+msgid "July-August: From Monday until Saturday: 17h - 2h. And Sunday from 15h - 2h"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:46
 msgid "June until September: Monday-Sunday : 10h-17h45"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:220
+msgid "June until September: from 20h - 1h"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:154
+msgid "June, July and August: every day from 20h00"
 msgstr ""
 
 #: client/views/pages/greenTourism/index.html:37
@@ -742,6 +857,10 @@ msgstr ""
 msgid "May until October: 10h - 18h"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:218
+msgid "May: from 18h"
+msgstr ""
+
 #: client/views/pages/restaurants/highGastronomy.html:20
 #: client/views/pages/restaurants/highGastronomy.html:7
 msgid "Modern, creative cuisine"
@@ -811,8 +930,20 @@ msgstr ""
 msgid "Open every day"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:216
+msgid "Open every day from April until September"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:112
+msgid "Open every day from the 16th of June until the 5th of September"
+msgstr ""
+
 #: client/views/pages/greenTourism/sports.html:80
 msgid "Open every day in school vacancies from the 8th of April: 13h – 18h"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:38
+msgid "Open every day in school vacations from the 8th of April: 13h – 18h and Wednesday, Saturday and Sunday, not during school vacations: 13h-18h"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:473
@@ -821,6 +952,10 @@ msgstr ""
 
 #: client/views/pages/museums/castles.html:122
 msgid "Open every day, the whole year from10h -18h except:"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:200
+msgid "Open every day: 10h00 – 12h00 and 14h00-18h30"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:18
@@ -840,6 +975,14 @@ msgid "Open from Monday until Friday  : 9h00 -12h00 and 14h00 – 18h00"
 msgstr ""
 
 #: client/views/pages/greenTourism/sports.html:78
+#: client/views/pages/kids/animationparks.html:110
+#: client/views/pages/kids/animationparks.html:151
+#: client/views/pages/kids/animationparks.html:198
+#: client/views/pages/kids/animationparks.html:215
+#: client/views/pages/kids/animationparks.html:37
+#: client/views/pages/kids/animationparks.html:5
+#: client/views/pages/kids/animationparks.html:51
+#: client/views/pages/kids/animationparks.html:87
 #: client/views/pages/museums/artisanal.html:24
 #: client/views/pages/museums/artisanal.html:5
 #: client/views/pages/museums/artisanal.html:65
@@ -923,6 +1066,14 @@ msgstr ""
 
 #: client/views/pages/greenTourism/islands.html:33
 #: client/views/pages/greenTourism/islands.html:91
+#: client/views/pages/kids/animationparks.html:117
+#: client/views/pages/kids/animationparks.html:157
+#: client/views/pages/kids/animationparks.html:172
+#: client/views/pages/kids/animationparks.html:205
+#: client/views/pages/kids/animationparks.html:223
+#: client/views/pages/kids/animationparks.html:58
+#: client/views/pages/kids/animationparks.html:8
+#: client/views/pages/kids/animationparks.html:95
 #: client/views/pages/museums/artisanal.html:37
 #: client/views/pages/museums/artisanal.html:9
 #: client/views/pages/museums/castles.html:128
@@ -978,6 +1129,10 @@ msgstr ""
 msgid "Reduced rate: students and groups(min. 10 People)"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:70
+msgid "Reduction Early Booking"
+msgstr ""
+
 #: client/views/pages/publicTransportation/airportExpress.html:136
 msgid "Return ticket"
 msgstr ""
@@ -999,6 +1154,10 @@ msgstr ""
 msgid "Sea products"
 msgstr ""
 
+#: client/views/pages/kids/animationparks.html:133
+msgid "Seniors (+65)"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:106
 msgid "Seniors 60+"
 msgstr ""
@@ -1011,6 +1170,10 @@ msgstr ""
 
 #: client/views/pages/museums/museums.html:573
 msgid "September"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:92
+msgid "September : Every weekend from 16h - 2h"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:10
@@ -1152,6 +1315,11 @@ msgstr ""
 #: client/views/pages/greenTourism/sports.html:65
 #: client/views/pages/greenTourism/sports.html:8
 #: client/views/pages/greenTourism/sports.html:86
+#: client/views/pages/kids/animationparks.html:100
+#: client/views/pages/kids/animationparks.html:141
+#: client/views/pages/kids/animationparks.html:188
+#: client/views/pages/kids/animationparks.html:210
+#: client/views/pages/kids/animationparks.html:228
 #: client/views/pages/museums/artisanal.html:14
 #: client/views/pages/museums/artisanal.html:42
 #: client/views/pages/museums/artisanal.html:55
@@ -1343,6 +1511,14 @@ msgstr ""
 #: client/views/pages/greenTourism/sports.html:69
 #: client/views/pages/greenTourism/sports.html:88
 #: client/views/pages/greenTourism/sports.html:97
+#: client/views/pages/kids/animationparks.html:102
+#: client/views/pages/kids/animationparks.html:143
+#: client/views/pages/kids/animationparks.html:163
+#: client/views/pages/kids/animationparks.html:190
+#: client/views/pages/kids/animationparks.html:230
+#: client/views/pages/kids/animationparks.html:29
+#: client/views/pages/kids/animationparks.html:43
+#: client/views/pages/kids/animationparks.html:79
 #: client/views/pages/museums/artisanal.html:100
 #: client/views/pages/museums/artisanal.html:16
 #: client/views/pages/museums/artisanal.html:44
@@ -1372,6 +1548,10 @@ msgstr ""
 
 #: client/views/pages/curiosities/markets.html:4
 msgid "Wednesday morning : Quartier des Termes <br>Place des Combattants d’Indochine and d’Afrique du Nord <br>City center (in front of Esterel Gallery) and at the parking Casinca (in front of Escota)"
+msgstr ""
+
+#: client/views/pages/kids/animationparks.html:6
+msgid "Wednesday, Saturday and Sunday + Holidays: from 10h – 19h"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:16

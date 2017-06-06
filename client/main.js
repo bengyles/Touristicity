@@ -158,6 +158,10 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/kids',
             templateUrl: 'client/views/pages/kids/index.html'
         })
+        .state('animationparks', {
+            url: '/animationparks',
+            templateUrl: 'client/views/pages/kids/animationparks.html'
+        })
         //water activities
         .state('water-activities', {
             url: '/water-activities',
