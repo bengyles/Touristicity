@@ -24,6 +24,10 @@ msgstr ""
 msgid "+ 15 people"
 msgstr "+ 15 personnes"
 
+#: client/views/pages/kids/animals.html:122
+msgid "+60 years"
+msgstr "+60 ans"
+
 #: client/views/pages/museums/museums.html:538
 msgid "-18"
 msgstr "-18"
@@ -102,6 +106,17 @@ msgstr "Accès pour le Cannet"
 #: client/views/pages/greenTourism/rivers.html:20
 #: client/views/pages/greenTourism/rivers.html:9
 #: client/views/pages/greenTourism/sports.html:84
+#: client/views/pages/kids/animals.html:132
+#: client/views/pages/kids/animals.html:168
+#: client/views/pages/kids/animals.html:21
+#: client/views/pages/kids/animals.html:217
+#: client/views/pages/kids/animals.html:253
+#: client/views/pages/kids/animals.html:274
+#: client/views/pages/kids/animals.html:314
+#: client/views/pages/kids/animals.html:376
+#: client/views/pages/kids/animals.html:5
+#: client/views/pages/kids/animals.html:73
+#: client/views/pages/kids/animals.html:91
 #: client/views/pages/kids/animationparks.html:139
 #: client/views/pages/kids/animationparks.html:160
 #: client/views/pages/kids/animationparks.html:186
@@ -142,12 +157,28 @@ msgstr "Accès pour le Cannet"
 msgid "Address"
 msgstr "Adresse"
 
+#: client/views/pages/kids/animals.html:366
+msgid "Adolescents 13-18 years"
+msgstr "Adolescents 13-18 ans"
+
+#: client/views/pages/kids/animals.html:348
+msgid "Adolescents 16-18 years"
+msgstr "Adolescents 16-18 ans"
+
 #: client/views/pages/kids/animationparks.html:71
 msgid "Adult: from € 25,90<br>Child: from € 19,90"
 msgstr "Adulte : A partir de € 25,90<br>Enfant : A partir de € 19,90"
 
 #: client/views/pages/greenTourism/islands.html:37
 #: client/views/pages/greenTourism/islands.html:95
+#: client/views/pages/kids/animals.html:118
+#: client/views/pages/kids/animals.html:154
+#: client/views/pages/kids/animals.html:239
+#: client/views/pages/kids/animals.html:300
+#: client/views/pages/kids/animals.html:344
+#: client/views/pages/kids/animals.html:362
+#: client/views/pages/kids/animals.html:47
+#: client/views/pages/kids/animals.html:58
 #: client/views/pages/kids/animationparks.html:129
 #: client/views/pages/kids/animationparks.html:20
 #: client/views/pages/kids/animationparks.html:62
@@ -186,7 +217,8 @@ msgstr ""
 "Et les mercredi, samedi et dimanche hors période de vacances scolaires de "
 "13h-18h"
 
-#: client/views/pages/kids/index.html:17 client/views/pages/kids/index.html:19
+#: client/views/pages/kids/animals.html:1 client/views/pages/kids/index.html:17
+#: client/views/pages/kids/index.html:19
 msgid "Animals / nature"
 msgstr "Animaux / nature"
 
@@ -319,6 +351,10 @@ msgstr "Cannoying"
 msgid "Car"
 msgstr "Voiture"
 
+#: client/views/pages/kids/animals.html:87
+msgid "Caravan safaris departures : 10h – 11h – 12h – 14h – 15h – 16h – 17h"
+msgstr "Départs safaris calèche : 10h – 11h – 12h – 14h – 15h – 16h – 17h"
+
 #: client/views/pages/museums/castles.html:42
 msgid "Castle, guided visit"
 msgstr "Visite guidée du château"
@@ -334,6 +370,10 @@ msgstr "Visite guidée du château"
 #: client/views/pages/greenTourism/parks.html:85
 msgid "Characteristics"
 msgstr "Caractéristique de l’itinéraire"
+
+#: client/views/pages/kids/animals.html:66
+msgid "Child"
+msgstr "Enfant"
 
 #: client/views/pages/publicTransportation/airportExpress.html:148
 msgid "Child rate &lt; 12 years"
@@ -369,14 +409,55 @@ msgstr "Enfants (de 5 à 10 ans)"
 msgid "Children -4 year"
 msgstr "Enfants de moins de 4 ans"
 
+#: client/views/pages/kids/animals.html:308
+msgid "Children aged -5 years"
+msgstr "Enfants -5 ans"
+
+#: client/views/pages/kids/animals.html:204
+msgid "Children aged 2-11 years"
+msgstr "Tarif réduit 2-11 ans"
+
+#: client/views/pages/kids/animals.html:51
 #: client/views/pages/kids/animationparks.html:16
 #: client/views/pages/kids/animationparks.html:66
 msgid "Children aged 3 - 12 years"
 msgstr "Enfants de 3 à 12 ans"
 
+#: client/views/pages/kids/animals.html:352
+msgid "Children aged 3-15 years"
+msgstr "Enfants 3-15 ans"
+
+#: client/views/pages/kids/animals.html:370
+msgid "Children aged 4-12 years"
+msgstr "Enfants 4-12 ans"
+
+#: client/views/pages/kids/animals.html:243
+msgid "Children aged 5-16 years"
+msgstr "Enfants de 5 à 16 ans"
+
+#: client/views/pages/kids/animals.html:304
+msgid "Children aged 5-9 years"
+msgstr "Enfants de 5 à 9 ans"
+
+#: client/views/pages/kids/animals.html:126
+msgid "Children aged 6-12 years"
+msgstr "Enfants 6-12 ans"
+
+#: client/views/pages/kids/animals.html:158
+msgid "Children aged between 4 and 12 years"
+msgstr "Enfants de 4 à 12 ans"
+
+#: client/views/pages/kids/animals.html:247
+msgid "Children aged under 5 years"
+msgstr "Enfants (-5 ans)"
+
 #: client/views/pages/kids/animationparks.html:12
 msgid "Children aged younger than 3 years"
 msgstr "Enfants moins 3 ans"
+
+#: client/views/pages/kids/animals.html:162
+msgid "Children aged younger than 4 years"
+msgstr "Enfants – de 4 ans"
 
 #: client/views/pages/museums/castles.html:144
 msgid "Children under the age of 7"
@@ -501,6 +582,14 @@ msgid ""
 msgstr ""
 "Ouvert tous les jours sauf le mardi, les 1er janvier, 1er mai, 25 décembre"
 
+#: client/views/pages/kids/animals.html:86
+msgid "Every day from 10h – 18h"
+msgstr "Tous les jours de 10h – 18h"
+
+#: client/views/pages/kids/animals.html:233
+msgid "Every day from 9h-19h00"
+msgstr "Ouvert tous les jours de 9h à 19h00"
+
 #: client/views/pages/museums/museums.html:231
 msgid ""
 "Every day, except Tuesday, the 1st of January, the 1st of May and the 25th "
@@ -545,6 +634,10 @@ msgstr "Famille"
 msgid "Family offer"
 msgstr "Offre famille"
 
+#: client/views/pages/kids/animals.html:109
+msgid "February, March, April and May: 10h-12h and 14h – 17h"
+msgstr "Février, mars, avril et mai : 10h-12h et 14h – 17h"
+
 #: client/views/pages/curiosities/markets.html:17
 msgid "Flower kiosk"
 msgstr "Kiosques à fleurs des Allées"
@@ -565,6 +658,9 @@ msgstr "Pour les Enfants"
 
 #: client/views/pages/greenTourism/islands.html:108
 #: client/views/pages/greenTourism/islands.html:46
+#: client/views/pages/kids/animals.html:163
+#: client/views/pages/kids/animals.html:248
+#: client/views/pages/kids/animals.html:309
 #: client/views/pages/kids/animationparks.html:21
 #: client/views/pages/museums/castles.html:141
 #: client/views/pages/museums/castles.html:145
@@ -612,6 +708,10 @@ msgstr ""
 msgid "Free entrance, Attractions from € 1 for children and € 2 for adults"
 msgstr "Attractions à partir de € 1 pour les enfants et € 2 pour les adultes"
 
+#: client/views/pages/kids/animals.html:340
+msgid "Free visit (1h without guide)"
+msgstr "Visites libres (1h de promenade sans guide)"
+
 #: client/views/pages/museums/museums.html:318
 msgid "From April until May : 10h - 12h and 14h - 18h"
 msgstr "D’ avril à mai : de 10h à 12h et de 14h à 18h"
@@ -619,6 +719,10 @@ msgstr "D’ avril à mai : de 10h à 12h et de 14h à 18h"
 #: client/views/pages/museums/museums.html:316
 msgid "From June until September: 10h-13h and 14h - 18h"
 msgstr "De juin à septembre : de 10h à 13h et de 14h à 18h"
+
+#: client/views/pages/kids/animals.html:270
+msgid "From March until October: 9h30 - 19h30"
+msgstr "Du mars au octobre : 9h30 à 19h30"
 
 #: client/views/pages/museums/museums.html:233
 #: client/views/pages/museums/museums.html:270
@@ -637,6 +741,10 @@ msgstr ""
 msgid "From October until March: 10h-12h and 14h - 17h"
 msgstr "D’octobre à mars : de 10h à 12h et de 14h à 17h"
 
+#: client/views/pages/kids/animals.html:271
+msgid "From October until March: 9h30 - 18h00"
+msgstr "Du octobre au mars : 9h30 à 18h00"
+
 #: client/views/pages/kids/animationparks.html:90
 msgid ""
 "From the 11th of June until the 1st of July: Every day from 20h30 - 1h. "
@@ -651,6 +759,14 @@ msgid ""
 "until the 5th of September: 10h-18h00"
 msgstr "Du 16 juin au 1er juillet et du 27 août au 5 septembre : 10h à 18h00"
 
+#: client/views/pages/kids/animals.html:334
+msgid ""
+"From the 1st of April until the 30th of June: Open every day, except Mondays "
+"from 10h-17h"
+msgstr ""
+"Du 1 avril au 30 juin : ouvert tous les jours sauf lundi de 10h à 17h "
+"(ouvert les lundis fériés ou de vacances scolaires)"
+
 #: client/views/pages/museums/museums.html:475
 msgid "From the 1st of July until the 31st of August: 10h - 18h"
 msgstr "Du 1er juillet au 31 août : de 10h à 18h"
@@ -660,9 +776,52 @@ msgid ""
 "From the 1st of July until the 31st of August: 10h00-12h00 and 16h00 – 00h00"
 msgstr "Du 1er juillet au 31 août : 10h00-12h00 et 16h00 – 00h00"
 
+#: client/views/pages/kids/animals.html:187
+msgid ""
+"From the 1st of July until the 31st of August: 9h25 – 10h40 – 11h55 – 14h15 "
+"– 15h30 – 16h45 – 18h00"
+msgstr ""
+"Du 1er juillet au 31 août : 9h25 – 10h40 – 11h55 – 14h15 – 15h30 – 16h45 – "
+"18h00"
+
+#: client/views/pages/kids/animals.html:335
+msgid ""
+"From the 1st of July until the 31st of August: Open every day from 10h-18h"
+msgstr ""
+"Du 1er juillet au 31 août : ouvert tous les jours de 10h à 18h (dernier "
+"départ de visite)"
+
+#: client/views/pages/kids/animals.html:291
+msgid "From the 1st of June until the 31st of August: 10h – 18h"
+msgstr "Du 1er juin au 31 août : de 10h à 18h"
+
+#: client/views/pages/kids/animals.html:292
+msgid ""
+"From the 1st of March until the 31st of May and from the 1st of September "
+"until the 31st of October: 10h-17h"
+msgstr "Du 1er mars au 31 mai et du 1er septembre au 31 octobre : 10h à 17h00"
+
+#: client/views/pages/kids/animals.html:293
+msgid "From the 1st of November until the 28th of February: 10h30 – 16h30"
+msgstr "Du 1er novembre au 28 février : de 10h30 à 16h30"
+
+#: client/views/pages/kids/animals.html:336
+msgid ""
+"From the 1st of September until the 19th of November: Open every day, except "
+"Mondays from 10h-17h"
+msgstr ""
+"Du 1er septembre au 19 novembre : ouvert tous les jours sauf lundi de 10h à "
+"17h (ouvert les lundis pendant vacances scolaires)"
+
 #: client/views/pages/museums/museums.html:474
 msgid "From the 1st of September until the 30th of June 1er : 10h - 17h"
 msgstr "Du 1er septembre au 30 juin : de 10h à 17h"
+
+#: client/views/pages/kids/animals.html:188
+msgid ""
+"From the 1st of September until the 30th of September: 11h00 – 13h30 – 15h00 "
+"– 16h30"
+msgstr "Du 1er septembre au 30 septembre : 11h00 – 13h30 – 15h00 – 16h30 "
 
 #: client/views/pages/museums/castles.html:88
 msgid ""
@@ -685,6 +844,20 @@ msgid ""
 "From the 2nd of May until the 31st of August: Open every day from 10h00-19h00"
 msgstr "Du 2 mai au 31 août : Ouvert tous les jours de 10h00-19h00"
 
+#: client/views/pages/kids/animals.html:333
+msgid ""
+"From the 4th of January until the 31st of March Du 4: Open every day, except "
+"Mondays from 10h-16h"
+msgstr ""
+"Du 4 janvier au 31 mars : ouvert tous les jours sauf lundi de 10h à 16h "
+"(dernier départ de visite)"
+
+#: client/views/pages/kids/animals.html:186
+msgid ""
+"From the 7th of April until the 30th of June: 11h – 13h30 – 15h00 – 16h30"
+msgstr "Du 7 avril au 30 juin : 11h – 13h30 – 15h00 – 16h30"
+
+#: client/views/pages/kids/animals.html:200
 #: client/views/pages/museums/castles.html:132
 #: client/views/pages/museums/castles.html:153
 #: client/views/pages/museums/castles.html:95
@@ -763,6 +936,10 @@ msgstr "Visites guidées à : 11h30, 14h30, 15h30"
 msgid "Guided visits: 14h30, 15h30"
 msgstr "Visites guidées à : 14h30, 15h30"
 
+#: client/views/pages/kids/animals.html:194
+msgid "Guided walk (1h)"
+msgstr "Promenade commentée"
+
 #: client/views/pages/publicTransportation/helicopter.html:1
 #: client/views/pages/publicTransportation/index.html:57
 #: client/views/pages/publicTransportation/index.html:59
@@ -800,6 +977,10 @@ msgstr "Restaurant Italienne"
 #: client/views/pages/museums/artisanal.html:32
 msgid "January : 9h-12h and 14h-18h"
 msgstr "En janvier : 9h-12h et 14h-18h"
+
+#: client/views/pages/kids/animals.html:108
+msgid "January and December: closed"
+msgstr "Janvier et décembre : fermeture annuelle"
 
 #: client/views/pages/museums/museums.html:561
 msgid "January, February and March"
@@ -844,6 +1025,10 @@ msgstr "Juin à Septembre : lundi-dimanche : 10h-17h45"
 #: client/views/pages/kids/animationparks.html:220
 msgid "June until September: from 20h - 1h"
 msgstr "De juin à septembre : de 20h à 1h"
+
+#: client/views/pages/kids/animals.html:110
+msgid "June, July and August: 10h – 18h"
+msgstr "Juin, Juillet, Août : 10h – 18h"
 
 #: client/views/pages/kids/animationparks.html:154
 msgid "June, July and August: every day from 20h00"
@@ -1031,6 +1216,10 @@ msgstr "Ouvert tous les jours d’avril à septembre"
 msgid "Open every day from the 16th of June until the 5th of September"
 msgstr "Ouvert tous les jours, du 16 juin au 5 septembre"
 
+#: client/views/pages/kids/animals.html:185
+msgid "Open every day from the 7th of April until the 30th of September"
+msgstr "Ouvert tous les jours du 7 avril au 30 septembre"
+
 #: client/views/pages/greenTourism/sports.html:80
 msgid "Open every day in school vacancies from the 8th of April: 13h – 18h"
 msgstr ""
@@ -1049,6 +1238,10 @@ msgstr ""
 #: client/views/pages/museums/museums.html:473
 msgid "Open every day, except Tuesdays"
 msgstr "Ouvert tous les jours sauf les lundis"
+
+#: client/views/pages/kids/animals.html:148
+msgid "Open every day, the whole year from 10h00 – 18h00"
+msgstr "Ouvert au public tout l’année du 10h00 – 18h00"
 
 #: client/views/pages/museums/castles.html:122
 msgid "Open every day, the whole year from10h -18h except:"
@@ -1075,6 +1268,15 @@ msgid "Open from Monday until Friday : 9h00 -12h00 and 14h00 – 18h00"
 msgstr "Ouvert du lundi au vendredi : 9h00 -12h00 et 14h00 – 18h00"
 
 #: client/views/pages/greenTourism/sports.html:78
+#: client/views/pages/kids/animals.html:106
+#: client/views/pages/kids/animals.html:147
+#: client/views/pages/kids/animals.html:183
+#: client/views/pages/kids/animals.html:232
+#: client/views/pages/kids/animals.html:268
+#: client/views/pages/kids/animals.html:289
+#: client/views/pages/kids/animals.html:330
+#: client/views/pages/kids/animals.html:36
+#: client/views/pages/kids/animals.html:84
 #: client/views/pages/kids/animationparks.html:110
 #: client/views/pages/kids/animationparks.html:151
 #: client/views/pages/kids/animationparks.html:198
@@ -1167,6 +1369,13 @@ msgstr "Tarifs"
 
 #: client/views/pages/greenTourism/islands.html:33
 #: client/views/pages/greenTourism/islands.html:91
+#: client/views/pages/kids/animals.html:114
+#: client/views/pages/kids/animals.html:150
+#: client/views/pages/kids/animals.html:192
+#: client/views/pages/kids/animals.html:235
+#: client/views/pages/kids/animals.html:296
+#: client/views/pages/kids/animals.html:339
+#: client/views/pages/kids/animals.html:43
 #: client/views/pages/kids/animationparks.html:117
 #: client/views/pages/kids/animationparks.html:157
 #: client/views/pages/kids/animationparks.html:172
@@ -1230,6 +1439,8 @@ msgstr "Demi-tarif : étudiants et groupes (min. 10 personnes)"
 msgid "Reduced rate: students and groups(min. 10 People)"
 msgstr "Demi-tarif : étudiants et groupes (min. 10 personnes)"
 
+#: client/views/pages/kids/animals.html:56
+#: client/views/pages/kids/animals.html:64
 #: client/views/pages/kids/animationparks.html:70
 msgid "Reduction Early Booking"
 msgstr "Réduction Early Booking"
@@ -1242,6 +1453,10 @@ msgstr "Titre aller Retour"
 #: client/views/pages/greenTourism/islands.html:77
 msgid "Returns"
 msgstr "Retours"
+
+#: client/views/pages/kids/animals.html:88
+msgid "Safaris departures on feet : 10h – 11h30 – 14h – 15h30"
+msgstr "Départs safaris à pied : 10h – 11h30 – 14h – 15h30"
 
 #: client/views/pages/rental/index.html:7
 #: client/views/pages/rental/index.html:9
@@ -1281,6 +1496,10 @@ msgstr "Septembre : Tous les week-ends de 16h à 2h du matin"
 msgid "September : Tuesday-Sunday : 10h-13h and 14h-18h"
 msgstr "Septembre : mardi-dimanche : 10h-13h et 14h-18h"
 
+#: client/views/pages/kids/animals.html:111
+msgid "September, October and November: 10h – 12h and 14h – 17h"
+msgstr "Septembre, octobre, novembre : 10h – 12h et 14h – 17h"
+
 #: client/views/pages/other/index.html:17
 #: client/views/pages/other/index.html:19
 msgid "Spa"
@@ -1289,6 +1508,10 @@ msgstr "Spa"
 #: client/views/pages/publicTransportation/airportExpress.html:128
 msgid "Special Pricing"
 msgstr "Tarification spéciale"
+
+#: client/views/pages/kids/animals.html:208
+msgid "Special rate from July until August (only at 9h25)"
+msgstr "Tarif spécial à 9h25 en juillet / août"
 
 #: client/views/pages/museums/museums.html:193
 msgid "Spring (April) : 10h00 – 17h30"
@@ -1446,6 +1669,16 @@ msgstr "Cérémonie du thé"
 #: client/views/pages/greenTourism/sports.html:65
 #: client/views/pages/greenTourism/sports.html:8
 #: client/views/pages/greenTourism/sports.html:86
+#: client/views/pages/kids/animals.html:135
+#: client/views/pages/kids/animals.html:171
+#: client/views/pages/kids/animals.html:220
+#: client/views/pages/kids/animals.html:24
+#: client/views/pages/kids/animals.html:256
+#: client/views/pages/kids/animals.html:277
+#: client/views/pages/kids/animals.html:318
+#: client/views/pages/kids/animals.html:379
+#: client/views/pages/kids/animals.html:8
+#: client/views/pages/kids/animals.html:94
 #: client/views/pages/kids/animationparks.html:100
 #: client/views/pages/kids/animationparks.html:141
 #: client/views/pages/kids/animationparks.html:188
@@ -1479,6 +1712,14 @@ msgstr "Cérémonie du thé"
 msgid "Tel."
 msgstr "Tel."
 
+#: client/views/pages/kids/animals.html:38
+msgid "The 11th of February until the 6th of April: 10h - 18h"
+msgstr "11 février – 6 avril : ouvert de 10h à 18h"
+
+#: client/views/pages/kids/animals.html:40
+msgid "The 1st of July until the 2nd of September: 10h – 23h"
+msgstr "1 juillet – 2 septembre : ouvert de 10h – 23h"
+
 #: client/views/pages/museums/museums.html:82
 msgid "The 21st of June– the 30th of September: 10h-18h"
 msgstr "21 juin – 30 septembre : 10h-18h"
@@ -1492,6 +1733,10 @@ msgstr "23 juin – 15 octobre : tous les jours de 10h à 18h sauf le lundi"
 #: client/views/pages/museums/castles.html:140
 msgid "The 2nd child (between 7 and 17 year)"
 msgstr "Le 2eme enfant âgé de 7-17 ans"
+
+#: client/views/pages/kids/animals.html:39
+msgid "The 7th of April until the 29th of June: 10h - 19h"
+msgstr "7 avril – 29 juin : ouvert de 10h à 19h"
 
 #: client/views/pages/museums/castles.html:14
 msgid "The 8th of November until the 10th of February:"
@@ -1556,6 +1801,10 @@ msgstr "Ticket groupe 24h"
 msgid "Time"
 msgstr "Durée"
 
+#: client/views/pages/kids/animals.html:332
+msgid "Time of 1 visit: 1 hours"
+msgstr "Durée de la visite : 1h"
+
 #: client/views/pages/discover/index.html:1
 #: client/views/pages/touristic-information.html:107
 #: client/views/pages/touristic-information.html:109
@@ -1579,6 +1828,10 @@ msgstr "Information touristique"
 #: client/views/pages/publicTransportation/index.html:29
 msgid "Train"
 msgstr "Train"
+
+#: client/views/pages/kids/animals.html:358
+msgid "Treasure hunt (2h)"
+msgstr "Chasse au Trésor (2h d’aventures en famille, visite + jeu)"
 
 #: client/views/pages/greenTourism/sports.html:75
 msgid "Tree climbing"
@@ -1653,6 +1906,17 @@ msgstr "Les activités nautiques"
 #: client/views/pages/greenTourism/sports.html:69
 #: client/views/pages/greenTourism/sports.html:88
 #: client/views/pages/greenTourism/sports.html:97
+#: client/views/pages/kids/animals.html:12
+#: client/views/pages/kids/animals.html:139
+#: client/views/pages/kids/animals.html:175
+#: client/views/pages/kids/animals.html:224
+#: client/views/pages/kids/animals.html:260
+#: client/views/pages/kids/animals.html:28
+#: client/views/pages/kids/animals.html:281
+#: client/views/pages/kids/animals.html:322
+#: client/views/pages/kids/animals.html:383
+#: client/views/pages/kids/animals.html:76
+#: client/views/pages/kids/animals.html:98
 #: client/views/pages/kids/animationparks.html:102
 #: client/views/pages/kids/animationparks.html:143
 #: client/views/pages/kids/animationparks.html:163
@@ -1709,6 +1973,10 @@ msgstr "Week-end et vacances scolaires:"
 #: client/views/pages/museums/museums.html:330
 msgid "Younger than 26 years"
 msgstr "Moins de 26 ans et Cagnois"
+
+#: client/views/pages/kids/animals.html:210
+msgid "and"
+msgstr "et"
 
 #: client/views/pages/greenTourism/mountains.html:41
 msgid "athletic"
