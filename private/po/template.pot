@@ -28,6 +28,14 @@ msgstr ""
 msgid "09h30 -18h30 (Closed between 13h and 14h )"
 msgstr ""
 
+#: client/views/pages/water/waterActivities.html:26
+msgid "1 round: 1 person. € 60,00 ; 2 people € 80,00, 3 people € 100,00"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:11
+msgid "1 round: €30,00 for 10 minutes"
+msgstr ""
+
 #: client/views/pages/kids/animationparks.html:53
 msgid "11th of February – 6th of April: 10h - 18h"
 msgstr ""
@@ -77,6 +85,10 @@ msgstr ""
 
 #: client/views/pages/greenTourism/parks.html:13
 msgid "Access for le Cannet"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:8
+msgid "Activities"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:18
@@ -135,6 +147,20 @@ msgstr ""
 #: client/views/pages/museums/museums.html:605
 #: client/views/pages/museums/museums.html:67
 #: client/views/pages/publicTransportation/helicopter.html:11
+#: client/views/pages/water/nauticalCenter.html:7
+#: client/views/pages/water/waterActivities.html:107
+#: client/views/pages/water/waterActivities.html:127
+#: client/views/pages/water/waterActivities.html:135
+#: client/views/pages/water/waterActivities.html:147
+#: client/views/pages/water/waterActivities.html:164
+#: client/views/pages/water/waterActivities.html:178
+#: client/views/pages/water/waterActivities.html:192
+#: client/views/pages/water/waterActivities.html:209
+#: client/views/pages/water/waterActivities.html:225
+#: client/views/pages/water/waterActivities.html:32
+#: client/views/pages/water/waterActivities.html:62
+#: client/views/pages/water/waterActivities.html:79
+#: client/views/pages/water/waterActivities.html:93
 msgid "Address"
 msgstr ""
 
@@ -189,6 +215,10 @@ msgstr ""
 #: client/views/pages/publicTransportation/airportExpress.html:159
 #: client/views/pages/publicTransportation/airportExpress.html:3
 msgid "All days"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:18
+msgid "Amusements : Banana, Buoys, sofa et flyfish"
 msgstr ""
 
 #: client/views/pages/greenTourism/sports.html:81
@@ -305,8 +335,16 @@ msgstr ""
 msgid "Cannes"
 msgstr ""
 
+#: client/views/pages/water/waterActivities.html:223
+msgid "Cannes Standup Paddle"
+msgstr ""
+
 #: client/views/pages/greenTourism/sports.html:2
 msgid "Canoeing"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:206
+msgid "Canoeing / Kayaking / Windsurfing / Catamaran"
 msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:28
@@ -350,6 +388,10 @@ msgstr ""
 
 #: client/views/pages/publicTransportation/airportExpress.html:148
 msgid "Child rate &lt; 12 years"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:48
+msgid "Children"
 msgstr ""
 
 #: client/views/pages/greenTourism/islands.html:107
@@ -483,6 +525,10 @@ msgstr ""
 msgid "Curiosities"
 msgstr ""
 
+#: client/views/pages/water/waterActivities.html:145
+msgid "Deep see fishing Boat Annett"
+msgstr ""
+
 #: client/views/pages/greenTourism/islands.html:5
 #: client/views/pages/greenTourism/islands.html:63
 msgid "Departure"
@@ -506,6 +552,10 @@ msgstr ""
 #: client/views/pages/greenTourism/parks.html:8
 #: client/views/pages/greenTourism/parks.html:87
 msgid "Distance"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:76
+msgid "Diving club"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:334
@@ -589,6 +639,18 @@ msgstr ""
 
 #: client/views/pages/kids/animals.html:109
 msgid "February, March, April and May: 10h-12h and 14h – 17h"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:52
+msgid "First dive"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:56
+msgid "First trainings"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:121
+msgid "Fishing on lake and river"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:17
@@ -834,6 +896,10 @@ msgstr ""
 msgid "Groups 10+ People"
 msgstr ""
 
+#: client/views/pages/water/waterActivities.html:124
+msgid "Guide"
+msgstr ""
+
 #: client/views/pages/museums/castles.html:10
 msgid "Guided visit : 11h30, 14h30, 15h30 and 16h30"
 msgstr ""
@@ -873,6 +939,10 @@ msgstr ""
 msgid "International cuisine"
 msgstr ""
 
+#: client/views/pages/water/waterActivities.html:42
+msgid "International diving center"
+msgstr ""
+
 #: client/views/pages/greenTourism/index.html:17
 #: client/views/pages/greenTourism/index.html:19
 #: client/views/pages/greenTourism/islands.html:1
@@ -899,6 +969,10 @@ msgstr ""
 #: client/views/pages/restaurants/internationalCuisine.html:59
 #: client/views/pages/restaurants/internationalCuisine.html:72
 msgid "Japanese restaurant"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:161
+msgid "Jet ski"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:569
@@ -939,6 +1013,10 @@ msgstr ""
 
 #: client/views/pages/kids/animationparks.html:154
 msgid "June, July and August: every day from 20h00"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:12
+msgid "La lessons : € 40,00"
 msgstr ""
 
 #: client/views/pages/greenTourism/index.html:37
@@ -1115,6 +1193,10 @@ msgstr ""
 msgid "Open every day, except Tuesdays"
 msgstr ""
 
+#: client/views/pages/water/nauticalCenter.html:5
+msgid "Open every day, the whole year (from 7h-19h)"
+msgstr ""
+
 #: client/views/pages/kids/animals.html:148
 msgid "Open every day, the whole year from 10h00 – 18h00"
 msgstr ""
@@ -1137,6 +1219,10 @@ msgstr ""
 
 #: client/views/pages/museums/castles.html:24
 msgid "Open from 14h -17h"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:6
+msgid "Open from May until October. Groups welcome (min. 10 persons) Personalized lessons"
 msgstr ""
 
 #: client/views/pages/museums/artisanal.html:26
@@ -1184,6 +1270,8 @@ msgstr ""
 #: client/views/pages/museums/museums.html:516
 #: client/views/pages/museums/museums.html:557
 #: client/views/pages/museums/museums.html:79
+#: client/views/pages/water/nauticalCenter.html:4
+#: client/views/pages/water/waterActivities.html:5
 msgid "Opening hours"
 msgstr ""
 
@@ -1204,6 +1292,10 @@ msgstr ""
 #: client/views/pages/other/index.html:27
 #: client/views/pages/other/index.html:29
 msgid "Others"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:25
+msgid "Parasailing"
 msgstr ""
 
 #: client/views/pages/greenTourism/index.html:7
@@ -1280,6 +1372,7 @@ msgstr ""
 #: client/views/pages/museums/museums.html:519
 #: client/views/pages/museums/museums.html:583
 #: client/views/pages/museums/museums.html:86
+#: client/views/pages/water/waterActivities.html:44
 msgid "Rates"
 msgstr ""
 
@@ -1402,6 +1495,10 @@ msgstr ""
 #: client/views/pages/rental/car.html:46
 #: client/views/pages/rental/car.html:7
 msgid "Starting at"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:19
+msgid "Starting at € 20,00"
 msgstr ""
 
 #: client/views/pages/greenTourism/parks.html:96
@@ -1554,6 +1651,20 @@ msgstr ""
 #: client/views/pages/museums/museums.html:547
 #: client/views/pages/museums/museums.html:607
 #: client/views/pages/museums/museums.html:69
+#: client/views/pages/water/nauticalCenter.html:10
+#: client/views/pages/water/waterActivities.html:110
+#: client/views/pages/water/waterActivities.html:14
+#: client/views/pages/water/waterActivities.html:150
+#: client/views/pages/water/waterActivities.html:167
+#: client/views/pages/water/waterActivities.html:181
+#: client/views/pages/water/waterActivities.html:195
+#: client/views/pages/water/waterActivities.html:21
+#: client/views/pages/water/waterActivities.html:212
+#: client/views/pages/water/waterActivities.html:228
+#: client/views/pages/water/waterActivities.html:28
+#: client/views/pages/water/waterActivities.html:65
+#: client/views/pages/water/waterActivities.html:82
+#: client/views/pages/water/waterActivities.html:96
 msgid "Tel."
 msgstr ""
 
@@ -1595,6 +1706,7 @@ msgstr ""
 
 #: client/views/pages/water/index.html:7
 #: client/views/pages/water/index.html:9
+#: client/views/pages/water/nauticalCenter.html:1
 msgid "The nautical center"
 msgstr ""
 
@@ -1673,6 +1785,10 @@ msgstr ""
 msgid "Tree climbing"
 msgstr ""
 
+#: client/views/pages/water/waterActivities.html:132
+msgid "Troat fishing"
+msgstr ""
+
 #: client/views/pages/curiosities/markets.html:32
 msgid "Tuesday until Sunday from : 06h00 – 17h30 (Sunday : 6h30-13h30)"
 msgstr ""
@@ -1727,7 +1843,16 @@ msgstr ""
 #: client/views/pages/water/index.html:1
 #: client/views/pages/water/index.html:17
 #: client/views/pages/water/index.html:19
+#: client/views/pages/water/waterActivities.html:1
 msgid "Water activities"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:4
+msgid "Water skiing and parasailing"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:10
+msgid "Water skiing– bi – mono – wakeboard"
 msgstr ""
 
 #: client/views/pages/greenTourism/islands.html:117
@@ -1783,6 +1908,18 @@ msgstr ""
 #: client/views/pages/museums/museums.html:609
 #: client/views/pages/museums/museums.html:71
 #: client/views/pages/publicTransportation/helicopter.html:19
+#: client/views/pages/water/waterActivities.html:100
+#: client/views/pages/water/waterActivities.html:114
+#: client/views/pages/water/waterActivities.html:138
+#: client/views/pages/water/waterActivities.html:154
+#: client/views/pages/water/waterActivities.html:171
+#: client/views/pages/water/waterActivities.html:185
+#: client/views/pages/water/waterActivities.html:199
+#: client/views/pages/water/waterActivities.html:216
+#: client/views/pages/water/waterActivities.html:232
+#: client/views/pages/water/waterActivities.html:35
+#: client/views/pages/water/waterActivities.html:69
+#: client/views/pages/water/waterActivities.html:86
 msgid "Website"
 msgstr ""
 

@@ -45,6 +45,14 @@ msgstr ""
 "09h30 à 18h30 (fermée entre 13 et 14H ainsi que les dimanches d’octobre à "
 "mars inclus, sauf vacances scolaires)"
 
+#: client/views/pages/water/waterActivities.html:26
+msgid "1 round: 1 person. € 60,00 ; 2 people € 80,00, 3 people € 100,00"
+msgstr "Le tour : 1 pers. € 60,00 ; 2 pers. € 80,00, 3 pers. € 100,00"
+
+#: client/views/pages/water/waterActivities.html:11
+msgid "1 round: €30,00 for 10 minutes"
+msgstr "Le tour : € 30,00 pour 10 minutes"
+
 #: client/views/pages/kids/animationparks.html:53
 msgid "11th of February – 6th of April: 10h - 18h"
 msgstr "11 février – 6 avril : ouvert de 10h à 18h"
@@ -97,6 +105,10 @@ msgstr "Accès pour Mougins"
 #: client/views/pages/greenTourism/parks.html:13
 msgid "Access for le Cannet"
 msgstr "Accès pour le Cannet"
+
+#: client/views/pages/water/waterActivities.html:8
+msgid "Activities"
+msgstr "Activités"
 
 #: client/views/pages/curiosities/markets.html:18
 #: client/views/pages/curiosities/markets.html:22
@@ -154,6 +166,20 @@ msgstr "Accès pour le Cannet"
 #: client/views/pages/museums/museums.html:605
 #: client/views/pages/museums/museums.html:67
 #: client/views/pages/publicTransportation/helicopter.html:11
+#: client/views/pages/water/nauticalCenter.html:7
+#: client/views/pages/water/waterActivities.html:107
+#: client/views/pages/water/waterActivities.html:127
+#: client/views/pages/water/waterActivities.html:135
+#: client/views/pages/water/waterActivities.html:147
+#: client/views/pages/water/waterActivities.html:164
+#: client/views/pages/water/waterActivities.html:178
+#: client/views/pages/water/waterActivities.html:192
+#: client/views/pages/water/waterActivities.html:209
+#: client/views/pages/water/waterActivities.html:225
+#: client/views/pages/water/waterActivities.html:32
+#: client/views/pages/water/waterActivities.html:62
+#: client/views/pages/water/waterActivities.html:79
+#: client/views/pages/water/waterActivities.html:93
 msgid "Address"
 msgstr "Adresse"
 
@@ -209,6 +235,10 @@ msgstr "Aeroport Express"
 #: client/views/pages/publicTransportation/airportExpress.html:3
 msgid "All days"
 msgstr "Tous les jours"
+
+#: client/views/pages/water/waterActivities.html:18
+msgid "Amusements : Banana, Buoys, sofa et flyfish"
+msgstr "Amusements : Banane, bouées, canapé et flyfish"
 
 #: client/views/pages/greenTourism/sports.html:81
 msgid ""
@@ -333,9 +363,17 @@ msgstr "Bus"
 msgid "Cannes"
 msgstr "Cannes"
 
+#: client/views/pages/water/waterActivities.html:223
+msgid "Cannes Standup Paddle"
+msgstr "Cannes Standup Paddle"
+
 #: client/views/pages/greenTourism/sports.html:2
 msgid "Canoeing"
 msgstr "Cannoying"
+
+#: client/views/pages/water/waterActivities.html:206
+msgid "Canoeing / Kayaking / Windsurfing / Catamaran"
+msgstr "Canoé / Kayak / Planche à voile / Catamaran"
 
 #: client/views/pages/greenTourism/mountains.html:28
 #: client/views/pages/greenTourism/mountains.html:46
@@ -378,6 +416,10 @@ msgstr "Enfant"
 #: client/views/pages/publicTransportation/airportExpress.html:148
 msgid "Child rate &lt; 12 years"
 msgstr "Tarif enfant &lt; 12 ans"
+
+#: client/views/pages/water/waterActivities.html:48
+msgid "Children"
+msgstr "Enfants"
 
 #: client/views/pages/greenTourism/islands.html:107
 #: client/views/pages/greenTourism/islands.html:45
@@ -514,6 +556,10 @@ msgstr "Condition Groupes"
 msgid "Curiosities"
 msgstr "Les curiosités"
 
+#: client/views/pages/water/waterActivities.html:145
+msgid "Deep see fishing Boat Annett"
+msgstr "Pêche au gros Bateau Annett"
+
 #: client/views/pages/greenTourism/islands.html:5
 #: client/views/pages/greenTourism/islands.html:63
 msgid "Departure"
@@ -542,6 +588,10 @@ msgstr "Destinations"
 #: client/views/pages/greenTourism/parks.html:87
 msgid "Distance"
 msgstr "Distance"
+
+#: client/views/pages/water/waterActivities.html:76
+msgid "Diving club"
+msgstr "Club de Plongée"
 
 #: client/views/pages/museums/museums.html:334
 msgid "Double ticket(for the Renoir museum and the Castle-Museum Grimaldi )"
@@ -637,6 +687,18 @@ msgstr "Offre famille"
 #: client/views/pages/kids/animals.html:109
 msgid "February, March, April and May: 10h-12h and 14h – 17h"
 msgstr "Février, mars, avril et mai : 10h-12h et 14h – 17h"
+
+#: client/views/pages/water/waterActivities.html:52
+msgid "First dive"
+msgstr "Baptême de plongée"
+
+#: client/views/pages/water/waterActivities.html:56
+msgid "First trainings"
+msgstr "Premières formations"
+
+#: client/views/pages/water/waterActivities.html:121
+msgid "Fishing on lake and river"
+msgstr "Pêche en lac et rivière"
 
 #: client/views/pages/curiosities/markets.html:17
 msgid "Flower kiosk"
@@ -924,6 +986,10 @@ msgstr "Groupe 10+ personnes"
 msgid "Groups 10+ People"
 msgstr "Groupe 10+ personnes"
 
+#: client/views/pages/water/waterActivities.html:124
+msgid "Guide"
+msgstr "Guide de pêche"
+
 #: client/views/pages/museums/castles.html:10
 msgid "Guided visit : 11h30, 14h30, 15h30 and 16h30"
 msgstr "Visites guidées à : 11h30, 14h30, 15h30 et 16h30"
@@ -963,6 +1029,10 @@ msgstr "Restaurant Indien"
 msgid "International cuisine"
 msgstr "Cuisine du Monde"
 
+#: client/views/pages/water/waterActivities.html:42
+msgid "International diving center"
+msgstr "Plongée international center"
+
 #: client/views/pages/greenTourism/index.html:17
 #: client/views/pages/greenTourism/index.html:19
 #: client/views/pages/greenTourism/islands.html:1
@@ -990,6 +1060,10 @@ msgstr "Janvier, février, mars"
 #: client/views/pages/restaurants/internationalCuisine.html:72
 msgid "Japanese restaurant"
 msgstr "Restaurant Japonais"
+
+#: client/views/pages/water/waterActivities.html:161
+msgid "Jet ski"
+msgstr "Jet ski"
 
 #: client/views/pages/museums/museums.html:569
 msgid "July and August"
@@ -1033,6 +1107,10 @@ msgstr "Juin, Juillet, Août : 10h – 18h"
 #: client/views/pages/kids/animationparks.html:154
 msgid "June, July and August: every day from 20h00"
 msgstr "Juin, juillet et août : tous les jours à partir de 20h00"
+
+#: client/views/pages/water/waterActivities.html:12
+msgid "La lessons : € 40,00"
+msgstr "La leçons : € 40,00"
 
 #: client/views/pages/greenTourism/index.html:37
 #: client/views/pages/greenTourism/index.html:39
@@ -1239,6 +1317,10 @@ msgstr ""
 msgid "Open every day, except Tuesdays"
 msgstr "Ouvert tous les jours sauf les lundis"
 
+#: client/views/pages/water/nauticalCenter.html:5
+msgid "Open every day, the whole year (from 7h-19h)"
+msgstr "Ouvert au public 7 jours sur 7 toute l’année (8h-19h)"
+
 #: client/views/pages/kids/animals.html:148
 msgid "Open every day, the whole year from 10h00 – 18h00"
 msgstr "Ouvert au public tout l’année du 10h00 – 18h00"
@@ -1262,6 +1344,14 @@ msgstr "Ouverture de 10h à 18h"
 #: client/views/pages/museums/castles.html:24
 msgid "Open from 14h -17h"
 msgstr "Ouverture de 14h à 17h"
+
+#: client/views/pages/water/waterActivities.html:6
+msgid ""
+"Open from May until October. Groups welcome (min. 10 persons) Personalized "
+"lessons"
+msgstr ""
+"Ouvert de Mai à Octobre. Accueil de groupes possible (10 pers. Minimum). "
+"Leçons personnalisées – Perfectionnement"
 
 #: client/views/pages/museums/artisanal.html:26
 msgid "Open from Monday until Friday : 9h00 -12h00 and 14h00 – 18h00"
@@ -1308,6 +1398,8 @@ msgstr "Ouvert du lundi au vendredi : 9h00 -12h00 et 14h00 – 18h00"
 #: client/views/pages/museums/museums.html:516
 #: client/views/pages/museums/museums.html:557
 #: client/views/pages/museums/museums.html:79
+#: client/views/pages/water/nauticalCenter.html:4
+#: client/views/pages/water/waterActivities.html:5
 msgid "Opening hours"
 msgstr "Horaires"
 
@@ -1329,6 +1421,10 @@ msgstr "Autres activités"
 #: client/views/pages/other/index.html:29
 msgid "Others"
 msgstr "Autres"
+
+#: client/views/pages/water/waterActivities.html:25
+msgid "Parasailing"
+msgstr "Parachute ascensionnel"
 
 #: client/views/pages/greenTourism/index.html:7
 #: client/views/pages/greenTourism/index.html:9
@@ -1405,6 +1501,7 @@ msgstr "Tarifs"
 #: client/views/pages/museums/museums.html:519
 #: client/views/pages/museums/museums.html:583
 #: client/views/pages/museums/museums.html:86
+#: client/views/pages/water/waterActivities.html:44
 msgid "Rates"
 msgstr "Tarifs"
 
@@ -1526,6 +1623,10 @@ msgstr "Hiver : 10h – 17h30 (Octobre à Avril)"
 #: client/views/pages/rental/car.html:46 client/views/pages/rental/car.html:7
 msgid "Starting at"
 msgstr "A partir de"
+
+#: client/views/pages/water/waterActivities.html:19
+msgid "Starting at € 20,00"
+msgstr "A partir de € 20,00"
 
 #: client/views/pages/greenTourism/parks.html:96
 msgid "Stop « Gare de Biot » and walk 10 minutes"
@@ -1709,6 +1810,20 @@ msgstr "Cérémonie du thé"
 #: client/views/pages/museums/museums.html:547
 #: client/views/pages/museums/museums.html:607
 #: client/views/pages/museums/museums.html:69
+#: client/views/pages/water/nauticalCenter.html:10
+#: client/views/pages/water/waterActivities.html:110
+#: client/views/pages/water/waterActivities.html:14
+#: client/views/pages/water/waterActivities.html:150
+#: client/views/pages/water/waterActivities.html:167
+#: client/views/pages/water/waterActivities.html:181
+#: client/views/pages/water/waterActivities.html:195
+#: client/views/pages/water/waterActivities.html:21
+#: client/views/pages/water/waterActivities.html:212
+#: client/views/pages/water/waterActivities.html:228
+#: client/views/pages/water/waterActivities.html:28
+#: client/views/pages/water/waterActivities.html:65
+#: client/views/pages/water/waterActivities.html:82
+#: client/views/pages/water/waterActivities.html:96
 msgid "Tel."
 msgstr "Tel."
 
@@ -1759,6 +1874,7 @@ msgstr ""
 "Rue du Docteur Baloux"
 
 #: client/views/pages/water/index.html:7 client/views/pages/water/index.html:9
+#: client/views/pages/water/nauticalCenter.html:1
 msgid "The nautical center"
 msgstr "Le centre nautique"
 
@@ -1837,6 +1953,10 @@ msgstr "Chasse au Trésor (2h d’aventures en famille, visite + jeu)"
 msgid "Tree climbing"
 msgstr "Acrobranche"
 
+#: client/views/pages/water/waterActivities.html:132
+msgid "Troat fishing"
+msgstr "Pêche à la truite"
+
 #: client/views/pages/curiosities/markets.html:32
 msgid "Tuesday until Sunday from : 06h00 – 17h30 (Sunday : 6h30-13h30)"
 msgstr "Mardi-Dimanche : 06h00 – 17h30 (dimanche : 6h30-13h30)"
@@ -1893,8 +2013,17 @@ msgstr "Vistite libre"
 #: client/views/pages/touristic-information.html:79
 #: client/views/pages/water/index.html:1 client/views/pages/water/index.html:17
 #: client/views/pages/water/index.html:19
+#: client/views/pages/water/waterActivities.html:1
 msgid "Water activities"
 msgstr "Les activités nautiques"
+
+#: client/views/pages/water/waterActivities.html:4
+msgid "Water skiing and parasailing"
+msgstr "Ski nautique et parachute ascensionnel"
+
+#: client/views/pages/water/waterActivities.html:10
+msgid "Water skiing– bi – mono – wakeboard"
+msgstr "Ski nautique – bi – mono – wakeboard"
 
 #: client/views/pages/greenTourism/islands.html:117
 #: client/views/pages/greenTourism/islands.html:55
@@ -1949,6 +2078,18 @@ msgstr "Les activités nautiques"
 #: client/views/pages/museums/museums.html:609
 #: client/views/pages/museums/museums.html:71
 #: client/views/pages/publicTransportation/helicopter.html:19
+#: client/views/pages/water/waterActivities.html:100
+#: client/views/pages/water/waterActivities.html:114
+#: client/views/pages/water/waterActivities.html:138
+#: client/views/pages/water/waterActivities.html:154
+#: client/views/pages/water/waterActivities.html:171
+#: client/views/pages/water/waterActivities.html:185
+#: client/views/pages/water/waterActivities.html:199
+#: client/views/pages/water/waterActivities.html:216
+#: client/views/pages/water/waterActivities.html:232
+#: client/views/pages/water/waterActivities.html:35
+#: client/views/pages/water/waterActivities.html:69
+#: client/views/pages/water/waterActivities.html:86
 msgid "Website"
 msgstr "Site"
 
@@ -2058,6 +2199,9 @@ msgstr "€ 10,00/personne, € 5,00/enfant"
 #: client/views/pages/museums/castles.html:38
 msgid "€ 3.50/person (Free entrance under the age of 7)"
 msgstr "€ 3.50/pers (gratuité enfants de moins de 7 ans)"
+
+#~ msgid "E-mail"
+#~ msgstr "email"
 
 #~ msgid "Stop « Gare de Cannes », bus n°7A at l’hôtel de ville, and walk 5min"
 #~ msgstr ""

@@ -171,6 +171,14 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/water-activities',
             templateUrl: 'client/views/pages/water/index.html'
         })
+        .state('nautical-center', {
+            url: '/nautical-center',
+            templateUrl: 'client/views/pages/water/nauticalCenter.html'
+        })
+        .state('water-activities-overview', {
+            url: '/water-activities-overview',
+            templateUrl: 'client/views/pages/water/waterActivities.html'
+        })
         //golf
         .state('golf', {
             url: '/golf',
