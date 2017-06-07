@@ -95,6 +95,10 @@ msgstr ""
 #: client/views/pages/curiosities/markets.html:22
 #: client/views/pages/curiosities/markets.html:26
 #: client/views/pages/curiosities/markets.html:31
+#: client/views/pages/golf/index.html:22
+#: client/views/pages/golf/index.html:58
+#: client/views/pages/golf/index.html:74
+#: client/views/pages/golf/index.html:90
 #: client/views/pages/greenTourism/mountains.html:6
 #: client/views/pages/greenTourism/rivers.html:20
 #: client/views/pages/greenTourism/rivers.html:9
@@ -311,11 +315,6 @@ msgstr ""
 msgid "Boat"
 msgstr ""
 
-#: client/views/pages/water/index.html:27
-#: client/views/pages/water/index.html:29
-msgid "Boats"
-msgstr ""
-
 #: client/views/pages/greenTourism/mountains.html:29
 #: client/views/pages/greenTourism/mountains.html:47
 #: client/views/pages/greenTourism/parks.html:123
@@ -364,6 +363,14 @@ msgstr ""
 
 #: client/views/pages/kids/animals.html:87
 msgid "Caravan safaris departures : 10h – 11h – 12h – 14h – 15h – 16h – 17h"
+msgstr ""
+
+#: client/views/pages/golf/index.html:48
+msgid "Carnets de 12 green-fees"
+msgstr ""
+
+#: client/views/pages/golf/index.html:52
+msgid "Carnets de 6 green-fees"
 msgstr ""
 
 #: client/views/pages/museums/castles.html:42
@@ -853,6 +860,7 @@ msgstr ""
 msgid "Gardens"
 msgstr ""
 
+#: client/views/pages/golf/index.html:1
 #: client/views/pages/touristic-information.html:87
 #: client/views/pages/touristic-information.html:89
 msgid "Golf resort"
@@ -862,6 +870,15 @@ msgstr ""
 #: client/views/pages/touristic-information.html:57
 #: client/views/pages/touristic-information.html:59
 msgid "Green tourism"
+msgstr ""
+
+#: client/views/pages/golf/index.html:12
+#: client/views/pages/golf/index.html:44
+msgid "Green-fee (18 holes)"
+msgstr ""
+
+#: client/views/pages/golf/index.html:16
+msgid "Green-fee (9 holes)"
 msgstr ""
 
 #: client/views/pages/greenTourism/islands.html:111
@@ -1229,6 +1246,13 @@ msgstr ""
 msgid "Open from Monday until Friday : 9h00 -12h00 and 14h00 – 18h00"
 msgstr ""
 
+#: client/views/pages/golf/index.html:38
+#: client/views/pages/golf/index.html:6
+msgid "Open the whole year"
+msgstr ""
+
+#: client/views/pages/golf/index.html:37
+#: client/views/pages/golf/index.html:5
 #: client/views/pages/greenTourism/sports.html:78
 #: client/views/pages/kids/animals.html:106
 #: client/views/pages/kids/animals.html:147
@@ -1334,6 +1358,8 @@ msgstr ""
 msgid "Rate"
 msgstr ""
 
+#: client/views/pages/golf/index.html:40
+#: client/views/pages/golf/index.html:8
 #: client/views/pages/greenTourism/islands.html:33
 #: client/views/pages/greenTourism/islands.html:91
 #: client/views/pages/kids/animals.html:114
@@ -1604,6 +1630,10 @@ msgstr ""
 msgid "Tea ceremony"
 msgstr ""
 
+#: client/views/pages/golf/index.html:25
+#: client/views/pages/golf/index.html:61
+#: client/views/pages/golf/index.html:77
+#: client/views/pages/golf/index.html:93
 #: client/views/pages/greenTourism/mountains.html:8
 #: client/views/pages/greenTourism/sports.html:22
 #: client/views/pages/greenTourism/sports.html:37
@@ -1855,6 +1885,10 @@ msgstr ""
 msgid "Water skiing– bi – mono – wakeboard"
 msgstr ""
 
+#: client/views/pages/golf/index.html:29
+#: client/views/pages/golf/index.html:65
+#: client/views/pages/golf/index.html:81
+#: client/views/pages/golf/index.html:97
 #: client/views/pages/greenTourism/islands.html:117
 #: client/views/pages/greenTourism/islands.html:55
 #: client/views/pages/greenTourism/mountains.html:10
