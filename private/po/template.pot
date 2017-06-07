@@ -605,12 +605,6 @@ msgstr ""
 msgid "During the week (not during school vacations):"
 msgstr ""
 
-#: client/views/pages/discover/index.html:17
-#: client/views/pages/discover/index.html:19
-#: client/views/pages/discover/index.html:27
-#: client/views/pages/discover/index.html:29
-#: client/views/pages/discover/index.html:7
-#: client/views/pages/discover/index.html:9
 #: client/views/pages/other/escapeGames.html:1
 #: client/views/pages/other/index.html:7
 #: client/views/pages/other/index.html:9
@@ -1116,6 +1110,10 @@ msgstr ""
 msgid "Level"
 msgstr ""
 
+#: client/views/pages/discover/index.html:13
+msgid "List of ten luxury shops:"
+msgstr ""
+
 #: client/views/pages/greenTourism/parks.html:122
 msgid "Located at Mandelieu at 8km from the city center of Cannes, stop at the Castle de La Napoule"
 msgstr ""
@@ -1554,6 +1552,10 @@ msgstr ""
 msgid "September, October and November: 10h – 12h and 14h – 17h"
 msgstr ""
 
+#: client/views/pages/discover/index.html:12
+msgid "Shopping"
+msgstr ""
+
 #: client/views/pages/other/index.html:17
 #: client/views/pages/other/index.html:19
 #: client/views/pages/other/spa.html:1
@@ -1643,6 +1645,10 @@ msgstr ""
 
 #: client/views/pages/restaurants/internationalCuisine.html:137
 msgid "Sushi"
+msgstr ""
+
+#: client/views/pages/discover/index.html:6
+msgid "Swimming with dolphins"
 msgstr ""
 
 #: client/views/pages/greenTourism/parks.html:16
@@ -1790,6 +1796,10 @@ msgstr ""
 msgid "The 7th of April until the 29th of June: 10h - 19h"
 msgstr ""
 
+#: client/views/pages/discover/index.html:116
+msgid "The 8 villages in Fayence"
+msgstr ""
+
 #: client/views/pages/museums/castles.html:14
 msgid "The 8th of November until the 10th of February:"
 msgstr ""
@@ -1800,6 +1810,10 @@ msgstr ""
 
 #: client/views/pages/curiosities/markets.html:7
 msgid "The Provencal market of Cannes La Bocca – From Tuesday until Sunday from 7h à 13h am – 7 Rue du Docteur Baloux"
+msgstr ""
+
+#: client/views/pages/discover/index.html:7
+msgid "The beach"
 msgstr ""
 
 #: client/views/pages/other/other.html:22
