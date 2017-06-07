@@ -189,6 +189,18 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             url: '/other',
             templateUrl: 'client/views/pages/other/index.html'
         })
+        .state('escape-games', {
+            url: '/escape-games',
+            templateUrl: 'client/views/pages/other/escapeGames.html'
+        })
+        .state('spa', {
+            url: '/spa',
+            templateUrl: 'client/views/pages/other/spa.html'
+        })
+        .state('others', {
+            url: '/others',
+            templateUrl: 'client/views/pages/other/other.html'
+        })
         //other
         .state('discover', {
             url: '/discover',

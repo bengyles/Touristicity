@@ -56,6 +56,10 @@ msgstr ""
 msgid "2nd of Januar until the 22nd of June and the 16th of October until the 31 of December: 11h – 18h"
 msgstr ""
 
+#: client/views/pages/other/other.html:19
+msgid "3 circuits"
+msgstr ""
+
 #: client/views/pages/publicTransportation/airportExpress.html:144
 msgid "6 trips card"
 msgstr ""
@@ -150,6 +154,14 @@ msgstr ""
 #: client/views/pages/museums/museums.html:545
 #: client/views/pages/museums/museums.html:605
 #: client/views/pages/museums/museums.html:67
+#: client/views/pages/other/escapeGames.html:24
+#: client/views/pages/other/escapeGames.html:50
+#: client/views/pages/other/other.html:30
+#: client/views/pages/other/other.html:46
+#: client/views/pages/other/other.html:62
+#: client/views/pages/other/other.html:78
+#: client/views/pages/other/spa.html:22
+#: client/views/pages/other/spa.html:6
 #: client/views/pages/publicTransportation/helicopter.html:11
 #: client/views/pages/water/nauticalCenter.html:7
 #: client/views/pages/water/waterActivities.html:107
@@ -338,6 +350,18 @@ msgstr ""
 msgid "Cannes Standup Paddle"
 msgstr ""
 
+#: client/views/pages/other/other.html:44
+msgid "Cannes You Taste – tasting tour"
+msgstr ""
+
+#: client/views/pages/other/other.html:12
+msgid "Cannes and the cinema"
+msgstr ""
+
+#: client/views/pages/other/other.html:28
+msgid "CannesVisiTour with gyropodes"
+msgstr ""
+
 #: client/views/pages/greenTourism/sports.html:2
 msgid "Canoeing"
 msgstr ""
@@ -522,6 +546,10 @@ msgstr ""
 msgid "Closed: 1st of May, the 25th of December, 1st of January"
 msgstr ""
 
+#: client/views/pages/other/other.html:23
+msgid "Combination of the two tours (1h)"
+msgstr ""
+
 #: client/views/pages/museums/museums.html:286
 msgid "Condition for a group"
 msgstr ""
@@ -539,6 +567,10 @@ msgstr ""
 #: client/views/pages/greenTourism/islands.html:5
 #: client/views/pages/greenTourism/islands.html:63
 msgid "Departure"
+msgstr ""
+
+#: client/views/pages/other/other.html:18
+msgid "Departure at Palais des Festivals"
 msgstr ""
 
 #: client/views/pages/greenTourism/mountains.html:29
@@ -579,9 +611,14 @@ msgstr ""
 #: client/views/pages/discover/index.html:29
 #: client/views/pages/discover/index.html:7
 #: client/views/pages/discover/index.html:9
+#: client/views/pages/other/escapeGames.html:1
 #: client/views/pages/other/index.html:7
 #: client/views/pages/other/index.html:9
 msgid "Escape games"
+msgstr ""
+
+#: client/views/pages/other/other.html:6
+msgid "Essential nature"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:23
@@ -921,6 +958,14 @@ msgstr ""
 msgid "Guided visit : 11h30, 14h30, 15h30 and 16h30"
 msgstr ""
 
+#: client/views/pages/other/other.html:3
+msgid "Guided visits"
+msgstr ""
+
+#: client/views/pages/other/other.html:5
+msgid "Guided visits at Mandelieu – Tourist office Mandelieu"
+msgstr ""
+
 #: client/views/pages/museums/castles.html:19
 msgid "Guided visits: 11h30, 14h30, 15h30"
 msgstr ""
@@ -943,6 +988,10 @@ msgstr ""
 #: client/views/pages/restaurants/index.html:7
 #: client/views/pages/restaurants/index.html:9
 msgid "High gastronomy"
+msgstr ""
+
+#: client/views/pages/other/other.html:11
+msgid "Historical visit"
 msgstr ""
 
 #: client/views/pages/restaurants/internationalCuisine.html:150
@@ -1032,8 +1081,16 @@ msgstr ""
 msgid "June, July and August: every day from 20h00"
 msgstr ""
 
+#: client/views/pages/other/other.html:13
+msgid "La Croisette"
+msgstr ""
+
 #: client/views/pages/water/waterActivities.html:12
 msgid "La lessons : € 40,00"
+msgstr ""
+
+#: client/views/pages/other/other.html:21
+msgid "La promenade de la Croisette (35min)"
 msgstr ""
 
 #: client/views/pages/greenTourism/index.html:37
@@ -1315,6 +1372,7 @@ msgstr ""
 
 #: client/views/pages/other/index.html:27
 #: client/views/pages/other/index.html:29
+#: client/views/pages/other/other.html:1
 msgid "Others"
 msgstr ""
 
@@ -1398,6 +1456,8 @@ msgstr ""
 #: client/views/pages/museums/museums.html:519
 #: client/views/pages/museums/museums.html:583
 #: client/views/pages/museums/museums.html:86
+#: client/views/pages/other/escapeGames.html:40
+#: client/views/pages/other/escapeGames.html:6
 #: client/views/pages/water/waterActivities.html:44
 msgid "Rates"
 msgstr ""
@@ -1496,6 +1556,7 @@ msgstr ""
 
 #: client/views/pages/other/index.html:17
 #: client/views/pages/other/index.html:19
+#: client/views/pages/other/spa.html:1
 msgid "Spa"
 msgstr ""
 
@@ -1681,6 +1742,13 @@ msgstr ""
 #: client/views/pages/museums/museums.html:547
 #: client/views/pages/museums/museums.html:607
 #: client/views/pages/museums/museums.html:69
+#: client/views/pages/other/escapeGames.html:27
+#: client/views/pages/other/escapeGames.html:53
+#: client/views/pages/other/other.html:33
+#: client/views/pages/other/other.html:49
+#: client/views/pages/other/other.html:65
+#: client/views/pages/other/other.html:81
+#: client/views/pages/other/spa.html:9
 #: client/views/pages/water/nauticalCenter.html:10
 #: client/views/pages/water/waterActivities.html:110
 #: client/views/pages/water/waterActivities.html:14
@@ -1732,6 +1800,14 @@ msgstr ""
 
 #: client/views/pages/curiosities/markets.html:7
 msgid "The Provencal market of Cannes La Bocca – From Tuesday until Sunday from 7h à 13h am – 7 Rue du Docteur Baloux"
+msgstr ""
+
+#: client/views/pages/other/other.html:22
+msgid "The historical Suquet (35min)"
+msgstr ""
+
+#: client/views/pages/other/other.html:17
+msgid "The little touristic train"
 msgstr ""
 
 #: client/views/pages/water/index.html:7
@@ -1853,7 +1929,12 @@ msgid "Villas and castles"
 msgstr ""
 
 #: client/views/pages/museums/artisanal.html:94
+#: client/views/pages/other/other.html:76
 msgid "Vineyard in Provence: guided tour of the cellar + wine tasting"
+msgstr ""
+
+#: client/views/pages/other/other.html:60
+msgid "Visit of the oil Mill"
 msgstr ""
 
 #: client/views/pages/museums/artisanal.html:81
@@ -1866,6 +1947,10 @@ msgstr ""
 
 #: client/views/pages/museums/museums.html:482
 msgid "Visit without guide"
+msgstr ""
+
+#: client/views/pages/other/other.html:9
+msgid "Visites guidées Cannes – Tourist office Cannes"
 msgstr ""
 
 #: client/views/pages/touristic-information.html:77
@@ -1941,6 +2026,14 @@ msgstr ""
 #: client/views/pages/museums/museums.html:549
 #: client/views/pages/museums/museums.html:609
 #: client/views/pages/museums/museums.html:71
+#: client/views/pages/other/escapeGames.html:31
+#: client/views/pages/other/escapeGames.html:57
+#: client/views/pages/other/other.html:37
+#: client/views/pages/other/other.html:53
+#: client/views/pages/other/other.html:69
+#: client/views/pages/other/other.html:85
+#: client/views/pages/other/spa.html:13
+#: client/views/pages/other/spa.html:25
 #: client/views/pages/publicTransportation/helicopter.html:19
 #: client/views/pages/water/waterActivities.html:100
 #: client/views/pages/water/waterActivities.html:114
@@ -2031,6 +2124,20 @@ msgstr ""
 #: client/views/pages/greenTourism/islands.html:112
 #: client/views/pages/greenTourism/islands.html:50
 msgid "per person"
+msgstr ""
+
+#: client/views/pages/other/escapeGames.html:11
+#: client/views/pages/other/escapeGames.html:15
+#: client/views/pages/other/escapeGames.html:19
+#: client/views/pages/other/escapeGames.html:45
+msgid "person"
+msgstr ""
+
+#: client/views/pages/other/escapeGames.html:10
+#: client/views/pages/other/escapeGames.html:14
+#: client/views/pages/other/escapeGames.html:18
+#: client/views/pages/other/escapeGames.html:44
+msgid "players"
 msgstr ""
 
 #: client/views/pages/museums/museums.html:396
