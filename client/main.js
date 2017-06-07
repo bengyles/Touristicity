@@ -21,7 +21,8 @@ angular.module(App, [
         };
     })
 
-    .config(config);
+    .config(config)
+    .run(run);
 
 function config($locationProvider, $urlRouterProvider, $stateProvider) {
     'ngInject';
@@ -207,6 +208,13 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
             templateUrl: 'client/views/pages/discover/index.html'
         });
 
+}
+
+function run($rootScope, $state) {
+    'ngInject';
+    $rootScope.$on('$stateChangeSuccess', function (event, next) {
+        window.scrollTo(0, 0);
+    });
 }
 
 // Startup
