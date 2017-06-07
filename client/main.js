@@ -115,19 +115,15 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
         //museums
         .state('museums', {
             url: '/museums',
-            templateUrl: 'client/views/pages/museums/index.html'
-        })
-        .state('all-museums', {
-            url: '/all-museums',
-            templateUrl: 'client/views/pages/museums/museums.html'
+            templateUrl: 'client/views/pages/curiosities/museums.html'
         })
         .state('castles', {
             url: '/castles',
-            templateUrl: 'client/views/pages/museums/castles.html'
+            templateUrl: 'client/views/pages/curiosities/castles.html'
         })
         .state('artisanal', {
             url: '/artisanal',
-            templateUrl: 'client/views/pages/museums/artisanal.html'
+            templateUrl: 'client/views/pages/curiosities/artisanal.html'
         })
         //green tourism
         .state('green-tourism', {

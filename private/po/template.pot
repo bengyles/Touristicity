@@ -8,7 +8,7 @@ msgstr ""
 msgid "(Nearby Nice and Gorges du Verdon)<br> Located at the bridge on the Riolan located at the exit of the canyoning"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:287
+#: client/views/pages/curiosities/museums.html:287
 msgid "+ 15 people"
 msgstr ""
 
@@ -16,15 +16,15 @@ msgstr ""
 msgid "+60 years"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:538
+#: client/views/pages/curiosities/museums.html:538
 msgid "-18"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:6
+#: client/views/pages/curiosities/artisanal.html:6
 msgid "09h30 - 18h30, July and August: From 9h30 - 9h00 (7 /7)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:134
+#: client/views/pages/curiosities/museums.html:134
 msgid "09h30 -18h30 (Closed between 13h and 14h )"
 msgstr ""
 
@@ -40,7 +40,7 @@ msgstr ""
 msgid "11th of February – 6th of April: 10h - 18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:269
+#: client/views/pages/curiosities/museums.html:269
 msgid "16th of September – 14th of June : 10h – 13h / 14h – 18h"
 msgstr ""
 
@@ -48,15 +48,15 @@ msgstr ""
 msgid "1st of July – 2th of September: 10h – 23h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:81
+#: client/views/pages/curiosities/museums.html:81
 msgid "1st of October until the 20th of June: 10h – 18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:395
+#: client/views/pages/curiosities/museums.html:395
 msgid "2nd of Januar until the 22nd of June and the 16th of October until the 31 of December: 11h – 18h"
 msgstr ""
 
-#: client/views/pages/other/other.html:19
+#: client/views/pages/other/other.html:18
 msgid "3 circuits"
 msgstr ""
 
@@ -68,8 +68,8 @@ msgstr ""
 msgid "7th of April – 29th of June : 10h - 19h"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:7
-#: client/views/pages/museums/museums.html:136
+#: client/views/pages/curiosities/artisanal.html:7
+#: client/views/pages/curiosities/museums.html:136
 msgid "ATTENTION : Last visit, 1 hour before closing time"
 msgstr ""
 
@@ -95,10 +95,37 @@ msgstr ""
 msgid "Activities"
 msgstr ""
 
+#: client/views/pages/curiosities/artisanal.html:12
+#: client/views/pages/curiosities/artisanal.html:40
+#: client/views/pages/curiosities/artisanal.html:53
+#: client/views/pages/curiosities/artisanal.html:71
+#: client/views/pages/curiosities/artisanal.html:83
+#: client/views/pages/curiosities/artisanal.html:96
+#: client/views/pages/curiosities/castles.html:109
+#: client/views/pages/curiosities/castles.html:163
+#: client/views/pages/curiosities/castles.html:176
+#: client/views/pages/curiosities/castles.html:64
+#: client/views/pages/curiosities/castles.html:72
 #: client/views/pages/curiosities/markets.html:18
 #: client/views/pages/curiosities/markets.html:22
 #: client/views/pages/curiosities/markets.html:26
 #: client/views/pages/curiosities/markets.html:31
+#: client/views/pages/curiosities/museums.html:120
+#: client/views/pages/curiosities/museums.html:142
+#: client/views/pages/curiosities/museums.html:179
+#: client/views/pages/curiosities/museums.html:217
+#: client/views/pages/curiosities/museums.html:254
+#: client/views/pages/curiosities/museums.html:292
+#: client/views/pages/curiosities/museums.html:307
+#: client/views/pages/curiosities/museums.html:31
+#: client/views/pages/curiosities/museums.html:340
+#: client/views/pages/curiosities/museums.html:381
+#: client/views/pages/curiosities/museums.html:417
+#: client/views/pages/curiosities/museums.html:459
+#: client/views/pages/curiosities/museums.html:504
+#: client/views/pages/curiosities/museums.html:545
+#: client/views/pages/curiosities/museums.html:605
+#: client/views/pages/curiosities/museums.html:67
 #: client/views/pages/golf/index.html:22
 #: client/views/pages/golf/index.html:58
 #: client/views/pages/golf/index.html:74
@@ -127,39 +154,12 @@ msgstr ""
 #: client/views/pages/kids/animationparks.html:40
 #: client/views/pages/kids/animationparks.html:76
 #: client/views/pages/kids/animationparks.html:98
-#: client/views/pages/museums/artisanal.html:12
-#: client/views/pages/museums/artisanal.html:40
-#: client/views/pages/museums/artisanal.html:53
-#: client/views/pages/museums/artisanal.html:71
-#: client/views/pages/museums/artisanal.html:83
-#: client/views/pages/museums/artisanal.html:96
-#: client/views/pages/museums/castles.html:109
-#: client/views/pages/museums/castles.html:163
-#: client/views/pages/museums/castles.html:176
-#: client/views/pages/museums/castles.html:64
-#: client/views/pages/museums/castles.html:72
-#: client/views/pages/museums/museums.html:120
-#: client/views/pages/museums/museums.html:142
-#: client/views/pages/museums/museums.html:179
-#: client/views/pages/museums/museums.html:217
-#: client/views/pages/museums/museums.html:254
-#: client/views/pages/museums/museums.html:292
-#: client/views/pages/museums/museums.html:307
-#: client/views/pages/museums/museums.html:31
-#: client/views/pages/museums/museums.html:340
-#: client/views/pages/museums/museums.html:381
-#: client/views/pages/museums/museums.html:417
-#: client/views/pages/museums/museums.html:459
-#: client/views/pages/museums/museums.html:504
-#: client/views/pages/museums/museums.html:545
-#: client/views/pages/museums/museums.html:605
-#: client/views/pages/museums/museums.html:67
 #: client/views/pages/other/escapeGames.html:24
 #: client/views/pages/other/escapeGames.html:50
-#: client/views/pages/other/other.html:30
-#: client/views/pages/other/other.html:46
-#: client/views/pages/other/other.html:62
-#: client/views/pages/other/other.html:78
+#: client/views/pages/other/other.html:29
+#: client/views/pages/other/other.html:45
+#: client/views/pages/other/other.html:61
+#: client/views/pages/other/other.html:77
 #: client/views/pages/other/spa.html:22
 #: client/views/pages/other/spa.html:6
 #: client/views/pages/publicTransportation/helicopter.html:11
@@ -192,6 +192,9 @@ msgstr ""
 msgid "Adult: from € 25,90<br>Child: from € 19,90"
 msgstr ""
 
+#: client/views/pages/curiosities/museums.html:326
+#: client/views/pages/curiosities/museums.html:587
+#: client/views/pages/curiosities/museums.html:90
 #: client/views/pages/greenTourism/islands.html:37
 #: client/views/pages/greenTourism/islands.html:95
 #: client/views/pages/kids/animals.html:118
@@ -205,9 +208,6 @@ msgstr ""
 #: client/views/pages/kids/animationparks.html:129
 #: client/views/pages/kids/animationparks.html:20
 #: client/views/pages/kids/animationparks.html:62
-#: client/views/pages/museums/museums.html:326
-#: client/views/pages/museums/museums.html:587
-#: client/views/pages/museums/museums.html:90
 msgid "Adults"
 msgstr ""
 
@@ -218,7 +218,7 @@ msgstr ""
 msgid "Afternoon"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:173
+#: client/views/pages/curiosities/museums.html:173
 msgid "Age -18"
 msgstr ""
 
@@ -253,11 +253,11 @@ msgstr ""
 msgid "Animation parks"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:8
+#: client/views/pages/curiosities/museums.html:8
 msgid "April until June : Tuesday-Sunday : 10h-13h and 14h-18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:45
+#: client/views/pages/curiosities/museums.html:45
 msgid "April until May : Tuesday-Sunday : 10h30-13h15 and 14h15-17h45"
 msgstr ""
 
@@ -265,7 +265,7 @@ msgstr ""
 msgid "April until mid-June: every weekend and every holiday: 14h - 19h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:565
+#: client/views/pages/curiosities/museums.html:565
 msgid "April, May and June"
 msgstr ""
 
@@ -286,18 +286,18 @@ msgstr ""
 msgid "Artisanal market"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:1
-#: client/views/pages/museums/index.html:27
-#: client/views/pages/museums/index.html:29
+#: client/views/pages/curiosities/artisanal.html:1
+#: client/views/pages/curiosities/index.html:37
+#: client/views/pages/curiosities/index.html:39
 msgid "Artisanal visits"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:490
+#: client/views/pages/curiosities/museums.html:490
 msgid "Ateliers"
 msgstr ""
 
 #: client/views/pages/publicTransportation/helicopter.html:2
-msgid "Azur Helicopter (rent + transport)"
+msgid "Azur Helicopter"
 msgstr ""
 
 #: client/views/pages/kids/animationparks.html:180
@@ -350,15 +350,15 @@ msgstr ""
 msgid "Cannes Standup Paddle"
 msgstr ""
 
-#: client/views/pages/other/other.html:44
+#: client/views/pages/other/other.html:43
 msgid "Cannes You Taste – tasting tour"
 msgstr ""
 
-#: client/views/pages/other/other.html:12
+#: client/views/pages/other/other.html:11
 msgid "Cannes and the cinema"
 msgstr ""
 
-#: client/views/pages/other/other.html:28
+#: client/views/pages/other/other.html:27
 msgid "CannesVisiTour with gyropodes"
 msgstr ""
 
@@ -397,7 +397,7 @@ msgstr ""
 msgid "Carnets de 6 green-fees"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:42
+#: client/views/pages/curiosities/castles.html:42
 msgid "Castle, guided visit"
 msgstr ""
 
@@ -430,7 +430,7 @@ msgstr ""
 msgid "Children (-5 year)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:94
+#: client/views/pages/curiosities/museums.html:94
 msgid "Children (10 -17 year)"
 msgstr ""
 
@@ -438,7 +438,7 @@ msgstr ""
 msgid "Children (3-4 year)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:591
+#: client/views/pages/curiosities/museums.html:591
 msgid "Children (4-12 year)"
 msgstr ""
 
@@ -451,7 +451,7 @@ msgstr ""
 msgid "Children (between 5 and 10 year)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:599
+#: client/views/pages/curiosities/museums.html:599
 msgid "Children -4 year"
 msgstr ""
 
@@ -505,11 +505,11 @@ msgstr ""
 msgid "Children aged younger than 4 years"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:144
+#: client/views/pages/curiosities/castles.html:144
 msgid "Children under the age of 7"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:98
+#: client/views/pages/curiosities/museums.html:98
 msgid "Children younger than 10 year"
 msgstr ""
 
@@ -518,11 +518,11 @@ msgstr ""
 msgid "Chinese restaurant"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:83
+#: client/views/pages/curiosities/museums.html:83
 msgid "Closed : the 25th of December"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:319
+#: client/views/pages/curiosities/museums.html:319
 msgid "Closed every Tuesday and 25/12, 01/01 et 01/05"
 msgstr ""
 
@@ -530,27 +530,27 @@ msgstr ""
 msgid "Closed on Tuesdays, except during school vacancies"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:434
+#: client/views/pages/curiosities/museums.html:434
 msgid "Closed the 1st of January, the 1st of May and the 25nd of December"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:271
+#: client/views/pages/curiosities/museums.html:271
 msgid "Closed the 1st of January, the 1st of May, the 1st of November and the 25th of December"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:196
+#: client/views/pages/curiosities/museums.html:196
 msgid "Closed: 1st of May, the 1st of December until the 31st of March"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:158
+#: client/views/pages/curiosities/museums.html:158
 msgid "Closed: 1st of May, the 25th of December, 1st of January"
 msgstr ""
 
-#: client/views/pages/other/other.html:23
+#: client/views/pages/other/other.html:22
 msgid "Combination of the two tours (1h)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:286
+#: client/views/pages/curiosities/museums.html:286
 msgid "Condition for a group"
 msgstr ""
 
@@ -569,7 +569,7 @@ msgstr ""
 msgid "Departure"
 msgstr ""
 
-#: client/views/pages/other/other.html:18
+#: client/views/pages/other/other.html:17
 msgid "Departure at Palais des Festivals"
 msgstr ""
 
@@ -597,11 +597,11 @@ msgstr ""
 msgid "Diving club"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:334
+#: client/views/pages/curiosities/museums.html:334
 msgid "Double ticket(for the Renoir museum and the Castle-Museum Grimaldi )"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:22
+#: client/views/pages/curiosities/castles.html:22
 msgid "During the week (not during school vacations):"
 msgstr ""
 
@@ -611,7 +611,7 @@ msgstr ""
 msgid "Escape games"
 msgstr ""
 
-#: client/views/pages/other/other.html:6
+#: client/views/pages/other/other.html:5
 msgid "Essential nature"
 msgstr ""
 
@@ -619,15 +619,15 @@ msgstr ""
 msgid "Every Friday, Saturday and Sunday from 15h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:268
+#: client/views/pages/curiosities/museums.html:268
 msgid "Every day except Monday"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:171
+#: client/views/pages/curiosities/castles.html:171
 msgid "Every day except Tuesday from 10h - 18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:354
+#: client/views/pages/curiosities/museums.html:354
 msgid "Every day except Tuesdays, the 1st of Januar, the 1st of May and the 25th of December"
 msgstr ""
 
@@ -639,11 +639,11 @@ msgstr ""
 msgid "Every day from 9h-19h00"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:231
+#: client/views/pages/curiosities/museums.html:231
 msgid "Every day, except Tuesday, the 1st of January, the 1st of May and the 25th of December"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:517
+#: client/views/pages/curiosities/museums.html:517
 msgid "Every day, the whole year : from May until September : 10h – 18h and from October until April : 11h-17h"
 msgstr ""
 
@@ -651,27 +651,27 @@ msgstr ""
 msgid "Every morning from 6h until 13h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:524
+#: client/views/pages/curiosities/museums.html:524
 msgid "Exposition permanent + temporary"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:523
+#: client/views/pages/curiosities/museums.html:523
 msgid "Exposition permanent or temporary"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:195
+#: client/views/pages/curiosities/museums.html:195
 msgid "Fall (September – November) : 10h00 – 17h30"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:68
+#: client/views/pages/curiosities/artisanal.html:68
 msgid "Fall : Every day from 9h30-18h (Sundays de 10h30-13h30 and 14h30-18h)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:102
+#: client/views/pages/curiosities/museums.html:102
 msgid "Family"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:103
+#: client/views/pages/curiosities/castles.html:103
 msgid "Family offer"
 msgstr ""
 
@@ -704,33 +704,33 @@ msgid "Flower market"
 msgstr ""
 
 #: client/views/pages/kids/index.html:1
-#: client/views/pages/touristic-information.html:67
-#: client/views/pages/touristic-information.html:69
+#: client/views/pages/touristic-information.html:57
+#: client/views/pages/touristic-information.html:59
 msgid "For the kids"
 msgstr ""
 
+#: client/views/pages/curiosities/castles.html:141
+#: client/views/pages/curiosities/castles.html:145
+#: client/views/pages/curiosities/castles.html:59
+#: client/views/pages/curiosities/museums.html:376
+#: client/views/pages/curiosities/museums.html:483
+#: client/views/pages/curiosities/museums.html:499
+#: client/views/pages/curiosities/museums.html:539
+#: client/views/pages/curiosities/museums.html:540
+#: client/views/pages/curiosities/museums.html:600
 #: client/views/pages/greenTourism/islands.html:108
 #: client/views/pages/greenTourism/islands.html:46
 #: client/views/pages/kids/animals.html:163
 #: client/views/pages/kids/animals.html:248
 #: client/views/pages/kids/animals.html:309
 #: client/views/pages/kids/animationparks.html:21
-#: client/views/pages/museums/castles.html:141
-#: client/views/pages/museums/castles.html:145
-#: client/views/pages/museums/castles.html:59
-#: client/views/pages/museums/museums.html:376
-#: client/views/pages/museums/museums.html:483
-#: client/views/pages/museums/museums.html:499
-#: client/views/pages/museums/museums.html:539
-#: client/views/pages/museums/museums.html:540
-#: client/views/pages/museums/museums.html:600
 msgid "Free"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:10
-#: client/views/pages/museums/artisanal.html:38
-#: client/views/pages/museums/castles.html:174
-#: client/views/pages/museums/museums.html:331
+#: client/views/pages/curiosities/artisanal.html:10
+#: client/views/pages/curiosities/artisanal.html:38
+#: client/views/pages/curiosities/castles.html:174
+#: client/views/pages/curiosities/museums.html:331
 msgid "Free entrance"
 msgstr ""
 
@@ -746,11 +746,11 @@ msgstr ""
 msgid "Free entrance (prices of rides: from € 1,50)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:453
+#: client/views/pages/curiosities/museums.html:453
 msgid "Free entrance for students and under the age of 18"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:104
+#: client/views/pages/curiosities/castles.html:104
 msgid "Free entrance for the 2nd child (between 7 and 17 year)"
 msgstr ""
 
@@ -762,11 +762,11 @@ msgstr ""
 msgid "Free visit (1h without guide)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:318
+#: client/views/pages/curiosities/museums.html:318
 msgid "From April until May : 10h - 12h and 14h - 18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:316
+#: client/views/pages/curiosities/museums.html:316
 msgid "From June until September: 10h-13h and 14h - 18h"
 msgstr ""
 
@@ -774,16 +774,16 @@ msgstr ""
 msgid "From March until October: 9h30 - 19h30"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:233
-#: client/views/pages/museums/museums.html:270
+#: client/views/pages/curiosities/museums.html:233
+#: client/views/pages/curiosities/museums.html:270
 msgid "From May until October: from 10h - 18h"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:125
+#: client/views/pages/curiosities/castles.html:125
 msgid "From November until January: From Monday until Friday from 14h-18h / the weekends, from 10h-18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:317
+#: client/views/pages/curiosities/museums.html:317
 msgid "From October until March: 10h-12h and 14h - 17h"
 msgstr ""
 
@@ -803,7 +803,7 @@ msgstr ""
 msgid "From the 1st of April until the 30th of June: Open every day, except Mondays from 10h-17h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:475
+#: client/views/pages/curiosities/museums.html:475
 msgid "From the 1st of July until the 31st of August: 10h - 18h"
 msgstr ""
 
@@ -835,7 +835,7 @@ msgstr ""
 msgid "From the 1st of September until the 19th of November: Open every day, except Mondays from 10h-17h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:474
+#: client/views/pages/curiosities/museums.html:474
 msgid "From the 1st of September until the 30th of June 1er : 10h - 17h"
 msgstr ""
 
@@ -843,11 +843,11 @@ msgstr ""
 msgid "From the 1st of September until the 30th of September: 11h00 – 13h30 – 15h00 – 16h30"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:88
+#: client/views/pages/curiosities/castles.html:88
 msgid "From the 1st of September until the 31st of December: Open every day from 10h00-17h00"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:86
+#: client/views/pages/curiosities/castles.html:86
 msgid "From the 2nd of January until the 30th of April: Open every day from 10h00-17h00"
 msgstr ""
 
@@ -855,7 +855,7 @@ msgstr ""
 msgid "From the 2nd of July until the 26th of August: 10h00 - 19h00"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:87
+#: client/views/pages/curiosities/castles.html:87
 msgid "From the 2nd of May until the 31st of August: Open every day from 10h00-19h00"
 msgstr ""
 
@@ -867,39 +867,39 @@ msgstr ""
 msgid "From the 7th of April until the 30th of June: 11h – 13h30 – 15h00 – 16h30"
 msgstr ""
 
+#: client/views/pages/curiosities/castles.html:132
+#: client/views/pages/curiosities/castles.html:153
+#: client/views/pages/curiosities/castles.html:95
+#: client/views/pages/curiosities/museums.html:165
+#: client/views/pages/curiosities/museums.html:17
+#: client/views/pages/curiosities/museums.html:207
+#: client/views/pages/curiosities/museums.html:240
+#: client/views/pages/curiosities/museums.html:278
+#: client/views/pages/curiosities/museums.html:363
+#: client/views/pages/curiosities/museums.html:528
+#: client/views/pages/curiosities/museums.html:53
 #: client/views/pages/kids/animals.html:200
-#: client/views/pages/museums/castles.html:132
-#: client/views/pages/museums/castles.html:153
-#: client/views/pages/museums/castles.html:95
-#: client/views/pages/museums/museums.html:165
-#: client/views/pages/museums/museums.html:17
-#: client/views/pages/museums/museums.html:207
-#: client/views/pages/museums/museums.html:240
-#: client/views/pages/museums/museums.html:278
-#: client/views/pages/museums/museums.html:363
-#: client/views/pages/museums/museums.html:528
-#: client/views/pages/museums/museums.html:53
 msgid "Full price"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:46
+#: client/views/pages/curiosities/castles.html:46
 msgid "Full rate(adults)"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:33
-#: client/views/pages/museums/castles.html:37
+#: client/views/pages/curiosities/castles.html:33
+#: client/views/pages/curiosities/castles.html:37
 msgid "Gardens"
 msgstr ""
 
 #: client/views/pages/golf/index.html:1
-#: client/views/pages/touristic-information.html:87
-#: client/views/pages/touristic-information.html:89
+#: client/views/pages/touristic-information.html:77
+#: client/views/pages/touristic-information.html:79
 msgid "Golf resort"
 msgstr ""
 
 #: client/views/pages/greenTourism/index.html:1
-#: client/views/pages/touristic-information.html:57
-#: client/views/pages/touristic-information.html:59
+#: client/views/pages/touristic-information.html:47
+#: client/views/pages/touristic-information.html:49
 msgid "Green tourism"
 msgstr ""
 
@@ -924,23 +924,23 @@ msgstr ""
 msgid "Group of 4 people"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:248
+#: client/views/pages/curiosities/museums.html:248
 msgid "Group rate (10 people)"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:54
+#: client/views/pages/curiosities/castles.html:54
 msgid "Groups"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:533
+#: client/views/pages/curiosities/museums.html:533
 msgid "Groups (10 persons), Students"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:371
+#: client/views/pages/curiosities/museums.html:371
 msgid "Groups (Minimum 10 people)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:110
+#: client/views/pages/curiosities/museums.html:110
 msgid "Groups 10+ People"
 msgstr ""
 
@@ -948,23 +948,25 @@ msgstr ""
 msgid "Guide"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:10
+#: client/views/pages/curiosities/castles.html:10
 msgid "Guided visit : 11h30, 14h30, 15h30 and 16h30"
 msgstr ""
 
-#: client/views/pages/other/other.html:3
+#: client/views/pages/other/index.html:27
+#: client/views/pages/other/index.html:29
+#: client/views/pages/other/other.html:1
 msgid "Guided visits"
 msgstr ""
 
-#: client/views/pages/other/other.html:5
+#: client/views/pages/other/other.html:4
 msgid "Guided visits at Mandelieu – Tourist office Mandelieu"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:19
+#: client/views/pages/curiosities/castles.html:19
 msgid "Guided visits: 11h30, 14h30, 15h30"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:25
+#: client/views/pages/curiosities/castles.html:25
 msgid "Guided visits: 14h30, 15h30"
 msgstr ""
 
@@ -984,7 +986,7 @@ msgstr ""
 msgid "High gastronomy"
 msgstr ""
 
-#: client/views/pages/other/other.html:11
+#: client/views/pages/other/other.html:10
 msgid "Historical visit"
 msgstr ""
 
@@ -1014,7 +1016,7 @@ msgstr ""
 msgid "Italian restaurant"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:32
+#: client/views/pages/curiosities/artisanal.html:32
 msgid "January : 9h-12h and 14h-18h"
 msgstr ""
 
@@ -1022,7 +1024,7 @@ msgstr ""
 msgid "January and December: closed"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:561
+#: client/views/pages/curiosities/museums.html:561
 msgid "January, February and March"
 msgstr ""
 
@@ -1035,23 +1037,23 @@ msgstr ""
 msgid "Jet ski"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:569
+#: client/views/pages/curiosities/museums.html:569
 msgid "July and August"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:135
+#: client/views/pages/curiosities/museums.html:135
 msgid "July and August : 9h30 - 21h00 (7/7)"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:124
+#: client/views/pages/curiosities/castles.html:124
 msgid "July and August from 10h-19h"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:33
+#: client/views/pages/curiosities/artisanal.html:33
 msgid "July and August: 9h-19h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:9
+#: client/views/pages/curiosities/museums.html:9
 msgid "July and August: Monday-Sunday : 10h-19h"
 msgstr ""
 
@@ -1059,7 +1061,7 @@ msgstr ""
 msgid "July-August: From Monday until Saturday: 17h - 2h. And Sunday from 15h - 2h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:46
+#: client/views/pages/curiosities/museums.html:46
 msgid "June until September: Monday-Sunday : 10h-17h45"
 msgstr ""
 
@@ -1075,7 +1077,7 @@ msgstr ""
 msgid "June, July and August: every day from 20h00"
 msgstr ""
 
-#: client/views/pages/other/other.html:13
+#: client/views/pages/other/other.html:12
 msgid "La Croisette"
 msgstr ""
 
@@ -1083,7 +1085,7 @@ msgstr ""
 msgid "La lessons : € 40,00"
 msgstr ""
 
-#: client/views/pages/other/other.html:21
+#: client/views/pages/other/other.html:20
 msgid "La promenade de la Croisette (35min)"
 msgstr ""
 
@@ -1164,7 +1166,7 @@ msgstr ""
 msgid "Markets"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:356
+#: client/views/pages/curiosities/museums.html:356
 msgid "May until October: 10h - 18h"
 msgstr ""
 
@@ -1195,16 +1197,13 @@ msgstr ""
 msgid "Mountains"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:203
+#: client/views/pages/curiosities/museums.html:203
 msgid "Museum and gardens"
 msgstr ""
 
-#: client/views/pages/museums/index.html:1
-#: client/views/pages/museums/index.html:7
-#: client/views/pages/museums/index.html:9
-#: client/views/pages/museums/museums.html:1
-#: client/views/pages/touristic-information.html:47
-#: client/views/pages/touristic-information.html:49
+#: client/views/pages/curiosities/index.html:17
+#: client/views/pages/curiosities/index.html:19
+#: client/views/pages/curiosities/museums.html:1
 msgid "Museums"
 msgstr ""
 
@@ -1213,23 +1212,23 @@ msgstr ""
 msgid "Nice Airport"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:232
+#: client/views/pages/curiosities/museums.html:232
 msgid "November until April : from 10h - 17h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:355
+#: client/views/pages/curiosities/museums.html:355
 msgid "November until April: 10h - 17h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:44
+#: client/views/pages/curiosities/museums.html:44
 msgid "October until March : Tuesday-Sunday : 10h30-13h15 and 14h15-16h45"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:7
+#: client/views/pages/curiosities/museums.html:7
 msgid "October until March: Tuesday-Sunday : 10h-13h and 14h-17h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:577
+#: client/views/pages/curiosities/museums.html:577
 msgid "October, November, December"
 msgstr ""
 
@@ -1237,7 +1236,7 @@ msgstr ""
 msgid "One way trip"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:305
+#: client/views/pages/curiosities/museums.html:305
 msgid "Open every day"
 msgstr ""
 
@@ -1261,7 +1260,7 @@ msgstr ""
 msgid "Open every day in school vacations from the 8th of April: 13h – 18h and Wednesday, Saturday and Sunday, not during school vacations: 13h-18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:473
+#: client/views/pages/curiosities/museums.html:473
 msgid "Open every day, except Tuesdays"
 msgstr ""
 
@@ -1273,7 +1272,7 @@ msgstr ""
 msgid "Open every day, the whole year from 10h00 – 18h00"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:122
+#: client/views/pages/curiosities/castles.html:122
 msgid "Open every day, the whole year from10h -18h except:"
 msgstr ""
 
@@ -1281,15 +1280,15 @@ msgstr ""
 msgid "Open every day: 10h00 – 12h00 and 14h00-18h30"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:18
+#: client/views/pages/curiosities/castles.html:18
 msgid "Open from 10h until 17h"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:9
+#: client/views/pages/curiosities/castles.html:9
 msgid "Open from 10h-18h"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:24
+#: client/views/pages/curiosities/castles.html:24
 msgid "Open from 14h -17h"
 msgstr ""
 
@@ -1297,7 +1296,7 @@ msgstr ""
 msgid "Open from May until October. Groups welcome (min. 10 persons) Personalized lessons"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:26
+#: client/views/pages/curiosities/artisanal.html:26
 msgid "Open from Monday until Friday : 9h00 -12h00 and 14h00 – 18h00"
 msgstr ""
 
@@ -1306,6 +1305,29 @@ msgstr ""
 msgid "Open the whole year"
 msgstr ""
 
+#: client/views/pages/curiosities/artisanal.html:24
+#: client/views/pages/curiosities/artisanal.html:5
+#: client/views/pages/curiosities/artisanal.html:65
+#: client/views/pages/curiosities/castles.html:121
+#: client/views/pages/curiosities/castles.html:170
+#: client/views/pages/curiosities/castles.html:4
+#: client/views/pages/curiosities/castles.html:84
+#: client/views/pages/curiosities/museums.html:132
+#: client/views/pages/curiosities/museums.html:154
+#: client/views/pages/curiosities/museums.html:191
+#: client/views/pages/curiosities/museums.html:229
+#: client/views/pages/curiosities/museums.html:266
+#: client/views/pages/curiosities/museums.html:304
+#: client/views/pages/curiosities/museums.html:314
+#: client/views/pages/curiosities/museums.html:352
+#: client/views/pages/curiosities/museums.html:393
+#: client/views/pages/curiosities/museums.html:42
+#: client/views/pages/curiosities/museums.html:430
+#: client/views/pages/curiosities/museums.html:471
+#: client/views/pages/curiosities/museums.html:5
+#: client/views/pages/curiosities/museums.html:516
+#: client/views/pages/curiosities/museums.html:557
+#: client/views/pages/curiosities/museums.html:79
 #: client/views/pages/golf/index.html:37
 #: client/views/pages/golf/index.html:5
 #: client/views/pages/greenTourism/sports.html:78
@@ -1326,52 +1348,23 @@ msgstr ""
 #: client/views/pages/kids/animationparks.html:5
 #: client/views/pages/kids/animationparks.html:51
 #: client/views/pages/kids/animationparks.html:87
-#: client/views/pages/museums/artisanal.html:24
-#: client/views/pages/museums/artisanal.html:5
-#: client/views/pages/museums/artisanal.html:65
-#: client/views/pages/museums/castles.html:121
-#: client/views/pages/museums/castles.html:170
-#: client/views/pages/museums/castles.html:4
-#: client/views/pages/museums/castles.html:84
-#: client/views/pages/museums/museums.html:132
-#: client/views/pages/museums/museums.html:154
-#: client/views/pages/museums/museums.html:191
-#: client/views/pages/museums/museums.html:229
-#: client/views/pages/museums/museums.html:266
-#: client/views/pages/museums/museums.html:304
-#: client/views/pages/museums/museums.html:314
-#: client/views/pages/museums/museums.html:352
-#: client/views/pages/museums/museums.html:393
-#: client/views/pages/museums/museums.html:42
-#: client/views/pages/museums/museums.html:430
-#: client/views/pages/museums/museums.html:471
-#: client/views/pages/museums/museums.html:5
-#: client/views/pages/museums/museums.html:516
-#: client/views/pages/museums/museums.html:557
-#: client/views/pages/museums/museums.html:79
 #: client/views/pages/water/nauticalCenter.html:4
 #: client/views/pages/water/waterActivities.html:5
 msgid "Opening hours"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:30
+#: client/views/pages/curiosities/artisanal.html:30
 msgid "Opening hours shop"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:27
+#: client/views/pages/curiosities/artisanal.html:27
 msgid "Opening hours summer: 9h00 – 18h30"
 msgstr ""
 
 #: client/views/pages/other/index.html:1
-#: client/views/pages/touristic-information.html:97
-#: client/views/pages/touristic-information.html:99
+#: client/views/pages/touristic-information.html:87
+#: client/views/pages/touristic-information.html:89
 msgid "Other activities"
-msgstr ""
-
-#: client/views/pages/other/index.html:27
-#: client/views/pages/other/index.html:29
-#: client/views/pages/other/other.html:1
-msgid "Others"
 msgstr ""
 
 #: client/views/pages/water/waterActivities.html:25
@@ -1384,7 +1377,7 @@ msgstr ""
 msgid "Parks and forests"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:149
+#: client/views/pages/curiosities/castles.html:149
 msgid "Pass 2 villas : Rothschild + Kérylos"
 msgstr ""
 
@@ -1414,6 +1407,27 @@ msgstr ""
 msgid "Rate"
 msgstr ""
 
+#: client/views/pages/curiosities/artisanal.html:37
+#: client/views/pages/curiosities/artisanal.html:9
+#: client/views/pages/curiosities/castles.html:128
+#: client/views/pages/curiosities/castles.html:173
+#: client/views/pages/curiosities/castles.html:32
+#: client/views/pages/curiosities/castles.html:91
+#: client/views/pages/curiosities/museums.html:13
+#: client/views/pages/curiosities/museums.html:139
+#: client/views/pages/curiosities/museums.html:161
+#: client/views/pages/curiosities/museums.html:199
+#: client/views/pages/curiosities/museums.html:236
+#: client/views/pages/curiosities/museums.html:274
+#: client/views/pages/curiosities/museums.html:322
+#: client/views/pages/curiosities/museums.html:359
+#: client/views/pages/curiosities/museums.html:399
+#: client/views/pages/curiosities/museums.html:437
+#: client/views/pages/curiosities/museums.html:478
+#: client/views/pages/curiosities/museums.html:49
+#: client/views/pages/curiosities/museums.html:519
+#: client/views/pages/curiosities/museums.html:583
+#: client/views/pages/curiosities/museums.html:86
 #: client/views/pages/golf/index.html:40
 #: client/views/pages/golf/index.html:8
 #: client/views/pages/greenTourism/islands.html:33
@@ -1433,61 +1447,40 @@ msgstr ""
 #: client/views/pages/kids/animationparks.html:58
 #: client/views/pages/kids/animationparks.html:8
 #: client/views/pages/kids/animationparks.html:95
-#: client/views/pages/museums/artisanal.html:37
-#: client/views/pages/museums/artisanal.html:9
-#: client/views/pages/museums/castles.html:128
-#: client/views/pages/museums/castles.html:173
-#: client/views/pages/museums/castles.html:32
-#: client/views/pages/museums/castles.html:91
-#: client/views/pages/museums/museums.html:13
-#: client/views/pages/museums/museums.html:139
-#: client/views/pages/museums/museums.html:161
-#: client/views/pages/museums/museums.html:199
-#: client/views/pages/museums/museums.html:236
-#: client/views/pages/museums/museums.html:274
-#: client/views/pages/museums/museums.html:322
-#: client/views/pages/museums/museums.html:359
-#: client/views/pages/museums/museums.html:399
-#: client/views/pages/museums/museums.html:437
-#: client/views/pages/museums/museums.html:478
-#: client/views/pages/museums/museums.html:49
-#: client/views/pages/museums/museums.html:519
-#: client/views/pages/museums/museums.html:583
-#: client/views/pages/museums/museums.html:86
 #: client/views/pages/other/escapeGames.html:40
 #: client/views/pages/other/escapeGames.html:6
 #: client/views/pages/water/waterActivities.html:44
 msgid "Rates"
 msgstr ""
 
+#: client/views/pages/curiosities/castles.html:136
+#: client/views/pages/curiosities/castles.html:140
+#: client/views/pages/curiosities/castles.html:157
+#: client/views/pages/curiosities/castles.html:99
+#: client/views/pages/curiosities/museums.html:367
 #: client/views/pages/greenTourism/islands.html:99
-#: client/views/pages/museums/castles.html:136
-#: client/views/pages/museums/castles.html:140
-#: client/views/pages/museums/castles.html:157
-#: client/views/pages/museums/castles.html:99
-#: client/views/pages/museums/museums.html:367
 msgid "Reduced price"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:50
-#: client/views/pages/museums/museums.html:244
+#: client/views/pages/curiosities/castles.html:50
+#: client/views/pages/curiosities/museums.html:244
 msgid "Reduced rate"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:21
-#: client/views/pages/museums/museums.html:57
+#: client/views/pages/curiosities/museums.html:21
+#: client/views/pages/curiosities/museums.html:57
 msgid "Reduced rate (18-25 year, group min. 10 adults)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:282
+#: client/views/pages/curiosities/museums.html:282
 msgid "Reduced rate (Students, age +65, big families)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:211
+#: client/views/pages/curiosities/museums.html:211
 msgid "Reduced rate: students and groups (minimum 10 people)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:169
+#: client/views/pages/curiosities/museums.html:169
 msgid "Reduced rate: students and groups(min. 10 People)"
 msgstr ""
 
@@ -1526,7 +1519,7 @@ msgstr ""
 msgid "Seniors (+65)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:106
+#: client/views/pages/curiosities/museums.html:106
 msgid "Seniors 60+"
 msgstr ""
 
@@ -1536,7 +1529,7 @@ msgstr ""
 msgid "Sensational sports"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:573
+#: client/views/pages/curiosities/museums.html:573
 msgid "September"
 msgstr ""
 
@@ -1544,7 +1537,7 @@ msgstr ""
 msgid "September : Every weekend from 16h - 2h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:10
+#: client/views/pages/curiosities/museums.html:10
 msgid "September : Tuesday-Sunday : 10h-13h and 14h-18h"
 msgstr ""
 
@@ -1570,11 +1563,11 @@ msgstr ""
 msgid "Special rate from July until August (only at 9h25)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:193
+#: client/views/pages/curiosities/museums.html:193
 msgid "Spring (April) : 10h00 – 17h30"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:157
+#: client/views/pages/curiosities/museums.html:157
 msgid "Spring : 10h – 17h30 (October until April)"
 msgstr ""
 
@@ -1626,20 +1619,20 @@ msgstr ""
 msgid "Stop « Gare d’Antibes », and take bus n°2 (Envibus) and walk 5 minutes"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:114
-#: client/views/pages/museums/museums.html:595
+#: client/views/pages/curiosities/museums.html:114
+#: client/views/pages/curiosities/museums.html:595
 msgid "Students"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:194
+#: client/views/pages/curiosities/museums.html:194
 msgid "Summer (May – August) : 10h00 – 19h00"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:156
+#: client/views/pages/curiosities/museums.html:156
 msgid "Summer : 10h-19h (May until September)"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:67
+#: client/views/pages/curiosities/artisanal.html:67
 msgid "Summer : Every day from 9h30-20h (Sundays from 10h30-13h30 and 14h30-19h30)"
 msgstr ""
 
@@ -1689,14 +1682,39 @@ msgstr ""
 msgid "Taxi"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:498
+#: client/views/pages/curiosities/museums.html:498
 msgid "Taï Chi chuan and Qi gong"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:494
+#: client/views/pages/curiosities/museums.html:494
 msgid "Tea ceremony"
 msgstr ""
 
+#: client/views/pages/curiosities/artisanal.html:14
+#: client/views/pages/curiosities/artisanal.html:42
+#: client/views/pages/curiosities/artisanal.html:55
+#: client/views/pages/curiosities/artisanal.html:85
+#: client/views/pages/curiosities/artisanal.html:98
+#: client/views/pages/curiosities/castles.html:111
+#: client/views/pages/curiosities/castles.html:165
+#: client/views/pages/curiosities/castles.html:178
+#: client/views/pages/curiosities/castles.html:66
+#: client/views/pages/curiosities/castles.html:74
+#: client/views/pages/curiosities/museums.html:122
+#: client/views/pages/curiosities/museums.html:144
+#: client/views/pages/curiosities/museums.html:181
+#: client/views/pages/curiosities/museums.html:219
+#: client/views/pages/curiosities/museums.html:256
+#: client/views/pages/curiosities/museums.html:294
+#: client/views/pages/curiosities/museums.html:309
+#: client/views/pages/curiosities/museums.html:342
+#: client/views/pages/curiosities/museums.html:383
+#: client/views/pages/curiosities/museums.html:419
+#: client/views/pages/curiosities/museums.html:461
+#: client/views/pages/curiosities/museums.html:506
+#: client/views/pages/curiosities/museums.html:547
+#: client/views/pages/curiosities/museums.html:607
+#: client/views/pages/curiosities/museums.html:69
 #: client/views/pages/golf/index.html:25
 #: client/views/pages/golf/index.html:61
 #: client/views/pages/golf/index.html:77
@@ -1723,37 +1741,12 @@ msgstr ""
 #: client/views/pages/kids/animationparks.html:188
 #: client/views/pages/kids/animationparks.html:210
 #: client/views/pages/kids/animationparks.html:228
-#: client/views/pages/museums/artisanal.html:14
-#: client/views/pages/museums/artisanal.html:42
-#: client/views/pages/museums/artisanal.html:55
-#: client/views/pages/museums/artisanal.html:85
-#: client/views/pages/museums/artisanal.html:98
-#: client/views/pages/museums/castles.html:111
-#: client/views/pages/museums/castles.html:165
-#: client/views/pages/museums/castles.html:178
-#: client/views/pages/museums/castles.html:66
-#: client/views/pages/museums/castles.html:74
-#: client/views/pages/museums/museums.html:122
-#: client/views/pages/museums/museums.html:144
-#: client/views/pages/museums/museums.html:181
-#: client/views/pages/museums/museums.html:219
-#: client/views/pages/museums/museums.html:256
-#: client/views/pages/museums/museums.html:294
-#: client/views/pages/museums/museums.html:309
-#: client/views/pages/museums/museums.html:342
-#: client/views/pages/museums/museums.html:383
-#: client/views/pages/museums/museums.html:419
-#: client/views/pages/museums/museums.html:461
-#: client/views/pages/museums/museums.html:506
-#: client/views/pages/museums/museums.html:547
-#: client/views/pages/museums/museums.html:607
-#: client/views/pages/museums/museums.html:69
 #: client/views/pages/other/escapeGames.html:27
 #: client/views/pages/other/escapeGames.html:53
-#: client/views/pages/other/other.html:33
-#: client/views/pages/other/other.html:49
-#: client/views/pages/other/other.html:65
-#: client/views/pages/other/other.html:81
+#: client/views/pages/other/other.html:32
+#: client/views/pages/other/other.html:48
+#: client/views/pages/other/other.html:64
+#: client/views/pages/other/other.html:80
 #: client/views/pages/other/spa.html:9
 #: client/views/pages/water/nauticalCenter.html:10
 #: client/views/pages/water/waterActivities.html:110
@@ -1780,15 +1773,15 @@ msgstr ""
 msgid "The 1st of July until the 2nd of September: 10h – 23h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:82
+#: client/views/pages/curiosities/museums.html:82
 msgid "The 21st of June– the 30th of September: 10h-18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:433
+#: client/views/pages/curiosities/museums.html:433
 msgid "The 23th of June until the 15th of October : every day from 10 until 18, except Mondays"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:140
+#: client/views/pages/curiosities/castles.html:140
 msgid "The 2nd child (between 7 and 17 year)"
 msgstr ""
 
@@ -1800,7 +1793,7 @@ msgstr ""
 msgid "The 8 villages in Fayence"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:14
+#: client/views/pages/curiosities/castles.html:14
 msgid "The 8th of November until the 10th of February:"
 msgstr ""
 
@@ -1816,11 +1809,11 @@ msgstr ""
 msgid "The beach"
 msgstr ""
 
-#: client/views/pages/other/other.html:22
+#: client/views/pages/other/other.html:21
 msgid "The historical Suquet (35min)"
 msgstr ""
 
-#: client/views/pages/other/other.html:17
+#: client/views/pages/other/other.html:16
 msgid "The little touristic train"
 msgstr ""
 
@@ -1830,7 +1823,7 @@ msgstr ""
 msgid "The nautical center"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:34
+#: client/views/pages/curiosities/artisanal.html:34
 msgid "The rest of the year : 9h-18h30"
 msgstr ""
 
@@ -1840,21 +1833,21 @@ msgstr ""
 msgid "The restaurants"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:403
-#: client/views/pages/museums/museums.html:441
+#: client/views/pages/curiosities/museums.html:403
+#: client/views/pages/curiosities/museums.html:441
 msgid "Ticket 24h individual"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:407
-#: client/views/pages/museums/museums.html:445
+#: client/views/pages/curiosities/museums.html:407
+#: client/views/pages/curiosities/museums.html:445
 msgid "Ticket 7 days individual"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:411
+#: client/views/pages/curiosities/museums.html:411
 msgid "Ticket group (minimum 10 people)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:449
+#: client/views/pages/curiosities/museums.html:449
 msgid "Ticket group 24h"
 msgstr ""
 
@@ -1874,8 +1867,8 @@ msgid "Time of 1 visit: 1 hours"
 msgstr ""
 
 #: client/views/pages/discover/index.html:1
-#: client/views/pages/touristic-information.html:107
-#: client/views/pages/touristic-information.html:109
+#: client/views/pages/touristic-information.html:97
+#: client/views/pages/touristic-information.html:99
 msgid "To see – To discover"
 msgstr ""
 
@@ -1913,7 +1906,7 @@ msgstr ""
 msgid "Tuesday until Sunday from : 06h00 – 17h30 (Sunday : 6h30-13h30)"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:375
+#: client/views/pages/curiosities/museums.html:375
 msgid "Under 26 year"
 msgstr ""
 
@@ -1921,12 +1914,12 @@ msgstr ""
 msgid "Under 26 years"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:25
-#: client/views/pages/museums/museums.html:61
+#: client/views/pages/curiosities/museums.html:25
+#: client/views/pages/curiosities/museums.html:61
 msgid "Under the age of 18 and students"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:58
+#: client/views/pages/curiosities/castles.html:58
 msgid "Under the age of 7"
 msgstr ""
 
@@ -1936,39 +1929,39 @@ msgstr ""
 msgid "Vehicle rental"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:1
-#: client/views/pages/museums/index.html:17
-#: client/views/pages/museums/index.html:19
+#: client/views/pages/curiosities/castles.html:1
+#: client/views/pages/curiosities/index.html:27
+#: client/views/pages/curiosities/index.html:29
 msgid "Villas and castles"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:94
-#: client/views/pages/other/other.html:76
+#: client/views/pages/curiosities/artisanal.html:94
+#: client/views/pages/other/other.html:75
 msgid "Vineyard in Provence: guided tour of the cellar + wine tasting"
 msgstr ""
 
-#: client/views/pages/other/other.html:60
+#: client/views/pages/other/other.html:59
 msgid "Visit of the oil Mill"
 msgstr ""
 
-#: client/views/pages/museums/artisanal.html:81
+#: client/views/pages/curiosities/artisanal.html:81
 msgid "Visit the Oil mill"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:486
+#: client/views/pages/curiosities/museums.html:486
 msgid "Visit with guide"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:482
+#: client/views/pages/curiosities/museums.html:482
 msgid "Visit without guide"
 msgstr ""
 
-#: client/views/pages/other/other.html:9
+#: client/views/pages/other/other.html:8
 msgid "Visites guidées Cannes – Tourist office Cannes"
 msgstr ""
 
-#: client/views/pages/touristic-information.html:77
-#: client/views/pages/touristic-information.html:79
+#: client/views/pages/touristic-information.html:67
+#: client/views/pages/touristic-information.html:69
 #: client/views/pages/water/index.html:1
 #: client/views/pages/water/index.html:17
 #: client/views/pages/water/index.html:19
@@ -1984,6 +1977,29 @@ msgstr ""
 msgid "Water skiing– bi – mono – wakeboard"
 msgstr ""
 
+#: client/views/pages/curiosities/artisanal.html:100
+#: client/views/pages/curiosities/artisanal.html:16
+#: client/views/pages/curiosities/artisanal.html:44
+#: client/views/pages/curiosities/artisanal.html:57
+#: client/views/pages/curiosities/artisanal.html:74
+#: client/views/pages/curiosities/artisanal.html:87
+#: client/views/pages/curiosities/castles.html:113
+#: client/views/pages/curiosities/castles.html:76
+#: client/views/pages/curiosities/museums.html:124
+#: client/views/pages/curiosities/museums.html:146
+#: client/views/pages/curiosities/museums.html:183
+#: client/views/pages/curiosities/museums.html:221
+#: client/views/pages/curiosities/museums.html:258
+#: client/views/pages/curiosities/museums.html:296
+#: client/views/pages/curiosities/museums.html:34
+#: client/views/pages/curiosities/museums.html:344
+#: client/views/pages/curiosities/museums.html:385
+#: client/views/pages/curiosities/museums.html:421
+#: client/views/pages/curiosities/museums.html:463
+#: client/views/pages/curiosities/museums.html:508
+#: client/views/pages/curiosities/museums.html:549
+#: client/views/pages/curiosities/museums.html:609
+#: client/views/pages/curiosities/museums.html:71
 #: client/views/pages/golf/index.html:29
 #: client/views/pages/golf/index.html:65
 #: client/views/pages/golf/index.html:81
@@ -2017,35 +2033,12 @@ msgstr ""
 #: client/views/pages/kids/animationparks.html:29
 #: client/views/pages/kids/animationparks.html:43
 #: client/views/pages/kids/animationparks.html:79
-#: client/views/pages/museums/artisanal.html:100
-#: client/views/pages/museums/artisanal.html:16
-#: client/views/pages/museums/artisanal.html:44
-#: client/views/pages/museums/artisanal.html:57
-#: client/views/pages/museums/artisanal.html:74
-#: client/views/pages/museums/artisanal.html:87
-#: client/views/pages/museums/castles.html:113
-#: client/views/pages/museums/castles.html:76
-#: client/views/pages/museums/museums.html:124
-#: client/views/pages/museums/museums.html:146
-#: client/views/pages/museums/museums.html:183
-#: client/views/pages/museums/museums.html:221
-#: client/views/pages/museums/museums.html:258
-#: client/views/pages/museums/museums.html:296
-#: client/views/pages/museums/museums.html:34
-#: client/views/pages/museums/museums.html:344
-#: client/views/pages/museums/museums.html:385
-#: client/views/pages/museums/museums.html:421
-#: client/views/pages/museums/museums.html:463
-#: client/views/pages/museums/museums.html:508
-#: client/views/pages/museums/museums.html:549
-#: client/views/pages/museums/museums.html:609
-#: client/views/pages/museums/museums.html:71
 #: client/views/pages/other/escapeGames.html:31
 #: client/views/pages/other/escapeGames.html:57
-#: client/views/pages/other/other.html:37
-#: client/views/pages/other/other.html:53
-#: client/views/pages/other/other.html:69
-#: client/views/pages/other/other.html:85
+#: client/views/pages/other/other.html:36
+#: client/views/pages/other/other.html:52
+#: client/views/pages/other/other.html:68
+#: client/views/pages/other/other.html:84
 #: client/views/pages/other/spa.html:13
 #: client/views/pages/other/spa.html:25
 #: client/views/pages/publicTransportation/helicopter.html:19
@@ -2072,11 +2065,11 @@ msgstr ""
 msgid "Wednesday, Saturday and Sunday + Holidays: from 10h – 19h"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:16
+#: client/views/pages/curiosities/castles.html:16
 msgid "Weekend and school vacations:"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:330
+#: client/views/pages/curiosities/museums.html:330
 msgid "Younger than 26 years"
 msgstr ""
 
@@ -2088,7 +2081,7 @@ msgstr ""
 msgid "athletic"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:136
+#: client/views/pages/curiosities/castles.html:136
 msgid "children between 7-17 years and students"
 msgstr ""
 
@@ -2120,10 +2113,10 @@ msgstr ""
 msgid "easy"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:174
-#: client/views/pages/museums/museums.html:26
-#: client/views/pages/museums/museums.html:62
-#: client/views/pages/museums/museums.html:99
+#: client/views/pages/curiosities/museums.html:174
+#: client/views/pages/curiosities/museums.html:26
+#: client/views/pages/curiosities/museums.html:62
+#: client/views/pages/curiosities/museums.html:99
 msgid "free"
 msgstr ""
 
@@ -2154,15 +2147,15 @@ msgstr ""
 msgid "players"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:396
+#: client/views/pages/curiosities/museums.html:396
 msgid "the 23th of June untul the 15th of October: 10h – 18h"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:432
+#: client/views/pages/curiosities/museums.html:432
 msgid "the 2nd of January until the 22nd of June and the 16th of October until the 31st of December: every day from 11 until 18, except Mondays"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:7
+#: client/views/pages/curiosities/castles.html:7
 msgid "the 7th of February until the 7th of November:"
 msgstr ""
 
@@ -2170,10 +2163,10 @@ msgstr ""
 msgid "until"
 msgstr ""
 
-#: client/views/pages/museums/museums.html:495
+#: client/views/pages/curiosities/museums.html:495
 msgid "€ 10,00/person, € 5,00/child"
 msgstr ""
 
-#: client/views/pages/museums/castles.html:38
+#: client/views/pages/curiosities/castles.html:38
 msgid "€ 3.50/person (Free entrance under the age of 7)"
 msgstr ""
