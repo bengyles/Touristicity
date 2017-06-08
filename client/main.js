@@ -206,11 +206,12 @@ function config($locationProvider, $urlRouterProvider, $stateProvider) {
 
 }
 
-function run($rootScope, $state) {
+function run($rootScope, $state, $transitions) {
     'ngInject';
-    $rootScope.$on('$stateChangeSuccess', function (event, next) {
-        window.scrollTo(0, 0);
-    });
+    $transitions.onSuccess(
+        {to: '*', from: '*'},
+        (trans) => window.scrollTo(0, 0)
+    );
 }
 
 // Startup

@@ -32,3 +32,6 @@ App.launchScreens({
 App.setPreference('BackgroundColor', '0xff5f255f');
 App.setPreference('HideKeyboardFormAccessoryBar', true);
 App.setPreference('Orientation', 'default');
+App.accessRule('http://*', {type: 'intent'});
+App.accessRule('https://*', {type: 'intent'});
+App.accessRule('mailto:*', {type: 'intent'});
