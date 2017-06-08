@@ -125,10 +125,10 @@ msgstr "Activités"
 #: client/views/pages/curiosities/castles.html:176
 #: client/views/pages/curiosities/castles.html:64
 #: client/views/pages/curiosities/castles.html:72
-#: client/views/pages/curiosities/markets.html:18
-#: client/views/pages/curiosities/markets.html:22
-#: client/views/pages/curiosities/markets.html:26
-#: client/views/pages/curiosities/markets.html:31
+#: client/views/pages/curiosities/markets.html:24
+#: client/views/pages/curiosities/markets.html:32
+#: client/views/pages/curiosities/markets.html:39
+#: client/views/pages/curiosities/markets.html:47
 #: client/views/pages/curiosities/museums.html:120
 #: client/views/pages/curiosities/museums.html:142
 #: client/views/pages/curiosities/museums.html:179
@@ -304,7 +304,7 @@ msgstr "En avril : à partir de 16h"
 msgid "Area"
 msgstr "Surface"
 
-#: client/views/pages/curiosities/markets.html:21
+#: client/views/pages/curiosities/markets.html:29
 msgid "Artisanal market"
 msgstr "Marché des artisans"
 
@@ -312,7 +312,7 @@ msgstr "Marché des artisans"
 #: client/views/pages/curiosities/index.html:37
 #: client/views/pages/curiosities/index.html:39
 msgid "Artisanal visits"
-msgstr "Le visite artisanal"
+msgstr "Les visites artisanal"
 
 #: client/views/pages/curiosities/museums.html:490
 msgid "Ateliers"
@@ -648,7 +648,12 @@ msgstr "Escape games"
 msgid "Essential nature"
 msgstr "Nature essentielle"
 
-#: client/views/pages/curiosities/markets.html:23
+#: client/views/pages/curiosities/markets.html:8
+msgid ""
+"Every Friday from 19h pm until midnight during the summer – Port de Cannes"
+msgstr "Tous les vendredis de 19h à minuit pendant  l’été – Port de Cannes"
+
+#: client/views/pages/curiosities/markets.html:30
 msgid "Every Friday, Saturday and Sunday from 15h"
 msgstr "Tous les vendredis, samedis et dimanches à partir de 15h"
 
@@ -690,7 +695,7 @@ msgstr ""
 "ouvert toute l’année : De mai à septembre de 10h à 18h. D’octobre à avril de "
 "11h à 17h. Fermeture hebdomadaire le lundi."
 
-#: client/views/pages/curiosities/markets.html:27
+#: client/views/pages/curiosities/markets.html:37
 msgid "Every morning from 6h until 13h"
 msgstr "Tous les matins, de 6h à 13h"
 
@@ -735,15 +740,15 @@ msgstr "Premières formations"
 msgid "Fishing on lake and river"
 msgstr "Pêche en lac et rivière"
 
-#: client/views/pages/curiosities/markets.html:17
+#: client/views/pages/curiosities/markets.html:22
 msgid "Flower kiosk"
 msgstr "Kiosques à fleurs des Allées"
 
-#: client/views/pages/curiosities/markets.html:14
-msgid "Flower kiosks – from Tuesday until Sunday from 7h à 13h30 am"
-msgstr "Kiosques à fleurs des Allées du mardi au dimanche de 7h à 13h30"
+#: client/views/pages/curiosities/markets.html:16
+msgid "Flower kiosks"
+msgstr "Kiosques à fleurs des Allées"
 
-#: client/views/pages/curiosities/markets.html:30
+#: client/views/pages/curiosities/markets.html:44
 msgid "Flower market"
 msgstr "Marché au fleur"
 
@@ -841,6 +846,15 @@ msgstr "D’octobre à mars : de 10h à 12h et de 14h à 17h"
 #: client/views/pages/kids/animals.html:271
 msgid "From October until March: 9h30 - 18h00"
 msgstr "Du octobre au mars : 9h30 à 18h00"
+
+#: client/views/pages/curiosities/markets.html:14
+msgid "From Tuesday until Sunday from 7h à 13h am"
+msgstr "Du mardi au dimanche de 7h à 13h"
+
+#: client/views/pages/curiosities/markets.html:11
+#: client/views/pages/curiosities/markets.html:17
+msgid "From Tuesday until Sunday from 7h à 13h30 am"
+msgstr "Du mardi au dimanche de 7h à 13h30"
 
 #: client/views/pages/kids/animationparks.html:90
 msgid ""
@@ -1503,17 +1517,16 @@ msgid "Pass 2 villas : Rothschild + Kérylos"
 msgstr "Pass 2 villas : Rothschild + Kérylos"
 
 #: client/views/pages/curiosities/markets.html:13
-msgid "Provencal Market Gambetta – from Tuesday until Sunday from 7h à 13h am"
-msgstr "Marché Provençal Gambetta – du mardi au dimanche de 7h à 13h"
+msgid "Provencal Market Gambetta"
+msgstr "Marché Provençal Gambetta"
 
-#: client/views/pages/curiosities/markets.html:25
+#: client/views/pages/curiosities/markets.html:36
 msgid "Provencal market"
 msgstr "Marché Provençal"
 
-#: client/views/pages/curiosities/markets.html:12
-msgid ""
-"Provencal market of Forville – from Tuesday until Sunday from 7h à 13h30 am"
-msgstr "Marché Provençal Forville – du mardi au dimanche de 7h à 13h30"
+#: client/views/pages/curiosities/markets.html:10
+msgid "Provencal market of Forville"
+msgstr "Marché Provençal de Forville"
 
 #: client/views/pages/publicTransportation/index.html:1
 #: client/views/pages/touristic-information.html:7
@@ -1946,15 +1959,11 @@ msgstr "Les 8 villages perchés en pays de fayence"
 msgid "The 8th of November until the 10th of February:"
 msgstr "8 novembre au 10 février:"
 
-#: client/views/pages/curiosities/markets.html:11
-msgid ""
-"The Nocturnes of Quai Saint Pierre – every Friday from 19h pm until midnight "
-"during the summer – Port de Cannes"
-msgstr ""
-"Les Nocturnes du Quai Saint Pierre – tous les vendredis de 19h à minuit "
-"pendant  l’été – Port de Cannes"
-
 #: client/views/pages/curiosities/markets.html:7
+msgid "The Nocturnes of Quai Saint Pierre"
+msgstr "Les Nocturnes du Quai Saint Pierre"
+
+#: client/views/pages/curiosities/markets.html:20
 msgid ""
 "The Provencal market of Cannes La Bocca – From Tuesday until Sunday from 7h "
 "à 13h am – 7 Rue du Docteur Baloux"
@@ -2058,7 +2067,7 @@ msgstr "Acrobranche"
 msgid "Troat fishing"
 msgstr "Pêche à la truite"
 
-#: client/views/pages/curiosities/markets.html:32
+#: client/views/pages/curiosities/markets.html:45
 msgid "Tuesday until Sunday from : 06h00 – 17h30 (Sunday : 6h30-13h30)"
 msgstr "Mardi-Dimanche : 06h00 – 17h30 (dimanche : 6h30-13h30)"
 
@@ -2215,7 +2224,7 @@ msgstr "Site"
 #: client/views/pages/curiosities/markets.html:4
 msgid ""
 "Wednesday morning : Quartier des Termes <br>Place des Combattants "
-"d’Indochine and d’Afrique du Nord <br>City center (in front of Esterel "
+"d’Indochine and d’Afrique du Nord<br>City center (in front of Esterel "
 "Gallery) and at the parking Casinca (in front of Escota)"
 msgstr ""
 "Mercredi matin : Quartier des Termes <br>Place des Combattants d’Indochine "
@@ -2332,6 +2341,15 @@ msgstr "€ 10,00/personne, € 5,00/enfant"
 #: client/views/pages/curiosities/castles.html:38
 msgid "€ 3.50/person (Free entrance under the age of 7)"
 msgstr "€ 3.50/pers (gratuité enfants de moins de 7 ans)"
+
+#~ msgid ""
+#~ "Provencal Market Gambetta – from Tuesday until Sunday from 7h à 13h am"
+#~ msgstr "Marché Provençal Gambetta – du mardi au dimanche de 7h à 13h"
+
+#~ msgid ""
+#~ "Provencal market of Forville – from Tuesday until Sunday from 7h à 13h30 "
+#~ "am"
+#~ msgstr "Marché Provençal Forville – du mardi au dimanche de 7h à 13h30"
 
 #~ msgid "Others"
 #~ msgstr "Autres"

@@ -106,10 +106,10 @@ msgstr ""
 #: client/views/pages/curiosities/castles.html:176
 #: client/views/pages/curiosities/castles.html:64
 #: client/views/pages/curiosities/castles.html:72
-#: client/views/pages/curiosities/markets.html:18
-#: client/views/pages/curiosities/markets.html:22
-#: client/views/pages/curiosities/markets.html:26
-#: client/views/pages/curiosities/markets.html:31
+#: client/views/pages/curiosities/markets.html:24
+#: client/views/pages/curiosities/markets.html:32
+#: client/views/pages/curiosities/markets.html:39
+#: client/views/pages/curiosities/markets.html:47
 #: client/views/pages/curiosities/museums.html:120
 #: client/views/pages/curiosities/museums.html:142
 #: client/views/pages/curiosities/museums.html:179
@@ -282,7 +282,7 @@ msgstr ""
 msgid "Area"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:21
+#: client/views/pages/curiosities/markets.html:29
 msgid "Artisanal market"
 msgstr ""
 
@@ -615,7 +615,11 @@ msgstr ""
 msgid "Essential nature"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:23
+#: client/views/pages/curiosities/markets.html:8
+msgid "Every Friday from 19h pm until midnight during the summer – Port de Cannes"
+msgstr ""
+
+#: client/views/pages/curiosities/markets.html:30
 msgid "Every Friday, Saturday and Sunday from 15h"
 msgstr ""
 
@@ -647,7 +651,7 @@ msgstr ""
 msgid "Every day, the whole year : from May until September : 10h – 18h and from October until April : 11h-17h"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:27
+#: client/views/pages/curiosities/markets.html:37
 msgid "Every morning from 6h until 13h"
 msgstr ""
 
@@ -691,15 +695,15 @@ msgstr ""
 msgid "Fishing on lake and river"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:17
+#: client/views/pages/curiosities/markets.html:22
 msgid "Flower kiosk"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:14
-msgid "Flower kiosks – from Tuesday until Sunday from 7h à 13h30 am"
+#: client/views/pages/curiosities/markets.html:16
+msgid "Flower kiosks"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:30
+#: client/views/pages/curiosities/markets.html:44
 msgid "Flower market"
 msgstr ""
 
@@ -789,6 +793,15 @@ msgstr ""
 
 #: client/views/pages/kids/animals.html:271
 msgid "From October until March: 9h30 - 18h00"
+msgstr ""
+
+#: client/views/pages/curiosities/markets.html:14
+msgid "From Tuesday until Sunday from 7h à 13h am"
+msgstr ""
+
+#: client/views/pages/curiosities/markets.html:11
+#: client/views/pages/curiosities/markets.html:17
+msgid "From Tuesday until Sunday from 7h à 13h30 am"
 msgstr ""
 
 #: client/views/pages/kids/animationparks.html:90
@@ -1382,15 +1395,15 @@ msgid "Pass 2 villas : Rothschild + Kérylos"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:13
-msgid "Provencal Market Gambetta – from Tuesday until Sunday from 7h à 13h am"
+msgid "Provencal Market Gambetta"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:25
+#: client/views/pages/curiosities/markets.html:36
 msgid "Provencal market"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:12
-msgid "Provencal market of Forville – from Tuesday until Sunday from 7h à 13h30 am"
+#: client/views/pages/curiosities/markets.html:10
+msgid "Provencal market of Forville"
 msgstr ""
 
 #: client/views/pages/publicTransportation/index.html:1
@@ -1797,11 +1810,11 @@ msgstr ""
 msgid "The 8th of November until the 10th of February:"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:11
-msgid "The Nocturnes of Quai Saint Pierre – every Friday from 19h pm until midnight during the summer – Port de Cannes"
+#: client/views/pages/curiosities/markets.html:7
+msgid "The Nocturnes of Quai Saint Pierre"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:7
+#: client/views/pages/curiosities/markets.html:20
 msgid "The Provencal market of Cannes La Bocca – From Tuesday until Sunday from 7h à 13h am – 7 Rue du Docteur Baloux"
 msgstr ""
 
@@ -1902,7 +1915,7 @@ msgstr ""
 msgid "Troat fishing"
 msgstr ""
 
-#: client/views/pages/curiosities/markets.html:32
+#: client/views/pages/curiosities/markets.html:45
 msgid "Tuesday until Sunday from : 06h00 – 17h30 (Sunday : 6h30-13h30)"
 msgstr ""
 
@@ -2058,7 +2071,7 @@ msgid "Website"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:4
-msgid "Wednesday morning : Quartier des Termes <br>Place des Combattants d’Indochine and d’Afrique du Nord <br>City center (in front of Esterel Gallery) and at the parking Casinca (in front of Escota)"
+msgid "Wednesday morning : Quartier des Termes <br>Place des Combattants d’Indochine and d’Afrique du Nord<br>City center (in front of Esterel Gallery) and at the parking Casinca (in front of Escota)"
 msgstr ""
 
 #: client/views/pages/kids/animationparks.html:6
