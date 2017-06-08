@@ -12,7 +12,7 @@ msgstr ""
 msgid "+ 15 people"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:122
+#: client/views/pages/kids/animals.html:139
 msgid "+60 years"
 msgstr ""
 
@@ -28,15 +28,15 @@ msgstr ""
 msgid "09h30 -18h30 (Closed between 13h and 14h )"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:26
+#: client/views/pages/water/waterActivities.html:32
 msgid "1 round: 1 person. € 60,00 ; 2 people € 80,00, 3 people € 100,00"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:11
+#: client/views/pages/water/waterActivities.html:17
 msgid "1 round: €30,00 for 10 minutes"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:53
+#: client/views/pages/kids/animationparks.html:64
 msgid "11th of February – 6th of April: 10h - 18h"
 msgstr ""
 
@@ -44,7 +44,7 @@ msgstr ""
 msgid "16th of September – 14th of June : 10h – 13h / 14h – 18h"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:55
+#: client/views/pages/kids/animationparks.html:66
 msgid "1st of July – 2th of September: 10h – 23h"
 msgstr ""
 
@@ -56,7 +56,7 @@ msgstr ""
 msgid "2nd of Januar until the 22nd of June and the 16th of October until the 31 of December: 11h – 18h"
 msgstr ""
 
-#: client/views/pages/other/other.html:18
+#: client/views/pages/other/other.html:36
 msgid "3 circuits"
 msgstr ""
 
@@ -64,7 +64,7 @@ msgstr ""
 msgid "6 trips card"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:54
+#: client/views/pages/kids/animationparks.html:65
 msgid "7th of April – 29th of June : 10h - 19h"
 msgstr ""
 
@@ -91,7 +91,7 @@ msgstr ""
 msgid "Access for le Cannet"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:8
+#: client/views/pages/water/waterActivities.html:14
 msgid "Activities"
 msgstr ""
 
@@ -126,69 +126,69 @@ msgstr ""
 #: client/views/pages/curiosities/museums.html:643
 #: client/views/pages/curiosities/museums.html:710
 #: client/views/pages/curiosities/museums.html:74
-#: client/views/pages/golf/index.html:22
-#: client/views/pages/golf/index.html:58
-#: client/views/pages/golf/index.html:74
-#: client/views/pages/golf/index.html:90
+#: client/views/pages/golf/index.html:103
+#: client/views/pages/golf/index.html:25
+#: client/views/pages/golf/index.html:65
+#: client/views/pages/golf/index.html:84
 #: client/views/pages/greenTourism/mountains.html:8
 #: client/views/pages/greenTourism/rivers.html:12
 #: client/views/pages/greenTourism/rivers.html:27
 #: client/views/pages/greenTourism/sports.html:109
-#: client/views/pages/kids/animals.html:132
-#: client/views/pages/kids/animals.html:168
-#: client/views/pages/kids/animals.html:21
-#: client/views/pages/kids/animals.html:217
-#: client/views/pages/kids/animals.html:253
-#: client/views/pages/kids/animals.html:274
-#: client/views/pages/kids/animals.html:314
-#: client/views/pages/kids/animals.html:376
-#: client/views/pages/kids/animals.html:5
-#: client/views/pages/kids/animals.html:73
-#: client/views/pages/kids/animals.html:91
-#: client/views/pages/kids/animationparks.html:139
-#: client/views/pages/kids/animationparks.html:160
-#: client/views/pages/kids/animationparks.html:186
-#: client/views/pages/kids/animationparks.html:208
-#: client/views/pages/kids/animationparks.html:226
-#: client/views/pages/kids/animationparks.html:26
-#: client/views/pages/kids/animationparks.html:40
-#: client/views/pages/kids/animationparks.html:76
-#: client/views/pages/kids/animationparks.html:98
-#: client/views/pages/other/escapeGames.html:24
-#: client/views/pages/other/escapeGames.html:50
-#: client/views/pages/other/other.html:29
-#: client/views/pages/other/other.html:45
-#: client/views/pages/other/other.html:61
-#: client/views/pages/other/other.html:77
-#: client/views/pages/other/spa.html:22
-#: client/views/pages/other/spa.html:6
+#: client/views/pages/kids/animals.html:104
+#: client/views/pages/kids/animals.html:149
+#: client/views/pages/kids/animals.html:189
+#: client/views/pages/kids/animals.html:242
+#: client/views/pages/kids/animals.html:26
+#: client/views/pages/kids/animals.html:282
+#: client/views/pages/kids/animals.html:308
+#: client/views/pages/kids/animals.html:352
+#: client/views/pages/kids/animals.html:418
+#: client/views/pages/kids/animals.html:7
+#: client/views/pages/kids/animals.html:82
+#: client/views/pages/kids/animationparks.html:113
+#: client/views/pages/kids/animationparks.html:161
+#: client/views/pages/kids/animationparks.html:189
+#: client/views/pages/kids/animationparks.html:218
+#: client/views/pages/kids/animationparks.html:247
+#: client/views/pages/kids/animationparks.html:272
+#: client/views/pages/kids/animationparks.html:29
+#: client/views/pages/kids/animationparks.html:47
+#: client/views/pages/kids/animationparks.html:87
+#: client/views/pages/other/escapeGames.html:38
+#: client/views/pages/other/escapeGames.html:71
+#: client/views/pages/other/other.html:115
+#: client/views/pages/other/other.html:52
+#: client/views/pages/other/other.html:73
+#: client/views/pages/other/other.html:94
+#: client/views/pages/other/spa.html:27
+#: client/views/pages/other/spa.html:8
 #: client/views/pages/publicTransportation/helicopter.html:11
 #: client/views/pages/water/nauticalCenter.html:7
-#: client/views/pages/water/waterActivities.html:107
-#: client/views/pages/water/waterActivities.html:127
+#: client/views/pages/water/waterActivities.html:117
 #: client/views/pages/water/waterActivities.html:135
-#: client/views/pages/water/waterActivities.html:147
-#: client/views/pages/water/waterActivities.html:164
-#: client/views/pages/water/waterActivities.html:178
-#: client/views/pages/water/waterActivities.html:192
-#: client/views/pages/water/waterActivities.html:209
-#: client/views/pages/water/waterActivities.html:225
-#: client/views/pages/water/waterActivities.html:32
-#: client/views/pages/water/waterActivities.html:62
-#: client/views/pages/water/waterActivities.html:79
-#: client/views/pages/water/waterActivities.html:93
+#: client/views/pages/water/waterActivities.html:160
+#: client/views/pages/water/waterActivities.html:171
+#: client/views/pages/water/waterActivities.html:188
+#: client/views/pages/water/waterActivities.html:210
+#: client/views/pages/water/waterActivities.html:229
+#: client/views/pages/water/waterActivities.html:248
+#: client/views/pages/water/waterActivities.html:270
+#: client/views/pages/water/waterActivities.html:292
+#: client/views/pages/water/waterActivities.html:38
+#: client/views/pages/water/waterActivities.html:76
+#: client/views/pages/water/waterActivities.html:98
 msgid "Address"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:366
+#: client/views/pages/kids/animals.html:408
 msgid "Adolescents 13-18 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:348
+#: client/views/pages/kids/animals.html:390
 msgid "Adolescents 16-18 years"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:71
+#: client/views/pages/kids/animationparks.html:82
 msgid "Adult: from € 25,90<br>Child: from € 19,90"
 msgstr ""
 
@@ -197,17 +197,17 @@ msgstr ""
 #: client/views/pages/curiosities/museums.html:692
 #: client/views/pages/greenTourism/islands.html:37
 #: client/views/pages/greenTourism/islands.html:95
-#: client/views/pages/kids/animals.html:118
-#: client/views/pages/kids/animals.html:154
-#: client/views/pages/kids/animals.html:239
-#: client/views/pages/kids/animals.html:300
-#: client/views/pages/kids/animals.html:344
-#: client/views/pages/kids/animals.html:362
-#: client/views/pages/kids/animals.html:47
-#: client/views/pages/kids/animals.html:58
-#: client/views/pages/kids/animationparks.html:129
-#: client/views/pages/kids/animationparks.html:20
-#: client/views/pages/kids/animationparks.html:62
+#: client/views/pages/kids/animals.html:135
+#: client/views/pages/kids/animals.html:175
+#: client/views/pages/kids/animals.html:268
+#: client/views/pages/kids/animals.html:338
+#: client/views/pages/kids/animals.html:386
+#: client/views/pages/kids/animals.html:404
+#: client/views/pages/kids/animals.html:56
+#: client/views/pages/kids/animals.html:67
+#: client/views/pages/kids/animationparks.html:151
+#: client/views/pages/kids/animationparks.html:23
+#: client/views/pages/kids/animationparks.html:73
 msgid "Adults"
 msgstr ""
 
@@ -233,7 +233,7 @@ msgstr ""
 msgid "All days"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:18
+#: client/views/pages/water/waterActivities.html:24
 msgid "Amusements : Banana, Buoys, sofa et flyfish"
 msgstr ""
 
@@ -261,7 +261,7 @@ msgstr ""
 msgid "April until May : Tuesday-Sunday : 10h30-13h15 and 14h15-17h45"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:89
+#: client/views/pages/kids/animationparks.html:104
 msgid "April until mid-June: every weekend and every holiday: 14h - 19h"
 msgstr ""
 
@@ -269,11 +269,11 @@ msgstr ""
 msgid "April, May and June"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:153
+#: client/views/pages/kids/animationparks.html:182
 msgid "April, May and September: Weekends, holidays and school vacancies: 13h - 19h"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:219
+#: client/views/pages/kids/animationparks.html:265
 msgid "April: from 16h"
 msgstr ""
 
@@ -300,11 +300,11 @@ msgstr ""
 msgid "Azur Helicopter"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:180
+#: client/views/pages/kids/animationparks.html:212
 msgid "Between 2 and 4 years / +64 years"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:176
+#: client/views/pages/kids/animationparks.html:208
 msgid "Between 5 and 64 years"
 msgstr ""
 
@@ -346,19 +346,19 @@ msgstr ""
 msgid "Cannes"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:223
+#: client/views/pages/water/waterActivities.html:286
 msgid "Cannes Standup Paddle"
 msgstr ""
 
-#: client/views/pages/other/other.html:43
+#: client/views/pages/other/other.html:70
 msgid "Cannes You Taste – tasting tour"
 msgstr ""
 
-#: client/views/pages/other/other.html:11
+#: client/views/pages/other/other.html:22
 msgid "Cannes and the cinema"
 msgstr ""
 
-#: client/views/pages/other/other.html:27
+#: client/views/pages/other/other.html:49
 msgid "CannesVisiTour with gyropodes"
 msgstr ""
 
@@ -366,7 +366,7 @@ msgstr ""
 msgid "Canoeing"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:206
+#: client/views/pages/water/waterActivities.html:264
 msgid "Canoeing / Kayaking / Windsurfing / Catamaran"
 msgstr ""
 
@@ -385,15 +385,15 @@ msgstr ""
 msgid "Car"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:87
+#: client/views/pages/kids/animals.html:100
 msgid "Caravan safaris departures : 10h – 11h – 12h – 14h – 15h – 16h – 17h"
 msgstr ""
 
-#: client/views/pages/golf/index.html:48
+#: client/views/pages/golf/index.html:55
 msgid "Carnets de 12 green-fees"
 msgstr ""
 
-#: client/views/pages/golf/index.html:52
+#: client/views/pages/golf/index.html:59
 msgid "Carnets de 6 green-fees"
 msgstr ""
 
@@ -413,7 +413,7 @@ msgstr ""
 msgid "Characteristics"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:66
+#: client/views/pages/kids/animals.html:75
 msgid "Child"
 msgstr ""
 
@@ -421,7 +421,7 @@ msgstr ""
 msgid "Child rate &lt; 12 years"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:48
+#: client/views/pages/water/waterActivities.html:62
 msgid "Children"
 msgstr ""
 
@@ -434,7 +434,7 @@ msgstr ""
 msgid "Children (10 -17 year)"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:121
+#: client/views/pages/kids/animationparks.html:143
 msgid "Children (3-4 year)"
 msgstr ""
 
@@ -447,7 +447,7 @@ msgstr ""
 msgid "Children (5-10 year)"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:125
+#: client/views/pages/kids/animationparks.html:147
 msgid "Children (between 5 and 10 year)"
 msgstr ""
 
@@ -455,53 +455,53 @@ msgstr ""
 msgid "Children -4 year"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:308
+#: client/views/pages/kids/animals.html:346
 msgid "Children aged -5 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:204
+#: client/views/pages/kids/animals.html:229
 msgid "Children aged 2-11 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:51
-#: client/views/pages/kids/animationparks.html:16
-#: client/views/pages/kids/animationparks.html:66
+#: client/views/pages/kids/animals.html:60
+#: client/views/pages/kids/animationparks.html:19
+#: client/views/pages/kids/animationparks.html:77
 msgid "Children aged 3 - 12 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:352
+#: client/views/pages/kids/animals.html:394
 msgid "Children aged 3-15 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:370
+#: client/views/pages/kids/animals.html:412
 msgid "Children aged 4-12 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:243
+#: client/views/pages/kids/animals.html:272
 msgid "Children aged 5-16 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:304
+#: client/views/pages/kids/animals.html:342
 msgid "Children aged 5-9 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:126
+#: client/views/pages/kids/animals.html:143
 msgid "Children aged 6-12 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:158
+#: client/views/pages/kids/animals.html:179
 msgid "Children aged between 4 and 12 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:247
+#: client/views/pages/kids/animals.html:276
 msgid "Children aged under 5 years"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:12
+#: client/views/pages/kids/animationparks.html:15
 msgid "Children aged younger than 3 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:162
+#: client/views/pages/kids/animals.html:183
 msgid "Children aged younger than 4 years"
 msgstr ""
 
@@ -526,7 +526,7 @@ msgstr ""
 msgid "Closed every Tuesday and 25/12, 01/01 et 01/05"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:202
+#: client/views/pages/kids/animationparks.html:241
 msgid "Closed on Tuesdays, except during school vacancies"
 msgstr ""
 
@@ -546,7 +546,7 @@ msgstr ""
 msgid "Closed: 1st of May, the 25th of December, 1st of January"
 msgstr ""
 
-#: client/views/pages/other/other.html:22
+#: client/views/pages/other/other.html:40
 msgid "Combination of the two tours (1h)"
 msgstr ""
 
@@ -560,7 +560,7 @@ msgstr ""
 msgid "Curiosities"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:145
+#: client/views/pages/water/waterActivities.html:185
 msgid "Deep see fishing Boat Annett"
 msgstr ""
 
@@ -569,7 +569,7 @@ msgstr ""
 msgid "Departure"
 msgstr ""
 
-#: client/views/pages/other/other.html:17
+#: client/views/pages/other/other.html:35
 msgid "Departure at Palais des Festivals"
 msgstr ""
 
@@ -593,7 +593,7 @@ msgstr ""
 msgid "Distance"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:76
+#: client/views/pages/water/waterActivities.html:92
 msgid "Diving club"
 msgstr ""
 
@@ -611,7 +611,7 @@ msgstr ""
 msgid "Escape games"
 msgstr ""
 
-#: client/views/pages/other/other.html:5
+#: client/views/pages/other/other.html:10
 msgid "Essential nature"
 msgstr ""
 
@@ -635,11 +635,11 @@ msgstr ""
 msgid "Every day except Tuesdays, the 1st of Januar, the 1st of May and the 25th of December"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:86
+#: client/views/pages/kids/animals.html:99
 msgid "Every day from 10h – 18h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:233
+#: client/views/pages/kids/animals.html:262
 msgid "Every day from 9h-19h00"
 msgstr ""
 
@@ -679,19 +679,23 @@ msgstr ""
 msgid "Family offer"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:109
+#: client/views/pages/kids/animals.html:126
 msgid "February, March, April and May: 10h-12h and 14h – 17h"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:52
+#: client/views/pages/water/waterActivities.html:66
 msgid "First dive"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:56
+#: client/views/pages/water/waterActivities.html:70
 msgid "First trainings"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:121
+#: client/views/pages/water/waterActivities.html:168
+msgid "Fishing lakes"
+msgstr ""
+
+#: client/views/pages/water/waterActivities.html:151
 msgid "Fishing on lake and river"
 msgstr ""
 
@@ -724,10 +728,10 @@ msgstr ""
 #: client/views/pages/curiosities/museums.html:705
 #: client/views/pages/greenTourism/islands.html:108
 #: client/views/pages/greenTourism/islands.html:46
-#: client/views/pages/kids/animals.html:163
-#: client/views/pages/kids/animals.html:248
-#: client/views/pages/kids/animals.html:309
-#: client/views/pages/kids/animationparks.html:21
+#: client/views/pages/kids/animals.html:184
+#: client/views/pages/kids/animals.html:277
+#: client/views/pages/kids/animals.html:347
+#: client/views/pages/kids/animationparks.html:24
 msgid "Free"
 msgstr ""
 
@@ -738,15 +742,15 @@ msgstr ""
 msgid "Free entrance"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:96
+#: client/views/pages/kids/animationparks.html:111
 msgid "Free entrance (prices of rides: from 1.50 €)"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:224
+#: client/views/pages/kids/animationparks.html:270
 msgid "Free entrance (prices of rides: from € 0,77)"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:206
+#: client/views/pages/kids/animationparks.html:245
 msgid "Free entrance (prices of rides: from € 1,50)"
 msgstr ""
 
@@ -758,11 +762,11 @@ msgstr ""
 msgid "Free entrance for the 2nd child (between 7 and 17 year)"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:158
+#: client/views/pages/kids/animationparks.html:187
 msgid "Free entrance, Attractions from € 1 for children and € 2 for adults"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:340
+#: client/views/pages/kids/animals.html:382
 msgid "Free visit (1h without guide)"
 msgstr ""
 
@@ -774,7 +778,7 @@ msgstr ""
 msgid "From June until September: 10h-13h and 14h - 18h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:270
+#: client/views/pages/kids/animals.html:304
 msgid "From March until October: 9h30 - 19h30"
 msgstr ""
 
@@ -791,7 +795,7 @@ msgstr ""
 msgid "From October until March: 10h-12h and 14h - 17h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:271
+#: client/views/pages/kids/animals.html:305
 msgid "From October until March: 9h30 - 18h00"
 msgstr ""
 
@@ -804,15 +808,15 @@ msgstr ""
 msgid "From Tuesday until Sunday from 7h à 13h30 am"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:90
+#: client/views/pages/kids/animationparks.html:105
 msgid "From the 11th of June until the 1st of July: Every day from 20h30 - 1h. Saturdays from 16h-1h. Sundays from 15h - 1h"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:113
+#: client/views/pages/kids/animationparks.html:135
 msgid "From the 16th of June until the 1st of July and from the 27th of August until the 5th of September: 10h-18h00"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:334
+#: client/views/pages/kids/animals.html:376
 msgid "From the 1st of April until the 30th of June: Open every day, except Mondays from 10h-17h"
 msgstr ""
 
@@ -820,31 +824,31 @@ msgstr ""
 msgid "From the 1st of July until the 31st of August: 10h - 18h"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:201
+#: client/views/pages/kids/animationparks.html:240
 msgid "From the 1st of July until the 31st of August: 10h00-12h00 and 16h00 – 00h00"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:187
+#: client/views/pages/kids/animals.html:212
 msgid "From the 1st of July until the 31st of August: 9h25 – 10h40 – 11h55 – 14h15 – 15h30 – 16h45 – 18h00"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:335
+#: client/views/pages/kids/animals.html:377
 msgid "From the 1st of July until the 31st of August: Open every day from 10h-18h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:291
+#: client/views/pages/kids/animals.html:329
 msgid "From the 1st of June until the 31st of August: 10h – 18h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:292
+#: client/views/pages/kids/animals.html:330
 msgid "From the 1st of March until the 31st of May and from the 1st of September until the 31st of October: 10h-17h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:293
+#: client/views/pages/kids/animals.html:331
 msgid "From the 1st of November until the 28th of February: 10h30 – 16h30"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:336
+#: client/views/pages/kids/animals.html:378
 msgid "From the 1st of September until the 19th of November: Open every day, except Mondays from 10h-17h"
 msgstr ""
 
@@ -852,7 +856,7 @@ msgstr ""
 msgid "From the 1st of September until the 30th of June 1er : 10h - 17h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:188
+#: client/views/pages/kids/animals.html:213
 msgid "From the 1st of September until the 30th of September: 11h00 – 13h30 – 15h00 – 16h30"
 msgstr ""
 
@@ -864,7 +868,7 @@ msgstr ""
 msgid "From the 2nd of January until the 30th of April: Open every day from 10h00-17h00"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:114
+#: client/views/pages/kids/animationparks.html:136
 msgid "From the 2nd of July until the 26th of August: 10h00 - 19h00"
 msgstr ""
 
@@ -872,11 +876,11 @@ msgstr ""
 msgid "From the 2nd of May until the 31st of August: Open every day from 10h00-19h00"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:333
+#: client/views/pages/kids/animals.html:375
 msgid "From the 4th of January until the 31st of March Du 4: Open every day, except Mondays from 10h-16h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:186
+#: client/views/pages/kids/animals.html:211
 msgid "From the 7th of April until the 30th of June: 11h – 13h30 – 15h00 – 16h30"
 msgstr ""
 
@@ -891,7 +895,7 @@ msgstr ""
 #: client/views/pages/curiosities/museums.html:433
 #: client/views/pages/curiosities/museums.html:60
 #: client/views/pages/curiosities/museums.html:626
-#: client/views/pages/kids/animals.html:200
+#: client/views/pages/kids/animals.html:225
 msgid "Full price"
 msgstr ""
 
@@ -916,12 +920,12 @@ msgstr ""
 msgid "Green tourism"
 msgstr ""
 
-#: client/views/pages/golf/index.html:12
-#: client/views/pages/golf/index.html:44
+#: client/views/pages/golf/index.html:15
+#: client/views/pages/golf/index.html:51
 msgid "Green-fee (18 holes)"
 msgstr ""
 
-#: client/views/pages/golf/index.html:16
+#: client/views/pages/golf/index.html:19
 msgid "Green-fee (9 holes)"
 msgstr ""
 
@@ -957,7 +961,7 @@ msgstr ""
 msgid "Groups 10+ People"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:124
+#: client/views/pages/water/waterActivities.html:157
 msgid "Guide"
 msgstr ""
 
@@ -971,7 +975,7 @@ msgstr ""
 msgid "Guided visits"
 msgstr ""
 
-#: client/views/pages/other/other.html:4
+#: client/views/pages/other/other.html:7
 msgid "Guided visits at Mandelieu – Tourist office Mandelieu"
 msgstr ""
 
@@ -983,7 +987,7 @@ msgstr ""
 msgid "Guided visits: 14h30, 15h30"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:194
+#: client/views/pages/kids/animals.html:219
 msgid "Guided walk (1h)"
 msgstr ""
 
@@ -999,7 +1003,7 @@ msgstr ""
 msgid "High gastronomy"
 msgstr ""
 
-#: client/views/pages/other/other.html:10
+#: client/views/pages/other/other.html:21
 msgid "Historical visit"
 msgstr ""
 
@@ -1014,7 +1018,8 @@ msgstr ""
 msgid "International cuisine"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:42
+#: client/views/pages/water/waterActivities.html:50
+#: client/views/pages/water/waterActivities.html:55
 msgid "International diving center"
 msgstr ""
 
@@ -1033,7 +1038,7 @@ msgstr ""
 msgid "January : 9h-12h and 14h-18h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:108
+#: client/views/pages/kids/animals.html:125
 msgid "January and December: closed"
 msgstr ""
 
@@ -1046,7 +1051,7 @@ msgstr ""
 msgid "Japanese restaurant"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:161
+#: client/views/pages/water/waterActivities.html:204
 msgid "Jet ski"
 msgstr ""
 
@@ -1070,7 +1075,7 @@ msgstr ""
 msgid "July and August: Monday-Sunday : 10h-19h"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:91
+#: client/views/pages/kids/animationparks.html:106
 msgid "July-August: From Monday until Saturday: 17h - 2h. And Sunday from 15h - 2h"
 msgstr ""
 
@@ -1078,27 +1083,27 @@ msgstr ""
 msgid "June until September: Monday-Sunday : 10h-17h45"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:220
+#: client/views/pages/kids/animationparks.html:266
 msgid "June until September: from 20h - 1h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:110
+#: client/views/pages/kids/animals.html:127
 msgid "June, July and August: 10h – 18h"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:154
+#: client/views/pages/kids/animationparks.html:183
 msgid "June, July and August: every day from 20h00"
 msgstr ""
 
-#: client/views/pages/other/other.html:12
+#: client/views/pages/other/other.html:23
 msgid "La Croisette"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:12
+#: client/views/pages/water/waterActivities.html:18
 msgid "La lessons : € 40,00"
 msgstr ""
 
-#: client/views/pages/other/other.html:20
+#: client/views/pages/other/other.html:38
 msgid "La promenade de la Croisette (35min)"
 msgstr ""
 
@@ -1183,7 +1188,7 @@ msgstr ""
 msgid "May until October: 10h - 18h"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:218
+#: client/views/pages/kids/animationparks.html:264
 msgid "May: from 18h"
 msgstr ""
 
@@ -1253,15 +1258,15 @@ msgstr ""
 msgid "Open every day"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:216
+#: client/views/pages/kids/animationparks.html:262
 msgid "Open every day from April until September"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:112
+#: client/views/pages/kids/animationparks.html:134
 msgid "Open every day from the 16th of June until the 5th of September"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:185
+#: client/views/pages/kids/animals.html:210
 msgid "Open every day from the 7th of April until the 30th of September"
 msgstr ""
 
@@ -1269,7 +1274,7 @@ msgstr ""
 msgid "Open every day in school vacancies from the 8th of April: 13h – 18h"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:38
+#: client/views/pages/kids/animationparks.html:45
 msgid "Open every day in school vacations from the 8th of April: 13h – 18h and Wednesday, Saturday and Sunday, not during school vacations: 13h-18h"
 msgstr ""
 
@@ -1281,7 +1286,7 @@ msgstr ""
 msgid "Open every day, the whole year (from 7h-19h)"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:148
+#: client/views/pages/kids/animals.html:169
 msgid "Open every day, the whole year from 10h00 – 18h00"
 msgstr ""
 
@@ -1289,7 +1294,7 @@ msgstr ""
 msgid "Open every day, the whole year from10h -18h except:"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:200
+#: client/views/pages/kids/animationparks.html:239
 msgid "Open every day: 10h00 – 12h00 and 14h00-18h30"
 msgstr ""
 
@@ -1305,7 +1310,7 @@ msgstr ""
 msgid "Open from 14h -17h"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:6
+#: client/views/pages/water/waterActivities.html:12
 msgid "Open from May until October. Groups welcome (min. 10 persons) Personalized lessons"
 msgstr ""
 
@@ -1313,8 +1318,8 @@ msgstr ""
 msgid "Open from Monday until Friday : 9h00 -12h00 and 14h00 – 18h00"
 msgstr ""
 
-#: client/views/pages/golf/index.html:38
-#: client/views/pages/golf/index.html:6
+#: client/views/pages/golf/index.html:45
+#: client/views/pages/golf/index.html:9
 msgid "Open the whole year"
 msgstr ""
 
@@ -1341,28 +1346,28 @@ msgstr ""
 #: client/views/pages/curiosities/museums.html:662
 #: client/views/pages/curiosities/museums.html:8
 #: client/views/pages/curiosities/museums.html:93
-#: client/views/pages/golf/index.html:37
-#: client/views/pages/golf/index.html:5
+#: client/views/pages/golf/index.html:44
+#: client/views/pages/golf/index.html:8
 #: client/views/pages/greenTourism/sports.html:103
-#: client/views/pages/kids/animals.html:106
-#: client/views/pages/kids/animals.html:147
-#: client/views/pages/kids/animals.html:183
-#: client/views/pages/kids/animals.html:232
-#: client/views/pages/kids/animals.html:268
-#: client/views/pages/kids/animals.html:289
-#: client/views/pages/kids/animals.html:330
-#: client/views/pages/kids/animals.html:36
-#: client/views/pages/kids/animals.html:84
-#: client/views/pages/kids/animationparks.html:110
-#: client/views/pages/kids/animationparks.html:151
-#: client/views/pages/kids/animationparks.html:198
-#: client/views/pages/kids/animationparks.html:215
-#: client/views/pages/kids/animationparks.html:37
-#: client/views/pages/kids/animationparks.html:5
-#: client/views/pages/kids/animationparks.html:51
-#: client/views/pages/kids/animationparks.html:87
+#: client/views/pages/kids/animals.html:123
+#: client/views/pages/kids/animals.html:168
+#: client/views/pages/kids/animals.html:208
+#: client/views/pages/kids/animals.html:261
+#: client/views/pages/kids/animals.html:302
+#: client/views/pages/kids/animals.html:327
+#: client/views/pages/kids/animals.html:372
+#: client/views/pages/kids/animals.html:45
+#: client/views/pages/kids/animals.html:97
+#: client/views/pages/kids/animationparks.html:102
+#: client/views/pages/kids/animationparks.html:132
+#: client/views/pages/kids/animationparks.html:180
+#: client/views/pages/kids/animationparks.html:237
+#: client/views/pages/kids/animationparks.html:261
+#: client/views/pages/kids/animationparks.html:44
+#: client/views/pages/kids/animationparks.html:62
+#: client/views/pages/kids/animationparks.html:8
 #: client/views/pages/water/nauticalCenter.html:4
-#: client/views/pages/water/waterActivities.html:5
+#: client/views/pages/water/waterActivities.html:11
 msgid "Opening hours"
 msgstr ""
 
@@ -1380,7 +1385,7 @@ msgstr ""
 msgid "Other activities"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:25
+#: client/views/pages/water/waterActivities.html:31
 msgid "Parasailing"
 msgstr ""
 
@@ -1441,28 +1446,28 @@ msgstr ""
 #: client/views/pages/curiosities/museums.html:569
 #: client/views/pages/curiosities/museums.html:617
 #: client/views/pages/curiosities/museums.html:688
-#: client/views/pages/golf/index.html:40
-#: client/views/pages/golf/index.html:8
+#: client/views/pages/golf/index.html:11
+#: client/views/pages/golf/index.html:47
 #: client/views/pages/greenTourism/islands.html:33
 #: client/views/pages/greenTourism/islands.html:91
-#: client/views/pages/kids/animals.html:114
-#: client/views/pages/kids/animals.html:150
-#: client/views/pages/kids/animals.html:192
-#: client/views/pages/kids/animals.html:235
-#: client/views/pages/kids/animals.html:296
-#: client/views/pages/kids/animals.html:339
-#: client/views/pages/kids/animals.html:43
-#: client/views/pages/kids/animationparks.html:117
-#: client/views/pages/kids/animationparks.html:157
-#: client/views/pages/kids/animationparks.html:172
-#: client/views/pages/kids/animationparks.html:205
-#: client/views/pages/kids/animationparks.html:223
-#: client/views/pages/kids/animationparks.html:58
-#: client/views/pages/kids/animationparks.html:8
-#: client/views/pages/kids/animationparks.html:95
-#: client/views/pages/other/escapeGames.html:40
-#: client/views/pages/other/escapeGames.html:6
-#: client/views/pages/water/waterActivities.html:44
+#: client/views/pages/kids/animals.html:131
+#: client/views/pages/kids/animals.html:171
+#: client/views/pages/kids/animals.html:217
+#: client/views/pages/kids/animals.html:264
+#: client/views/pages/kids/animals.html:334
+#: client/views/pages/kids/animals.html:381
+#: client/views/pages/kids/animals.html:52
+#: client/views/pages/kids/animationparks.html:11
+#: client/views/pages/kids/animationparks.html:110
+#: client/views/pages/kids/animationparks.html:139
+#: client/views/pages/kids/animationparks.html:186
+#: client/views/pages/kids/animationparks.html:204
+#: client/views/pages/kids/animationparks.html:244
+#: client/views/pages/kids/animationparks.html:269
+#: client/views/pages/kids/animationparks.html:69
+#: client/views/pages/other/escapeGames.html:57
+#: client/views/pages/other/escapeGames.html:8
+#: client/views/pages/water/waterActivities.html:58
 msgid "Rates"
 msgstr ""
 
@@ -1497,9 +1502,9 @@ msgstr ""
 msgid "Reduced rate: students and groups(min. 10 People)"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:56
-#: client/views/pages/kids/animals.html:64
-#: client/views/pages/kids/animationparks.html:70
+#: client/views/pages/kids/animals.html:65
+#: client/views/pages/kids/animals.html:73
+#: client/views/pages/kids/animationparks.html:81
 msgid "Reduction Early Booking"
 msgstr ""
 
@@ -1512,7 +1517,7 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:88
+#: client/views/pages/kids/animals.html:101
 msgid "Safaris departures on feet : 10h – 11h30 – 14h – 15h30"
 msgstr ""
 
@@ -1528,7 +1533,7 @@ msgstr ""
 msgid "Sea products"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:133
+#: client/views/pages/kids/animationparks.html:155
 msgid "Seniors (+65)"
 msgstr ""
 
@@ -1546,7 +1551,7 @@ msgstr ""
 msgid "September"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:92
+#: client/views/pages/kids/animationparks.html:107
 msgid "September : Every weekend from 16h - 2h"
 msgstr ""
 
@@ -1554,7 +1559,7 @@ msgstr ""
 msgid "September : Tuesday-Sunday : 10h-13h and 14h-18h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:111
+#: client/views/pages/kids/animals.html:128
 msgid "September, October and November: 10h – 12h and 14h – 17h"
 msgstr ""
 
@@ -1576,7 +1581,7 @@ msgstr ""
 msgid "Special Pricing"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:208
+#: client/views/pages/kids/animals.html:233
 msgid "Special rate from July until August (only at 9h25)"
 msgstr ""
 
@@ -1596,7 +1601,7 @@ msgstr ""
 msgid "Starting at"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:19
+#: client/views/pages/water/waterActivities.html:25
 msgid "Starting at € 20,00"
 msgstr ""
 
@@ -1732,10 +1737,10 @@ msgstr ""
 #: client/views/pages/curiosities/museums.html:646
 #: client/views/pages/curiosities/museums.html:713
 #: client/views/pages/curiosities/museums.html:77
-#: client/views/pages/golf/index.html:25
-#: client/views/pages/golf/index.html:61
-#: client/views/pages/golf/index.html:77
-#: client/views/pages/golf/index.html:93
+#: client/views/pages/golf/index.html:106
+#: client/views/pages/golf/index.html:28
+#: client/views/pages/golf/index.html:68
+#: client/views/pages/golf/index.html:87
 #: client/views/pages/greenTourism/mountains.html:11
 #: client/views/pages/greenTourism/sports.html:11
 #: client/views/pages/greenTourism/sports.html:112
@@ -1743,50 +1748,50 @@ msgstr ""
 #: client/views/pages/greenTourism/sports.html:49
 #: client/views/pages/greenTourism/sports.html:67
 #: client/views/pages/greenTourism/sports.html:85
-#: client/views/pages/kids/animals.html:135
-#: client/views/pages/kids/animals.html:171
-#: client/views/pages/kids/animals.html:220
-#: client/views/pages/kids/animals.html:24
-#: client/views/pages/kids/animals.html:256
-#: client/views/pages/kids/animals.html:277
-#: client/views/pages/kids/animals.html:318
-#: client/views/pages/kids/animals.html:379
-#: client/views/pages/kids/animals.html:8
-#: client/views/pages/kids/animals.html:94
-#: client/views/pages/kids/animationparks.html:100
-#: client/views/pages/kids/animationparks.html:141
-#: client/views/pages/kids/animationparks.html:188
-#: client/views/pages/kids/animationparks.html:210
-#: client/views/pages/kids/animationparks.html:228
-#: client/views/pages/other/escapeGames.html:27
-#: client/views/pages/other/escapeGames.html:53
-#: client/views/pages/other/other.html:32
-#: client/views/pages/other/other.html:48
-#: client/views/pages/other/other.html:64
-#: client/views/pages/other/other.html:80
-#: client/views/pages/other/spa.html:9
+#: client/views/pages/kids/animals.html:10
+#: client/views/pages/kids/animals.html:107
+#: client/views/pages/kids/animals.html:152
+#: client/views/pages/kids/animals.html:192
+#: client/views/pages/kids/animals.html:245
+#: client/views/pages/kids/animals.html:285
+#: client/views/pages/kids/animals.html:29
+#: client/views/pages/kids/animals.html:311
+#: client/views/pages/kids/animals.html:356
+#: client/views/pages/kids/animals.html:421
+#: client/views/pages/kids/animationparks.html:116
+#: client/views/pages/kids/animationparks.html:164
+#: client/views/pages/kids/animationparks.html:221
+#: client/views/pages/kids/animationparks.html:250
+#: client/views/pages/kids/animationparks.html:275
+#: client/views/pages/other/escapeGames.html:41
+#: client/views/pages/other/escapeGames.html:74
+#: client/views/pages/other/other.html:118
+#: client/views/pages/other/other.html:55
+#: client/views/pages/other/other.html:76
+#: client/views/pages/other/other.html:97
+#: client/views/pages/other/spa.html:11
 #: client/views/pages/water/nauticalCenter.html:10
-#: client/views/pages/water/waterActivities.html:110
-#: client/views/pages/water/waterActivities.html:14
-#: client/views/pages/water/waterActivities.html:150
-#: client/views/pages/water/waterActivities.html:167
-#: client/views/pages/water/waterActivities.html:181
-#: client/views/pages/water/waterActivities.html:195
-#: client/views/pages/water/waterActivities.html:21
-#: client/views/pages/water/waterActivities.html:212
-#: client/views/pages/water/waterActivities.html:228
-#: client/views/pages/water/waterActivities.html:28
-#: client/views/pages/water/waterActivities.html:65
-#: client/views/pages/water/waterActivities.html:82
-#: client/views/pages/water/waterActivities.html:96
+#: client/views/pages/water/waterActivities.html:101
+#: client/views/pages/water/waterActivities.html:120
+#: client/views/pages/water/waterActivities.html:138
+#: client/views/pages/water/waterActivities.html:191
+#: client/views/pages/water/waterActivities.html:20
+#: client/views/pages/water/waterActivities.html:213
+#: client/views/pages/water/waterActivities.html:232
+#: client/views/pages/water/waterActivities.html:251
+#: client/views/pages/water/waterActivities.html:27
+#: client/views/pages/water/waterActivities.html:273
+#: client/views/pages/water/waterActivities.html:296
+#: client/views/pages/water/waterActivities.html:34
+#: client/views/pages/water/waterActivities.html:79
 msgid "Tel."
 msgstr ""
 
-#: client/views/pages/kids/animals.html:38
+#: client/views/pages/kids/animals.html:47
 msgid "The 11th of February until the 6th of April: 10h - 18h"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:40
+#: client/views/pages/kids/animals.html:49
 msgid "The 1st of July until the 2nd of September: 10h – 23h"
 msgstr ""
 
@@ -1802,7 +1807,7 @@ msgstr ""
 msgid "The 2nd child (between 7 and 17 year)"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:39
+#: client/views/pages/kids/animals.html:48
 msgid "The 7th of April until the 29th of June: 10h - 19h"
 msgstr ""
 
@@ -1826,11 +1831,11 @@ msgstr ""
 msgid "The beach"
 msgstr ""
 
-#: client/views/pages/other/other.html:21
+#: client/views/pages/other/other.html:39
 msgid "The historical Suquet (35min)"
 msgstr ""
 
-#: client/views/pages/other/other.html:16
+#: client/views/pages/other/other.html:31
 msgid "The little touristic train"
 msgstr ""
 
@@ -1879,7 +1884,7 @@ msgstr ""
 msgid "Time"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:332
+#: client/views/pages/kids/animals.html:374
 msgid "Time of 1 visit: 1 hours"
 msgstr ""
 
@@ -1907,16 +1912,12 @@ msgstr ""
 msgid "Train"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:358
+#: client/views/pages/kids/animals.html:400
 msgid "Treasure hunt (2h)"
 msgstr ""
 
 #: client/views/pages/greenTourism/sports.html:97
 msgid "Tree climbing"
-msgstr ""
-
-#: client/views/pages/water/waterActivities.html:132
-msgid "Troat fishing"
 msgstr ""
 
 #: client/views/pages/curiosities/markets.html:45
@@ -1953,11 +1954,11 @@ msgid "Villas and castles"
 msgstr ""
 
 #: client/views/pages/curiosities/artisanal.html:131
-#: client/views/pages/other/other.html:75
+#: client/views/pages/other/other.html:112
 msgid "Vineyard in Provence: guided tour of the cellar + wine tasting"
 msgstr ""
 
-#: client/views/pages/other/other.html:59
+#: client/views/pages/other/other.html:91
 msgid "Visit of the oil Mill"
 msgstr ""
 
@@ -1973,7 +1974,7 @@ msgstr ""
 msgid "Visit without guide"
 msgstr ""
 
-#: client/views/pages/other/other.html:8
+#: client/views/pages/other/other.html:17
 msgid "Visites guidées Cannes – Tourist office Cannes"
 msgstr ""
 
@@ -1986,11 +1987,12 @@ msgstr ""
 msgid "Water activities"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:4
+#: client/views/pages/water/waterActivities.html:2
+#: client/views/pages/water/waterActivities.html:8
 msgid "Water skiing and parasailing"
 msgstr ""
 
-#: client/views/pages/water/waterActivities.html:10
+#: client/views/pages/water/waterActivities.html:16
 msgid "Water skiing– bi – mono – wakeboard"
 msgstr ""
 
@@ -2017,10 +2019,10 @@ msgstr ""
 #: client/views/pages/curiosities/museums.html:650
 #: client/views/pages/curiosities/museums.html:717
 #: client/views/pages/curiosities/museums.html:81
-#: client/views/pages/golf/index.html:29
-#: client/views/pages/golf/index.html:65
-#: client/views/pages/golf/index.html:81
-#: client/views/pages/golf/index.html:97
+#: client/views/pages/golf/index.html:110
+#: client/views/pages/golf/index.html:32
+#: client/views/pages/golf/index.html:72
+#: client/views/pages/golf/index.html:91
 #: client/views/pages/greenTourism/islands.html:117
 #: client/views/pages/greenTourism/islands.html:55
 #: client/views/pages/greenTourism/mountains.html:15
@@ -2031,46 +2033,46 @@ msgstr ""
 #: client/views/pages/greenTourism/sports.html:53
 #: client/views/pages/greenTourism/sports.html:71
 #: client/views/pages/greenTourism/sports.html:89
-#: client/views/pages/kids/animals.html:12
-#: client/views/pages/kids/animals.html:139
-#: client/views/pages/kids/animals.html:175
-#: client/views/pages/kids/animals.html:224
-#: client/views/pages/kids/animals.html:260
-#: client/views/pages/kids/animals.html:28
-#: client/views/pages/kids/animals.html:281
-#: client/views/pages/kids/animals.html:322
-#: client/views/pages/kids/animals.html:383
-#: client/views/pages/kids/animals.html:76
-#: client/views/pages/kids/animals.html:98
-#: client/views/pages/kids/animationparks.html:102
-#: client/views/pages/kids/animationparks.html:143
-#: client/views/pages/kids/animationparks.html:163
-#: client/views/pages/kids/animationparks.html:190
-#: client/views/pages/kids/animationparks.html:230
-#: client/views/pages/kids/animationparks.html:29
-#: client/views/pages/kids/animationparks.html:43
-#: client/views/pages/kids/animationparks.html:79
-#: client/views/pages/other/escapeGames.html:31
-#: client/views/pages/other/escapeGames.html:57
-#: client/views/pages/other/other.html:36
-#: client/views/pages/other/other.html:52
-#: client/views/pages/other/other.html:68
-#: client/views/pages/other/other.html:84
-#: client/views/pages/other/spa.html:13
-#: client/views/pages/other/spa.html:25
+#: client/views/pages/kids/animals.html:111
+#: client/views/pages/kids/animals.html:14
+#: client/views/pages/kids/animals.html:156
+#: client/views/pages/kids/animals.html:196
+#: client/views/pages/kids/animals.html:249
+#: client/views/pages/kids/animals.html:289
+#: client/views/pages/kids/animals.html:315
+#: client/views/pages/kids/animals.html:33
+#: client/views/pages/kids/animals.html:360
+#: client/views/pages/kids/animals.html:425
+#: client/views/pages/kids/animals.html:85
+#: client/views/pages/kids/animationparks.html:120
+#: client/views/pages/kids/animationparks.html:168
+#: client/views/pages/kids/animationparks.html:192
+#: client/views/pages/kids/animationparks.html:225
+#: client/views/pages/kids/animationparks.html:279
+#: client/views/pages/kids/animationparks.html:32
+#: client/views/pages/kids/animationparks.html:50
+#: client/views/pages/kids/animationparks.html:90
+#: client/views/pages/other/escapeGames.html:45
+#: client/views/pages/other/escapeGames.html:78
+#: client/views/pages/other/other.html:101
+#: client/views/pages/other/other.html:122
+#: client/views/pages/other/other.html:59
+#: client/views/pages/other/other.html:80
+#: client/views/pages/other/spa.html:15
+#: client/views/pages/other/spa.html:30
 #: client/views/pages/publicTransportation/helicopter.html:19
-#: client/views/pages/water/waterActivities.html:100
-#: client/views/pages/water/waterActivities.html:114
-#: client/views/pages/water/waterActivities.html:138
-#: client/views/pages/water/waterActivities.html:154
-#: client/views/pages/water/waterActivities.html:171
-#: client/views/pages/water/waterActivities.html:185
-#: client/views/pages/water/waterActivities.html:199
-#: client/views/pages/water/waterActivities.html:216
-#: client/views/pages/water/waterActivities.html:232
-#: client/views/pages/water/waterActivities.html:35
-#: client/views/pages/water/waterActivities.html:69
-#: client/views/pages/water/waterActivities.html:86
+#: client/views/pages/water/waterActivities.html:105
+#: client/views/pages/water/waterActivities.html:124
+#: client/views/pages/water/waterActivities.html:142
+#: client/views/pages/water/waterActivities.html:174
+#: client/views/pages/water/waterActivities.html:195
+#: client/views/pages/water/waterActivities.html:217
+#: client/views/pages/water/waterActivities.html:236
+#: client/views/pages/water/waterActivities.html:255
+#: client/views/pages/water/waterActivities.html:277
+#: client/views/pages/water/waterActivities.html:300
+#: client/views/pages/water/waterActivities.html:41
+#: client/views/pages/water/waterActivities.html:83
 msgid "Website"
 msgstr ""
 
@@ -2078,7 +2080,7 @@ msgstr ""
 msgid "Wednesday morning : Quartier des Termes <br>Place des Combattants d’Indochine and d’Afrique du Nord<br>City center (in front of Esterel Gallery) and at the parking Casinca (in front of Escota)"
 msgstr ""
 
-#: client/views/pages/kids/animationparks.html:6
+#: client/views/pages/kids/animationparks.html:9
 msgid "Wednesday, Saturday and Sunday + Holidays: from 10h – 19h"
 msgstr ""
 
@@ -2090,7 +2092,7 @@ msgstr ""
 msgid "Younger than 26 years"
 msgstr ""
 
-#: client/views/pages/kids/animals.html:210
+#: client/views/pages/kids/animals.html:235
 msgid "and"
 msgstr ""
 
@@ -2150,17 +2152,17 @@ msgstr ""
 msgid "per person"
 msgstr ""
 
-#: client/views/pages/other/escapeGames.html:11
-#: client/views/pages/other/escapeGames.html:15
-#: client/views/pages/other/escapeGames.html:19
-#: client/views/pages/other/escapeGames.html:45
+#: client/views/pages/other/escapeGames.html:16
+#: client/views/pages/other/escapeGames.html:24
+#: client/views/pages/other/escapeGames.html:32
+#: client/views/pages/other/escapeGames.html:65
 msgid "person"
 msgstr ""
 
-#: client/views/pages/other/escapeGames.html:10
-#: client/views/pages/other/escapeGames.html:14
-#: client/views/pages/other/escapeGames.html:18
-#: client/views/pages/other/escapeGames.html:44
+#: client/views/pages/other/escapeGames.html:13
+#: client/views/pages/other/escapeGames.html:21
+#: client/views/pages/other/escapeGames.html:29
+#: client/views/pages/other/escapeGames.html:62
 msgid "players"
 msgstr ""
 
